@@ -16,7 +16,7 @@
         <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
     {{ else if and .Site.Config.Services.Disqus.Shortname .Params.showComments }}
         {{ template "_internal/disqus.html" . }}
-    {{ end }}
+    {{ else if .Site.Params.giscus }}
     <script src="https://giscus.app/client.js"
         data-repo="writingdoge/writingdoge.github.io"
         data-repo-id="R_kgDOM7NSPQ"
@@ -32,4 +32,5 @@
         crossorigin="anonymous"
         async>
     </script>
+    {{ end }}
 </div>
