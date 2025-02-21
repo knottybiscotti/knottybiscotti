@@ -323,7 +323,7 @@ menu = [
 ```
 
 ### The front page
-When visiting the base url for the site, i.e. `your.domain.com/`, a paginated feed of your recently added content is displayed in reverse chronological order. By default, only content in the "posts" [page bundle](https://gohugo.io/content-management/page-bundles/) is displayed. You can configure a list of page bundle names to be included on this page by adding the `front_page_content` parameter to your config.toml file.
+When visiting the base url for the site, i.e. `your.domain.com/`, a paginated feed of your recently added content is displayed in reverse chronological order. By default, only content in the "posts" [page bundle](https://gohugo.io/content-management/page-bundles/) is displayed. You can configure a list of page bundle names to be included on this page by adding the `front_page_content` parameter to your hugo.toml file.
 
 ```toml
 [params]
@@ -346,7 +346,7 @@ title = 'Foo'
 ```
 
 ### Example config
-I recommend starting by copying/pasting the following code into your config.toml file.  Once you see how it looks, play with the settings as needed.
+I recommend starting by copying/pasting the following code into your hugo.toml file.  Once you see how it looks, play with the settings as needed.
 
 **NOTE**: To display an image in your sidebar, you'll need to uncomment the `remote_brand_image` and set a image URL or the `brand_image` path below and have it point to an image file in your project.  The path is relative to the `static` directory.  If you don't have an image, just leave both lines commented out.
 
@@ -354,11 +354,15 @@ I recommend starting by copying/pasting the following code into your config.toml
 baseURL = "/"
 languageCode = "en-us"
 theme = "poison"
-paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
-# NOTE: If using Disqus as commenting engine, uncomment and configure this line
-# disqusShortname = "yourDisqusShortname"
+# NOTE: If using Disqus as commenting engine, uncomment and configure the lines below
+#[services]
+#  [services.disqus]
+    # shortname = "yourDisqusShortname"
+
+[pagination]
+    pagerSize = 10
 
 [params]
     brand = "Poison"                      # name of your site - appears in the sidebar
