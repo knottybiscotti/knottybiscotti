@@ -181,13 +181,24 @@ tags: ["Hugo"]
 ### KaTeX
 Make your mathematical notations pop.
 
-For notations that should appear on their own line, use the block quotes `$$ ... $$`
+Update your site configuration to enable the passthrough extension and define opening and closing delimiters for each passthrough element type, either block or inline. For example:
+
+```
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+```
+
+Then, for notations that should appear on their own line, use the block quotes `$$ ... $$`
 
 $$ 5 \times 5 = 25 $$
 
-For notations that should appear on the same line, use the inline quotes `$ ... $`
-
-**Note**: *Enabling KaTeX will add external dependencies.*
+For notations that should appear on the same line, use the inline quotes `\( ... \)`
 
 ### Tabs
 Some content is just better viewed in tabs.  Luckily we have a shortcode for that.
