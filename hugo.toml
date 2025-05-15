@@ -1,8 +1,8 @@
-baseURL = "/"
+BaseURL = "/"
 languageCode = 'en-ca'
 title = "Knotty Biscotti's Sweets and Snacks"
 theme = 'poison'
-pluralizelisttitles = true
+#pluralizelisttitles = true
 
 [pagination]
 pagerSize = 10
