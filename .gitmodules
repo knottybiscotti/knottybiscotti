@@ -1,3 +1,4 @@
 [submodule "themes/poison"]
 	path = themes/poison
-	url = https://github.com/lukeorth/poison.git
+   url = https://github.com/knottybiscotti/poison.git
+   branch = kb/add-kofi-social
