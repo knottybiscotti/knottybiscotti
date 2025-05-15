@@ -1,0 +1,143 @@
+@font-face {
+   font-family: 'Architects Daughter';
+   src:  url('./fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
+}
+
+@font-face {
+   font-family: 'Permanent Marker';
+   src:  url('./fonts/PermanentMarker-Regular.ttf') format('ttf');
+}
+
+@font-face {
+   font-family: 'ABeeZee';
+   src:  url('./fonts/ABeeZee-Regular.ttf') format('ttf'),
+         url('./fonts/ABeeZee-Italic.ttf') format('ttf');
+}
+
+@font-face {
+   font-family: 'Varela Round';
+   src:  url('./fonts/VarelaRound-Regular.ttf') format('ttf');
+}
+
+@font-face {
+   font-family: 'Rubik';
+   src:  url('./fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
+         url('./fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
+}
+
+:root {
+    --h1-colour:              #283618;
+    --sub-colour:             #606C38;
+    --bg-colour:              #FEFAE0;
+    --sidebar-bg-colour:      #0f1607;
+    --fg-colour:              #2D2D27;
+    --accent-colour:          #a35d1f;
+    --nav-shadow:             #9C8A79;
+    --nav-background:         #DDA15E;
+    --nav-text:               #321904;
+    --font-title:             'Architects Daughter';
+    --font-body:              'ABeeZee';
+    --font-banner:            'Permanent Marker';
+}
+
+.sidebar h1 {
+    font-family: var(--font-banner);
+    font-weight: light;
+    font-size: larger;
+    /* color: var(--h1-colour) !important; */
+}
+
+.sidebar {
+   font-family: var(--font-body);
+   font-weight: 100;
+   font-size: 16px;
+}
+
+a {
+   text-decoration: none;
+   color: var(--accent-colour);
+}
+
+.sidebar a {
+   text-decoration: none;
+   color: var(--bg-colour);
+}
+
+.sidebar a:hover {
+   text-decoration: none;
+   background: var(--bg-colour);
+   color: var(--fg-colour);
+}
+
+a.social:hover {
+   text-decoration: none;
+   background: var(--sidebar-bg-colour);
+}
+
+.content.container {
+   font-family: var(--font-body);
+   font-weight: 200;
+   font-size: 16px;
+}
+
+.dark-theme .content a {
+   color: #DDA15E;
+}
+
+.dark-theme .tags li a {
+    color: var(--table-stripe-color);
+}
+
+signature {
+    font-family: var(--font-title);
+    font-size: larger;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: right;
+    display: block;
+    color: var(--accent-colour);
+}
+
+.dark-theme signature {
+   color: var(--nav-background);
+}
+
+hr {
+    clear: both;
+    border: 1px solid var(--sub-colour);
+    color: var(--sub-colour);
+    width: 66%;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1 {
+    font-family: var(--font-title);
+    font-weight: bold;
+    /* color: var(--h1-colour) !important; */
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: var(--font-title);
+    /* color: var(--sub-colour) !important; */
+}
+
+/* Below here is just me fighting the poison template */
+.bullet {
+   text-decoration: none;
+}
+
+.headline ul {
+   width: 75%;
+}
+
+.info ul li {
+    float: right;
+}
+
+.headline div span {
+   display: none;
+}

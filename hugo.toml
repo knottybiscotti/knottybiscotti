@@ -2,20 +2,20 @@ BaseURL = "/"
 languageCode = 'en-ca'
 title = "Knotty Biscotti's Sweets and Snacks"
 theme = 'poison'
-#pluralizelisttitles = true
+pluralizelisttitles = false
 
 [pagination]
 pagerSize = 10
 
 [params]
-    brand = "Knotty Biscotti's Naughty Treats"                      # name of your site - appears in the sidebar
+    brand = "Knotty Biscotti's (sometimes) Naughty Treats"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
-    # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
-    description = "Knotty Biscotti's treats, sometimes naughty." # Used as default meta description if not specified in front matter
+    brand_image = "/images/kb.png"    # path to the image shown in the sidebar
+    description = "Beware the spice!" # Used as default meta description if not specified in front matter
     dark_mode = false                      # optional - defaults to false
-    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "./favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["news"] 
+    front_page_content = [ "Updates" ]
 
     menu = [
         # Dict keys:
@@ -35,33 +35,23 @@ pagerSize = 10
     bluesky_url = "https://bsky.app/profile/knottybiscotti.bsky.social"
     kofi_url = "https://ko-fi.com/knottybiscotti"
     mastodon_url = "https://universeodon.com/@kbray"
+    #github_url = "https://github.com"
     #discord_url = "https://discord.com"
     #email_url = "mailto://user@domain"
-    # --------------------------------------------------------------------------------
-    #facebook_url = "https://facebook.com"
-    #flickr_url = "https://flickr.com"
-    #github_url = "https://github.com"
     #gitlab_url = "https://gitlab.com"
     #instagram_url = "https://instagram.com"
-    #linkedin_url = "https://linkedin.com"
-    #matrix_url = "https://matrix.org"
-    #telegram_url = "https://telegram.org"
-    #tryhackme_url = "https://tryhackme.com"
-    #twitter_url = "https://twitter.com"
-    #x_url = "https://x.com"
-    #xmpp_url = "https://xmpp.org"
-    #youtube_url = "https://youtube.com"
     #signal_url = "https://signal.org"
+    #telegram_url = "https://telegram.org"
 
     # Hex colors for your sidebar.
     moon_sun_background_color = "#283618"   # default is #515151
-    moon_sun_color = "#FEFAE0"                 # default is #FFF
-    sidebar_a_color = "#FEFAE0"                # default is #FFF
-    sidebar_bg_color = "#202020"            # default is #202020
-    sidebar_h1_color = "#FEFAE0"               # default is #FFF
-    sidebar_img_border_color = "#283618"    # default is #515151
-    sidebar_p_color = "#909090"             # default is #909090
-    sidebar_socials_color = "#FEFAE0"          # default is #FFF
+    moon_sun_color            = "#FEFAE0"   # default is #FFF
+    sidebar_a_color           = "#FEFAE0"   # default is #FFF
+    sidebar_bg_color          = "#0f1607"   # default is #202020
+    sidebar_h1_color          = "#DDA15E"   # default is #FFF
+    sidebar_img_border_color  = "#283618"   # default is #515151
+    sidebar_p_color           = "#807d70"   # default is #909090
+    sidebar_socials_color     = "#FEFAE0"   # default is #FFF
 
     # Hex colors for your content in light mode.
     code_color = "#000"                     # default is #000
@@ -70,7 +60,7 @@ pagerSize = 10
     code_block_background_color = "#272822" # default is #272822
     content_bg_color = "#FEFAE0"            # default is #FAF9F6
     date_color = "#283618"                  # default is #515151
-    link_color = "#268BD2"                  # default is #268BD2
+    link_color = "#BC6C25"                  # default is #268BD2
     list_color = "#5A5A5A"                  # default is #5A5A5A
     post_title_color = "#303030"            # default is #303030
     table_border_color = "#E5E5E5"          # default is #E5E5E5
@@ -82,13 +72,13 @@ pagerSize = 10
     code_background_color_dark = "#283618"          # default is #515151
     code_block_color_dark = "#FEFAE0"                  # default is #FFF
     code_block_background_color_dark = "#272822"    # default is #272822
-    content_bg_color_dark = "#121212"               # default is #121212
+    content_bg_color_dark            = "#151e0a"               # default is #121212
     date_color_dark = "#9A9A9A"                     # default is #9A9A9A
-    link_color_dark = "#268BD2"                     # default is #268BD2
+    link_color_dark                  = "#DDA15E"                     # default is #268BD2
     list_color_dark = "#9D9D9D"                     # default is #9D9D9D
     post_title_color_dark = "#DBE2E9"               # default is #DBE2E9
     table_border_color_dark = "#283618"             # default is #515151
-    table_stripe_color_dark = "#202020"             # default is #202020
+    table_stripe_color_dark = "#0f1607"             # default is #202020
     text_color_dark = "#EEE"                        # default is #EEE
 
 [taxonomies]
