@@ -1,9 +1,10 @@
 ---
 layout: "single"
-title: Knotty Biscotti's (sometimes) Naughty Treats
-tags: [ "welcome" ]
-description: 👋 Welcome All! 🏳️‍🌈 🏳️‍⚧️
-draft: true
+tags: 
+- welcome
+title: 👋 Welcome All! 🏳️‍🌈 🏳️‍⚧️
+summary: Just a big old welcome page!
+draft: false
 date: 2025-05-13
 ---
 
