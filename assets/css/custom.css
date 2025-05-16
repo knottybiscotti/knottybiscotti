@@ -1,33 +1,39 @@
 @font-face {
-   font-family: 'Architects Daughter';
+   font-family: Architects Daughter;
    src:  local('Architects Daughter'),
-         url('fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
+         url('/fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
 }
 
 @font-face {
-   font-family: 'Permanent Marker';
+   font-family: Permanent Marker;
    src:  local('Permanent Marker'),
-         url('fonts/PermanentMarker-Regular.ttf') format('ttf');
+         url('/fonts/PermanentMarker-Regular.ttf') format('ttf');
 }
 
 @font-face {
-   font-family: 'ABeeZee';
+   font-family: ABeeZee;
    src:  local('ABeeZee'),
-         url('fonts/ABeeZee-Regular.ttf') format('ttf'),
-         url('fonts/ABeeZee-Italic.ttf') format('ttf');
+         url('/fonts/ABeeZee-Regular.ttf') format('ttf'),
+         url('/fonts/ABeeZee-Italic.ttf') format('ttf');
 }
 
 @font-face {
-   font-family: 'Varela Round';
+   font-family: Varela Round;
    src:  local('Varela Round'),
-         url('fonts/VarelaRound-Regular.ttf') format('ttf');
+         url('/fonts/VarelaRound-Regular.ttf') format('ttf');
 }
 
 @font-face {
-   font-family: 'Rubik';
+   font-family: Indie Flower;
+   src:  local('Indie Flower'),
+         url('/fonts/IndieFlower-Regular.ttf') format('ttf');
+}
+
+@font-face {
+   font-family: Rubik;
    src:  local('Rubik'),
-         url('fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
-         url('fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
+         url('/fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
+         url('/fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
 }
 
 :root {
@@ -43,6 +49,7 @@
     --font-title:             'Architects Daughter';
     --font-body:              'ABeeZee';
     --font-banner:            'Permanent Marker';
+    --sidebar-bg-tag-colour:  #BC6C25;
 }
 
 .sidebar h1 {
@@ -74,6 +81,11 @@ a {
    color: var(--fg-colour);
 }
 
+.sidebar a.social:hover {
+   border-bottom: 3px solid var(--sidebar-bg-tag-colour);
+   border-radius: .2em;
+}
+
 a.social:hover {
    text-decoration: none;
    background: var(--sidebar-bg-colour);
@@ -94,7 +106,7 @@ a.social:hover {
 }
 
 signature {
-    font-family: var(--font-title);
+    font-family: Indie Flower;
     font-size: larger;
     font-weight: lighter;
     font-style: oblique;
@@ -159,7 +171,22 @@ li.heading.updates {
 
 .bullet.tags {
    float: left;
-   font-size: smaller;
+}
+
+.bullet.tags a {
+   padding: 0.1em .7em;
+   margin-bottom: 0.25em;
+   text-align: center;
+   font-size: .7em;
+   font-weight: bold;
+   background-color: var(--sidebar-bg-tag-colour);
+   border-radius: .2em;
+   color: var(--bg-colour);
+}
+
+.bullet.tags a:hover {
+   background: var(--bg-colour);
+   color: var(--sidebar-bg-tag-colour);
 }
 
 nav hr {
