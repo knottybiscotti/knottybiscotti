@@ -7,7 +7,7 @@
 @font-face {
    font-family: Permanent Marker;
    src:  local('Permanent Marker'),
-         url('fonts/PermanentMarker-Regular.ttf');
+         url('../fonts/PermanentMarker-Regular.ttf');
 }
 
 @font-face {
