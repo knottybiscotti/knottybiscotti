@@ -1,33 +1,33 @@
 @font-face {
    font-family: 'Architects Daughter';
    src:  local('Architects Daughter'),
-         url('/fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
+         url('fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
 }
 
 @font-face {
    font-family: 'Permanent Marker';
    src:  local('Permanent Marker'),
-         url('/fonts/PermanentMarker-Regular.ttf') format('ttf');
+         url('fonts/PermanentMarker-Regular.ttf') format('ttf');
 }
 
 @font-face {
    font-family: 'ABeeZee';
    src:  local('ABeeZee'),
-         url('/fonts/ABeeZee-Regular.ttf') format('ttf'),
-         url('/fonts/ABeeZee-Italic.ttf') format('ttf');
+         url('fonts/ABeeZee-Regular.ttf') format('ttf'),
+         url('fonts/ABeeZee-Italic.ttf') format('ttf');
 }
 
 @font-face {
    font-family: 'Varela Round';
    src:  local('Varela Round'),
-         url('/fonts/VarelaRound-Regular.ttf') format('ttf');
+         url('fonts/VarelaRound-Regular.ttf') format('ttf');
 }
 
 @font-face {
    font-family: 'Rubik';
    src:  local('Rubik'),
-         url('/fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
-         url('/fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
+         url('fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
+         url('fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
 }
 
 :root {
