@@ -7,7 +7,7 @@
 @font-face {
    font-family: Permanent Marker;
    src:  local('Permanent Marker'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/PermanentMarker-Regular.ttf');
+         url('fonts/PermanentMarker-Regular.ttf');
 }
 
 @font-face {
@@ -104,7 +104,7 @@ a.social:hover {
     color: var(--table-stripe-color);
 }
 
-img {
+.content.container img {
     float: left;
     padding: 15px;
     vertical-align: middle;
@@ -183,8 +183,8 @@ li.heading.updates {
    padding: 0.1em 0.6em;
    margin-bottom: 0.25em;
    text-align: center;
-   font-size: 0.6em;
-   font-weight: bold;
+   font-size: 0.75em;
+   font-weight: 300;
    background-color: var(--sidebar-bg-tag-colour);
    border-radius: .2em;
    color: var(--bg-colour);
@@ -207,4 +207,10 @@ nav hr {
 
 p.lead {
    font-size: 0.8em;
+}
+
+@media screen (min-width: 64em) {
+   .content {
+      max-width: 50rem;
+   }
 }
