@@ -1,38 +1,38 @@
 @font-face {
    font-family: Architects Daughter;
    src:  local('Architects Daughter'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/ArchitectsDaughter-Regular.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/ArchitectsDaughter-Regular.ttf');
 }
 
 @font-face {
    font-family: Permanent Marker;
    src:  local('Permanent Marker'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/PermanentMarker-Regular.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/PermanentMarker-Regular.ttf');
 }
 
 @font-face {
    font-family: ABeeZee;
    src:  local('ABeeZee'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/ABeeZee-Italic.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/ABeeZee-Italic.ttf');
 }
 
 @font-face {
    font-family: Varela Round;
    src:  local('Varela Round'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/VarelaRound-Regular.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/VarelaRound-Regular.ttf');
 }
 
 @font-face {
    font-family: Indie Flower;
    src:  local('Indie Flower'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/IndieFlower-Regular.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/IndieFlower-Regular.ttf');
 }
 
 @font-face {
    font-family: Rubik;
    src:  local('Rubik'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
-         url('https://knottybiscotti.github.io/knottybiscotti/fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/Rubik-VariableFont_wght.ttf'),
+         url('https://knottybiscotti.github.io/knottybiscotti/fonts/Rubik-Italic-VariableFont_wght.ttf');
 }
 
 :root {
