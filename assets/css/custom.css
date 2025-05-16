@@ -104,6 +104,13 @@ a.social:hover {
     color: var(--table-stripe-color);
 }
 
+img {
+    float: left;
+    padding: 15px;
+    vertical-align: middle;
+    width: 66%;
+}
+
 signature {
     font-family: Indie Flower;
     font-size: larger;
@@ -173,10 +180,10 @@ li.heading.updates {
 }
 
 .bullet.tags a {
-   padding: 0.1em .7em;
+   padding: 0.1em 0.6em;
    margin-bottom: 0.25em;
    text-align: center;
-   font-size: .7em;
+   font-size: 0.6em;
    font-weight: bold;
    background-color: var(--sidebar-bg-tag-colour);
    border-radius: .2em;
@@ -196,4 +203,8 @@ nav hr {
     margin-top: 3em;
     margin-left: auto;
     margin-right: auto;
+}
+
+p.lead {
+   font-size: 0.8em;
 }

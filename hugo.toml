@@ -24,8 +24,9 @@ canonifyURLs = true # this is a hack to work around issues with baseURL needint 
 
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Updates", URL = "/news/", HasChildren = true, Limit = 3},
-        {Name = "Writing", URL = "/blog/", HasChildren = true, Limit = 5},
-        {Name = "Series", URL = "/series/", HasChildren = true, Limit = 3},
+        {Name = "Writing", URL = "/writing/", HasChildren = true, Limit = 5},
+        {Name = "Characters", URL = "/characters/", HasChildren = true, Limit = 5},
+        # {Name = "Series", URL = "/series/", HasChildren = true, Limit = 3},
         {Name = "Tags", URL = "/tags/", HasChildren = true, Limit = 100},
     ]
 
@@ -82,6 +83,7 @@ canonifyURLs = true # this is a hack to work around issues with baseURL needint 
 [taxonomies]
     series = 'series'
     tags = 'tags'
+    characters = 'characters'
 
 [markup]
   [markup.goldmark]
