@@ -1,8 +1,9 @@
-BaseURL = "/knottybiscotti"
+baseURL = "/"
 languageCode = 'en-ca'
 title = "Knotty Biscotti's Sweets and Snacks"
 theme = 'poison'
 pluralizelisttitles = false
+canonifyURLs = true # this is a hack to work around issues with baseURL needint to be set differently for my debug server and the github pages workflow.  It's going to go away eventually: https://gohugo.io/content-management/urls/#canonical-urls so I eventually need to figure this out.
 
 [params]
     brand = "Knotty Biscotti's (sometimes) Naughty Treats"                      # name of your site - appears in the sidebar
