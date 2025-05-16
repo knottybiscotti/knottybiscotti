@@ -38,17 +38,14 @@
                     </li>
                 {{ end }}
                 {{ range $term, $page := $taxonomy }}
-                        {{ if eq (lower $term) (lower $menu_item.Name) }}
-                            <li class="heading">
-                                <a href="{{$menu_item.URL }}">{{ $menu_item.Name }}</a>
-                            </li>
-                            {{ if $menu_item.HasChildren }}
+                    {{ if eq (lower $name) (lower $menu_item.Name) }}
+                        {{ if $menu_item.HasChildren }}
                             <li class="sub-heading">
                                 {{ $menu_item.Pre }}
                             </li>
                             {{ range (first $menu_item.Limit .Pages) }}
                                 <li class="bullet">
-                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                    <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{replace $term " " "-"}}">{{ title (replace $term "_" " ") }}</a>
                                 </li>
                             {{ end }}
                         {{ end }}
@@ -56,6 +53,5 @@
                 {{ end }}
             {{ end }}
         {{ end }}
-
     </ul>
 </nav>
