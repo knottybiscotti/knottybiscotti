@@ -9,10 +9,9 @@ tags:
   - lgbtqia2s+
   - implied_violence
   - violence
-  - series
   - nsfw
 Summary: Wherein Talula Goodman returns home after a long time on the road and encounters a childhood friend.
-series: "The Well"
+Series: "The Well"
 date: 2025-04-27
 ---
 

@@ -4,9 +4,6 @@ title = "Knotty Biscotti's Sweets and Snacks"
 theme = 'poison'
 pluralizelisttitles = false
 
-[pagination]
-pagerSize = 10
-
 [params]
     brand = "Knotty Biscotti's (sometimes) Naughty Treats"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
@@ -25,10 +22,10 @@ pagerSize = 10
             # Limit:        If the files should be listed, how many should be shown.
 
         {Name = "About", URL = "/about/", HasChildren = false},
-
+        {Name = "Updates", URL = "/news/", HasChildren = true, Limit = 3},
         {Name = "Writing", URL = "/blog/", HasChildren = true, Limit = 5},
-
-        {Name = "Updates", URL = "/news/", HasChildren = true, Pre = "Latest...", Limit = 3},
+        {Name = "Series", URL = "/series/", HasChildren = true, Limit = 3},
+        {Name = "Tags", URL = "/tags/", HasChildren = true, Limit = 100},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use.

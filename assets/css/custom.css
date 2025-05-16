@@ -113,7 +113,6 @@ hr {
     margin-right: auto;
 }
 
-
 h1 {
     font-family: var(--font-title);
     font-weight: bold;
@@ -140,4 +139,30 @@ h2, h3, h4, h5, h6 {
 
 .headline div span {
    display: none;
+}
+
+.entries li::after {
+    background-size: 0.75em 3px;
+    height: 1.2em;
+}
+
+li.heading.updates {
+   float: none;
+   clear: both;
+   display: block;
+}
+
+.bullet.tags {
+   float: left;
+   font-size: smaller;
+}
+
+nav hr {
+    clear: both;
+    border: 1px solid var(--sidebar-bg-colour);
+    color: var(--sub-colour);
+    width: 66%;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
 }

@@ -1,4 +1,4 @@
 [submodule "themes/poison"]
 	path = themes/poison
    url = https://github.com/knottybiscotti/poison.git
-   branch = kb/add-kofi-social
+   branch = kb/biscotti-rework
