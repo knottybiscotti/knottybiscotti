@@ -102,3 +102,7 @@ summaryLength = 0
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[services]
+  [services.disqus]
+    shortname = 'treats-n-sweets'
