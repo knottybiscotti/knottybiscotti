@@ -1,38 +1,38 @@
 @font-face {
-   font-family: Architects Daughter;
-   src:  local('Architects Daughter'),
-         url('../fonts/ArchitectsDaughter-Regular.ttf');
+    font-family: Architects Daughter;
+    src:  local('Architects Daughter'),
+    url('../fonts/ArchitectsDaughter-Regular.ttf');
 }
 
 @font-face {
-   font-family: Permanent Marker;
-   src:  local('Permanent Marker'),
-         url('../fonts/PermanentMarker-Regular.ttf');
+    font-family: Permanent Marker;
+    src:  local('Permanent Marker'),
+    url('../fonts/PermanentMarker-Regular.ttf');
 }
 
 @font-face {
-   font-family: ABeeZee;
-   src:  local('ABeeZee'),
-         url('../fonts/ABeeZee-Italic.ttf');
+    font-family: ABeeZee;
+    src:  local('ABeeZee'),
+    url('../fonts/ABeeZee-Italic.ttf');
 }
 
 @font-face {
-   font-family: Varela Round;
-   src:  local('Varela Round'),
-         url('../fonts/VarelaRound-Regular.ttf');
+    font-family: Varela Round;
+    src:  local('Varela Round'),
+    url('../fonts/VarelaRound-Regular.ttf');
 }
 
 @font-face {
-   font-family: Indie Flower;
-   src:  local('Indie Flower'),
-         url('../fonts/IndieFlower-Regular.ttf');
+    font-family: Indie Flower;
+    src:  local('Indie Flower'),
+    url('../fonts/IndieFlower-Regular.ttf');
 }
 
 @font-face {
-   font-family: Rubik;
-   src:  local('Rubik'),
-         url('../fonts/Rubik-VariableFont_wght.ttf'),
-         url('../fonts/Rubik-Italic-VariableFont_wght.ttf');
+    font-family: Rubik;
+    src:  local('Rubik'),
+    url('../fonts/Rubik-VariableFont_wght.ttf'),
+    url('../fonts/Rubik-Italic-VariableFont_wght.ttf');
 }
 
 :root {
@@ -59,49 +59,62 @@
 }
 
 .sidebar {
-   font-family: var(--font-body);
-   font-weight: 100;
-   font-size: 16px;
+    font-family: var(--font-body);
+    font-weight: 100;
+    font-size: 16px;
 }
 
 a {
-   text-decoration: none;
-   color: var(--accent-colour);
+    text-decoration: none;
+    color: var(--accent-colour);
 }
 
 .sidebar a {
-   text-decoration: none;
-   color: var(--bg-colour);
+    text-decoration: none;
+    color: var(--bg-colour);
 }
 
 .sidebar a:hover {
-   text-decoration: none;
-   background: var(--bg-colour);
-   color: var(--fg-colour);
+    text-decoration: none;
+    background: var(--bg-colour);
+    color: var(--fg-colour);
 }
 
 .sidebar a.social:hover {
-   border-bottom: 3px solid var(--sidebar-bg-tag-colour);
-   border-radius: .2em;
+    border-bottom: 3px solid var(--sidebar-bg-tag-colour);
+    border-radius: .2em;
 }
 
 a.social:hover {
-   text-decoration: none;
-   background: var(--sidebar-bg-colour);
+    text-decoration: none;
+    background: var(--sidebar-bg-colour);
 }
 
 .content.container {
-   font-family: var(--font-body);
-   font-weight: 200;
-   font-size: 16px;
+    font-family: var(--font-body);
+    font-weight: 200;
+    font-size: 16px;
 }
 
 .dark-theme .content a {
-   color: #DDA15E;
+    color: #DDA15E;
 }
 
 .dark-theme .tags li a {
     color: var(--table-stripe-color);
+}
+
+.post-title a {
+    color: var(--h1-colour);
+    text-decoration: none;
+}
+
+.post-title a:hover {
+    border-right: 1px groove;
+    border-top: 1px groove;
+    border-radius: 10px;
+    padding-right: 0.25em;
+    padding-top: 0.1em;
 }
 
 .content.container img {
@@ -149,19 +162,30 @@ h2, h3, h4, h5, h6 {
 
 /* Below here is just me fighting the poison template */
 .bullet {
-   text-decoration: none;
+    text-decoration: none;
 }
 
 .headline ul {
-   width: 75%;
+    width: 66%;
 }
 
 .info ul li {
     float: right;
 }
 
-.headline div span {
-   display: none;
+/*.headline div span {*/
+/*    display: none;*/
+/*}*/
+
+.content div.summary {
+    font-size: 0.85em;
+    border: 1px solid var(--sub-colour);
+    margin-bottom: 2em;
+    margin-left: 20%;
+    width: 60%;
+    padding: 0.5em;
+    border-radius: 5px;
+    box-shadow: 4px 3px 5px var(--accent-colour);
 }
 
 .entries li::after {
@@ -170,29 +194,29 @@ h2, h3, h4, h5, h6 {
 }
 
 li.heading.updates {
-   float: none;
-   clear: both;
-   display: block;
+    float: none;
+    clear: both;
+    display: block;
 }
 
 .bullet.tags {
-   float: left;
+    float: left;
 }
 
 .bullet.tags a {
-   padding: 0.1em 0.6em;
-   margin-bottom: 0.25em;
-   text-align: center;
-   font-size: 0.75em;
-   font-weight: 300;
-   background-color: var(--sidebar-bg-tag-colour);
-   border-radius: .2em;
-   color: var(--bg-colour);
+    padding: 0.1em 0.6em;
+    margin-bottom: 0.25em;
+    text-align: center;
+    font-size: 0.75em;
+    font-weight: 300;
+    background-color: var(--sidebar-bg-tag-colour);
+    border-radius: .2em;
+    color: var(--bg-colour);
 }
 
 .bullet.tags a:hover {
-   background: var(--bg-colour);
-   color: var(--sidebar-bg-tag-colour);
+    background: var(--bg-colour);
+    color: var(--sidebar-bg-tag-colour);
 }
 
 nav hr {
@@ -206,11 +230,11 @@ nav hr {
 }
 
 p.lead {
-   font-size: 0.8em;
+    font-size: 0.8em;
 }
 
 @media screen (min-width: 64em) {
-   .content {
-      max-width: 50rem;
-   }
+    .content {
+        max-width: 50rem;
+    }
 }

@@ -2,7 +2,7 @@
 layout: "single"
 tags: 
 - welcome
-title: 👋 Welcome All! 🏳️‍🌈 🏳️‍⚧️
+title: 👋 Welcome All ! 🏳️‍🌈 🏳️‍⚧️
 draft: false
 date: 2025-05-13
 ---

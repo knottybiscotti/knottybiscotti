@@ -3,10 +3,19 @@ languageCode = 'en-ca'
 title = "Knotty Biscotti's Sweets and Snacks"
 theme = 'poison'
 pluralizelisttitles = false
-canonifyURLs = true # this is a hack to work around issues with baseURL needint to be set differently for my debug server and the github pages workflow.  It's going to go away eventually: https://gohugo.io/content-management/urls/#canonical-urls so I eventually need to figure this out.
+
+# this is a hack to work around issues with baseURL needint to be set
+# differently for my debug server and the github pages workflow.  It's going to
+# go away eventually: https://gohugo.io/content-management/urls/#canonical-urls
+# so I eventually need to figure this out.
+canonifyURLs = true
+
+# this only applies to auto-generated summaries and it seems to be the only way
+# I can disable them.
+summaryLength = 0
 
 [params]
-    brand = "Knotty Biscotti's (sometimes) Naughty Treats"                      # name of your site - appears in the sidebar
+    brand = "Knotty Biscotti's (sometimes) Naughty Treats" # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     brand_image = "/images/kb.png"    # path to the image shown in the sidebar
     description = "Beware the spice!" # Used as default meta description if not specified in front matter
