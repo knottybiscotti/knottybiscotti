@@ -89,6 +89,8 @@ summaryLength = 0
     table_stripe_color_dark = "#0f1607"             # default is #202020
     text_color_dark = "#EEE"                        # default is #EEE
 
+    disqusShortname = "treats-n-sweets"
+
 [taxonomies]
     series = 'series'
     tags = 'tags'
@@ -102,7 +104,3 @@ summaryLength = 0
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-[services]
-  [services.disqus]
-    shortname = 'treats-n-sweets'
