@@ -16,6 +16,7 @@ tags:
   - western
 Series: "The Well"
 date: 2025-04-27
+showComments: true
 ---
 
 Every part of Talula Goodman's body ached as she walked slowly toward town.  Every part she could feel at least, her feet had gone numb sometime during the last hour before dawn and the only evidence they were still there was her continued upright posture.  Her thrice-damned horse had run off during the attack and in a very distant part of her mind she wished it a slow, horrible death.  Coyotes, maybe.  Or a skin-walker.  Coyote skin-walker.

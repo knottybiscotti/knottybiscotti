@@ -12,6 +12,7 @@ tags:
   - story
 Series: "Essa Stiik"
 date: 2025-03-25
+showComments: true
 ---
 
 Wending her way through the narrow, gloomy spaces in the starship's underbelly, Essa was suddenly aware of an odd tingling.  She felt her hair stand up a little while she turned a slow circle, as best she could in a space barely wider than her shoulders.  It felt like she was at the edge of a powerful electromagnetic field and after a moment of uncertainty she decided that the problem was on the other side of the bulkhead to her right.
