@@ -17,5 +17,8 @@
     {{ if (.Site.Params.listmonk) }}
         {{ partial "post/listmonk_email_newsletters.html" . }}
     {{ end }}
+    {{ if and .Site.Config.Services.Disqus.Shortname .Params.showComments }}
+        {{ template "_internal/disqus.html" . }}
+    {{ end }}
 </div>
 {{ end }}
