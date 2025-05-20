@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = 'en-ca'
-title = "Knotty Biscotti's Sweets and Snacks"
+title = "Knotty Biscotti"
 theme = 'poison'
 pluralizelisttitles = false
 
