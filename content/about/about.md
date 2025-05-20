@@ -2,9 +2,10 @@
 title: All about Knotty Biscotti
 date: 2025-05-14
 showComments: true
-summary: Hey there everyone! I'm Knotty Biscotti, a loose collection of ideas and strongly held opinions that likes to avoid confrontation. I am *all* the contradictions in one. Trust me.
+Summary: Hey there everyone! I'm Knotty Biscotti, a loose collection of ideas and strongly held opinions that likes to avoid confrontation. I am *all* the contradictions in one. Trust me.
 draft: false
 ---
+
 Hi there!  Wow, thanks for stopping by and taking the time to read this silliness! If you really want to know about me, I guess I'll share a bit. I'm a STEM nerd who really wanted to *also* be a writer. I'm odd and queer and generally okay with that.  I'm ADHD and autistic and I'm good enough at masking that even the people doing my last evaluation commented that they were having a hard time figuring out just how much was learned behaviours.
 
 I'm Canadian and until this year that wasn't a big deal for me but now it's a **HELLA** big deal. I believe womens' rights are human rights, I believe gay rights are human rights, I believe trans rights are human rights and you'll *never* convince me that life is a zero-sum game. My life doesn't get better at the cost of someone else's life getting worse.  A rising tide lifts all boats, and all that.
