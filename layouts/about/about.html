@@ -3,6 +3,11 @@
     {{ partial "light_dark.html" . }}
 {{ end }}
 <div class="post">
+   {{ if .Summary }}
+   <div class="summary">
+      {{ .Summary }}
+   </div>
+   {{ end }}
     {{ with .Site.GetPage "/about" }}
         {{ if .Pages }}
             {{ range .Pages }}
@@ -17,8 +22,6 @@
     {{ if (.Site.Params.listmonk) }}
         {{ partial "post/listmonk_email_newsletters.html" . }}
     {{ end }}
-    {{ if and .Site.Config.Services.Disqus.Shortname .Params.showComments }}
-        {{ template "_internal/disqus.html" . }}
-    {{ end }}
+    {{ template "_internal/disqus.html" . }}
 </div>
 {{ end }}
