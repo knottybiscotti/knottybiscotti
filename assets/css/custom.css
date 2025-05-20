@@ -45,7 +45,7 @@
     --nav-shadow:             #9C8A79;
     --nav-background:         #DDA15E;
     --nav-text:               #321904;
-    --font-title:             'Architects Daughter';
+    --font-title:             'Indie Flower';
     --font-body:              'ABeeZee';
     --font-banner:            'Permanent Marker';
     --sidebar-bg-tag-colour:  #BC6C25;
@@ -125,7 +125,7 @@ a.social:hover {
 }
 
 signature {
-    font-family: Architects Daughter;
+    font-family: Indie Flower;
     font-size: larger;
     font-weight: lighter;
     font-style: oblique;
