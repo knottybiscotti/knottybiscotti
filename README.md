@@ -56,7 +56,7 @@ Give readers the choice to read in light or dark mode.  The user's preference is
 ### Table of contents
 Provide a floating table of contents for readers with large enough screens (i.e. *screen-width > 1600 pixels*).
 
-If you prefer not to display a table of contents, you can disable them site-wide in your ```config.toml``` file.
+If you prefer not to display a table of contents, you can disable them site-wide in your `config.toml` file.
 
 ```toml
 [params]
@@ -77,17 +77,20 @@ tags: ["Hugo"]
 
 ### Comments
 
-Facilitate discourse by allowing users to comment on your posts.  *Poison* currently supports two different commenting engines for this purpose -- [Disqus](https://disqus.com/) and [Remark42](https://remark42.com/).
+Facilitate discourse by allowing users to comment on your posts.  *Poison* currently supports three different commenting engines for this purpose -- [Disqus](https://disqus.com/), [Giscus](https://giscus.app/) and [Remark42](https://remark42.com/).
 
 **Note**: *Enabling comments will add external dependencies.*
 
 - [Disqus Demo Site](https://about.disqus.com/disqus-demo-page) 
 - [Remark42 Demo Site](https://remark42.com/demo/)
+- [Giscus Demo Site](https://giscus.app/)
 
 ***Disqus*** is free and easy to use.  Checkout the [Hugo docs](https://gohugo.io/content-management/comments/) to get started.  Once you've created a *Disqus* account, you can activate it in the *Poison* theme by adding a single line to your `config.toml` file.
 
-```
-disqusShortname = 'yourDisqusShortname'
+```toml
+[services]
+    [services.disqus]
+        shortname = 'yourDisqusShortname'
 ```
 
 This is a great option for people that don't want to bother with self-hosting their own commenting engine; however, it has some drawbacks.  Because *Disqus* provides this service for free, they recoup any financial loss by injecting third-party ad trackers onto your website.  These trackers help to collect and sell information about your users, while also negatively affecting your site's speed.
@@ -103,6 +106,15 @@ Once everything is set up, you can activate it in the *Poison* theme by includin
     remark42 = true
     remark42_host = "https://yourhost.com"
     remark42_site_id = "your_site_id"
+```
+
+If you host your site on [GitHub](https://github.com) another comment / discussion alternative is [Giscus](https://giscus.app).  Comments are created using the _Discussions_ feature of GitHub. While this means that users must have a Github account to comment or react, it also provides a higher degree of privacy regarding how their personal data is used.  To enable *Giscus* discussions on your site, you should first follow the instructions on the [Giscus](https://giscus.app) site, enabling the feature and ensuring your repository is accessible to Giscus. Then you may enable comments by including the following in the `[params]`  section of your `config.toml` file:
+
+```toml
+[params]
+    giscus_id = R_xxxxxxxxxx            # required, this is data-repo-id on the giscus.app page
+    giscus_cat = DIC_xxxxxxxxxxxxxxxx   # required, this is data-category-id on the giscus.app page
+    giscus_theme = <theme_name>         # optional, if omitted, preferred_color_scheme will be used
 ```
 
 ### Analytics
