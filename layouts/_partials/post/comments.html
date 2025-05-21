@@ -1,11 +1,12 @@
-<div class="comments">
-    {{ if .Site.Params.remark42 }}
+{{ if .Params.showComments }}
+    <div class="comments">
+        {{ if .Site.Params.remark42 }}
         <div id="remark42"></div>
         <script>
             themeFromLS = localStorage.getItem("theme")
             themeFromHugo = document.body.classList.contains("dark-theme") ? "dark" : "light"
             currentTheme = themeFromLS ? themeFromLS : themeFromHugo;
-
+    
             var remark_config = {
                 host: "{{ .Site.Params.remark42_host }}",
                 site_id: "{{ .Site.Params.remark42_site_id }}",
@@ -14,23 +15,24 @@
             }
         </script>
         <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
-    {{ else if and .Site.Config.Services.Disqus.Shortname .Params.showComments }}
+        {{ else if .Site.Config.Services.Disqus.Shortname }}
         {{ template "_internal/disqus.html" . }}
-    {{ else if .Site.Params.giscus_id }}
+        {{ else if .Site.Params.giscus_id }}
         <script src="https://giscus.app/client.js"
-            data-repo="example/example"
-            data-repo-id="{{ .Site.Params.giscus_id }}"
-            data-category="Announcements"
-            data-category-id="{{ .Site.Params.giscus_cat }}"
-            data-mapping="pathname"
-            data-strict="1"
-            data-reactions-enabled="1"
-            data-emit-metadata="0"
-            data-input-position="bottom"
-            data-theme="{{ default "preferred_color_scheme" (.Site.Params.giscus_theme) }}"
-            data-lang="en"
-            crossorigin="anonymous"
-            async>
+                data-repo="example/example"
+                data-repo-id="{{ .Site.Params.giscus_id }}"
+                data-category="Announcements"
+                data-category-id="{{ .Site.Params.giscus_cat }}"
+                data-mapping="pathname"
+                data-strict="1"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="{{ default "preferred_color_scheme" (.Site.Params.giscus_theme) }}"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
         </script>
-    {{ end }}
-</div>
+        {{ end }}
+    </div>
+{{ end }}

@@ -77,7 +77,7 @@ tags: ["Hugo"]
 
 ### Comments
 
-Facilitate discourse by allowing users to comment on your posts.  *Poison* currently supports three different commenting engines for this purpose -- [Disqus](https://disqus.com/), [Giscus](https://giscus.app/) and [Remark42](https://remark42.com/).
+Facilitate discourse by allowing users to comment on your posts.  *Poison* currently supports three different commenting engines for this purpose -- [Disqus](https://disqus.com/), [Giscus](https://giscus.app/) and [Remark42](https://remark42.com/).  All services may be enabled or disabled on a per-pages basis by setting `showComments` to either `true` or `false` in the front-matter.
 
 **Note**: *Enabling comments will add external dependencies.*
 
