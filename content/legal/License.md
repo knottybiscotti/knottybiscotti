@@ -1,3 +1,8 @@
+---
+title = "Let's everyone share, okay?"
+url = "license"
+---
+
 # Everything I write here is protected by international copyright.
 
 With that out of the way, I'm publishing it all under the [Creative Commons Attribution, Non-Commercial, ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  What that means to you is you are allowed to:
