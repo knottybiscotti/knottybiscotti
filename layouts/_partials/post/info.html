@@ -12,9 +12,9 @@
                     <span>{{ . }} - </span>
                 {{ end }}
             {{ end }}
-            {{ if .Date }}
-                <time datetime='{{ .Date.Format " 2006-01-02T15:04:05Z0700" }}' class="post-date">
-                    {{ .Date | time.Format ":date_long" }}
+            {{ with (or .Date .PublishDate ) }}
+                <time datetime='{{ . | time.Format " 2006-01-02T15:04:05Z0700" }}' class="post-date dt-published">
+                    {{ . | time.Format ":date_long" }}
                 </time>
             {{ end }}
             {{ if not .Params.disableReadingTime }}
@@ -25,7 +25,6 @@
                     {{ else }}
                         {{ .Scratch.Set "readingTime" "min" }}
                     {{ end }}
-
                     <span>{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }} read</span>
                 </span>
             {{ end }}
