@@ -1,6 +1,9 @@
 +++
-Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
-menu = "main"
+Title: "{{ replace .Name "-" " " | title }}"
+Description: ""
+Date: {{ .Date }}
+Publishdate: {{ .Date }}
+Lastmod: {{ .Date }}
+Tags: []
+Categories: []
 +++
