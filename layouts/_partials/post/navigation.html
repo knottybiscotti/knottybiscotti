@@ -10,7 +10,7 @@
                 {{ $series := .Site.GetPage $seriesUrl }}
                 {{ range $series.Pages }}
                 <li class="other-in-series">
-                    {{ .Date | time.Format ":date_long" }} -
+                    {{ .Date | time.Format ":date_medium" }} -
                     {{ if ne .Title $postTitle }}
                         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                     {{ else }}
