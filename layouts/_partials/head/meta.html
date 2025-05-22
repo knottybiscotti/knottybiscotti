@@ -97,35 +97,34 @@
 <!-- Article Specific Tags -->
 <!-- To make sure this renders only in the article page, we check the section -->
 {{ if and (eq .Section "posts") (.Page.IsNode) }}
-<!-- Pagination meta tags for list pages only -->
-{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
-{{ if $paginator }}
-  <link rel="first" href="{{ $paginator.First.URL }}" />
-  <link rel="last" href="{{ $paginator.Last.URL }}" />
-  {{ if $paginator.HasPrev }}
-    <link rel="prev" href="{{ $paginator.Prev.URL }}" />
-  {{end }}
-  {{ if $paginator.HasNext }}
-    <link rel="next" href="{{ $paginator.Next.URL }}" />
-  {{end }}
-{{end }}
+    <!-- Pagination meta tags for list pages only -->
+    {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+    {{ if $paginator }}
+        <link rel="first" href="{{ $paginator.First.URL }}" />
+        <link rel="last" href="{{ $paginator.Last.URL }}" />
+        {{ if $paginator.HasPrev }}
+            <link rel="prev" href="{{ $paginator.Prev.URL }}" />
+        {{ end }}
+        {{ if $paginator.HasNext }}
+            <link rel="next" href="{{ $paginator.Next.URL }}" />
+        {{ end }}
+    {{ end }}
 
-<meta property="og:type" content="article" />
-<meta property="article:publisher" content="{{ .Site.Params.facebook_url }}" />
-<meta property="og:article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
-<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00"  }}" />
+    <meta property="og:type" content="article" />
+    <meta property="article:publisher" content="{{ .Site.Params.facebook_url }}" />
+    <meta property="og:article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00"  }}" />
 
-{{ with (or (.Params.Author) (.Site.Language.Params.Author.Name)) }}
-  <meta property="og:article:author" content="{{ . }}" />
-  <meta property="article:author" content="{{ . }}" />
-  <meta name="author" content="{{ . }}" />
-{{ end }}
+    {{ with (or (.Params.Author) (.Site.Language.Params.Author.Name)) }}
+        <meta property="og:article:author" content="{{ . }}" />
+        <meta property="article:author" content="{{ . }}" />
+        <meta name="author" content="{{ . }}" />
+    {{ end }}
 
-{{ with.Params.category }}
-  <meta name="news_keywords" content="{{ index . 0 }}" />
-  <meta property="article:section" content="{{ index . 0 }}" />
-{{ end }}
-
+    {{ with.Params.category }}
+        <meta name="news_keywords" content="{{ index . 0 }}" />
+        <meta property="article:section" content="{{ index . 0 }}" />
+    {{ end }}
 {{ end }}
 
 <!-- Hugo Generator Attribution -->
