@@ -40,6 +40,7 @@ enableGitInfo = true
         {Name = "Characters", URL = "/characters/", HasChildren = true, Limit = 5},
         # {Name = "Series", URL = "/series/", HasChildren = true, Limit = 3},
         {Name = "Tags", URL = "/tags/", HasChildren = true, Limit = 100},
+        {Name = "Legal", URL = "/Legal/", HasChildren = true},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use.
