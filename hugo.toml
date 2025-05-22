@@ -14,6 +14,9 @@ canonifyURLs = true
 # I can disable them.
 summaryLength = 0
 
+# this is so my .Lastmod shows something interesting
+enableGitInfo = true
+
 [params]
     brand = "Knotty Biscotti's (sometimes) Naughty Treats" # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
