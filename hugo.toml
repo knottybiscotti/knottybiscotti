@@ -32,15 +32,16 @@ enableGitInfo = true
             # Name:         The name to display on the menu.
             # URL:          The directory relative to the content directory.
             # HasChildren:  If the directory's files should be listed.  Default is true.
-            # Limit:        If the files should be listed, how many should be shown.
+            # Children:     If the files should be listed, how many should be shown.
+            # SubHeading:   An additioinal text row to display before each child item.
 
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Legal", URL = "/legal/", HasChildren = false},
-        {Name = "Updates", URL = "/news/", HasChildren = true, Limit = 3},
-        {Name = "Writing", URL = "/writing/", HasChildren = true, Limit = 5},
-        {Name = "Characters", URL = "/characters/", HasChildren = true, Limit = 5},
-        # {Name = "Series", URL = "/series/", HasChildren = true, Limit = 3},
-        {Name = "Tags", URL = "/tags/", HasChildren = true, Limit = 100},
+        {Name = "Updates", URL = "/news/", HasChildren = true, Children = 3},
+        {Name = "Writing", URL = "/writing/", HasChildren = true, Children = 5},
+        {Name = "Characters", URL = "/characters/", HasChildren = true, Children = 5},
+        {Name = "Series", URL = "/series/", HasChildren = true, Children = 5},
+        {Name = "Tags", URL = "/tags/", HasChildren = true, Children = -1},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use.
