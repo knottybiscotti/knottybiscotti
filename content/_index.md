@@ -1,8 +1,8 @@
 ---
-layout: "single"
-tags: 
-- welcome
-title: 👋 Welcome All ! 🏳️‍🌈 🏳️‍⚧️
+layout: single
+tags:
+  - welcome
+title: 👋 Welcome All! 🏳️‍🌈 🏳️‍⚧️
 draft: false
 date: 2025-05-13
 showComments: false
