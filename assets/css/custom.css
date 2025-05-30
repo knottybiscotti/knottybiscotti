@@ -210,6 +210,7 @@ li.heading {
     border-radius: 0.33em;
     border-bottom: double;
     border-width: 3px;
+    border-color: var(--nav-background);
     padding-left: 0.5em;
     font-size: 1.1em;
     font-variant: small-caps;
