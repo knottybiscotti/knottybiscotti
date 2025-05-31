@@ -1,0 +1,62 @@
+<div class="info">
+    <h1 class="post-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h1>
+
+    <div class="headline">
+        <div>
+            {{ with .Params.author }}
+                {{ with site.Taxonomies.author.Get . }}
+                    <span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> - </span>
+                {{ else }}
+                    <span>{{ . }} - </span>
+                {{ end }}
+            {{ end }}
+            {{ with (or .Date .PublishDate ) }}
+                <time datetime='{{ . | time.Format " 2006-01-02T15:04:05Z0700" }}' class="post-date dt-published">
+                    {{ . | time.Format ":date_long" }}
+                </time>
+            {{ end }}
+            {{ if not .Params.disableReadingTime }}
+                <span> - </span>
+                <span class="reading-time">
+                    {{ if gt .ReadingTime 1 }}
+                        {{ .Scratch.Set "readingTime" "mins" }}
+                    {{ else }}
+                        {{ .Scratch.Set "readingTime" "min" }}
+                    {{ end }}
+                    <span>{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }} read</span>
+                </span>
+            {{ end }}
+        </div>
+
+        {{ if .Params.tags }}
+            <ul class="tags">
+            {{ range .Params.tags }}
+                <li class="tag-{{ . }}">
+                    <a href='{{ "tags/" | absLangURL }}{{ . | urlize }}'>{{ . }}</a>
+                </li>
+            {{ end }}
+            </ul>
+        {{ end }}
+    </div>
+
+    {{ with .Params.series }}
+        {{ with site.Taxonomies.series.Get . }}
+            <p class="seriesname">
+                Series: <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+            </p>
+        {{ end }}
+    {{ end }}
+
+    {{ if .Params.featuredImage }}
+        <p>
+            <img src="{{.Params.featuredImage}}"><br>
+        </p>
+    {{ end }}
+</div>
+{{ if .Summary }}
+    <div class="summary">
+        {{ .Summary }}
+    </div>
+{{ end }}

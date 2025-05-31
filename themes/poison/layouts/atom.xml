@@ -1,0 +1,129 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}
+  {{- $pctx = .Site -}}
+{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+  {{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+  {{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+  {{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- printf `<?xml version="1.0" encoding="utf-8"?>` | safeHTML }} {{/* ref: https://validator.w3.org/feed/docs/atom.html */}}
+<feed 
+  xml:base="{{ .Site.BaseURL }}" 
+  xmlns="http://www.w3.org/2005/Atom"
+  {{- if .IsTranslated }} xml:lang="{{ .Lang }}"{{ end }}
+  >
+
+  <title>
+    {{ $title := .Site.Title }}
+    {{ if not (eq .Title .Site.Title) }}
+      {{ with .Title }}
+        {{ $title = printf `%s on %s` . $title }}
+      {{ end }}
+    {{ end }}
+    {{ $title }}
+  </title>
+
+  {{ with .Site.Params.description }}
+    {{ ( printf `<subtitle type="html"><![CDATA[%s]]></subtitle>` . ) | safeHTML }}
+  {{ end }}
+  
+  {{ $output_formats := .OutputFormats }}
+  {{ range $output_formats }}
+    {{ $rel := (or (and (eq "atom" (.Name | lower)) "self") "alternate") }}
+    {{ with $output_formats.Get .Name }}
+      {{ printf `<link href=%q rel=%q type=%q title=%q />` .Permalink $rel .MediaType.Type .Name | safeHTML }}
+    {{ end }}
+  {{ end }}
+
+  {{ range .Translations }}
+    {{ $output_formats := .OutputFormats }}
+    {{ $lang := .Lang }}
+    {{ $langstr := .Language.LanguageName }}
+    {{ range $output_formats }}
+      {{ with $output_formats.Get .Name }}
+        {{ printf `<link href=%q rel="alternate" type=%q hreflang=%q title="[%s] %s" />` .Permalink .MediaType.Type $lang $langstr .Name | safeHTML }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{ with .Site.Params.favicon }}
+    {{- with resources.Get . }}
+        <icon>{{ .Permalink }}</icon>
+    {{- end -}}
+  {{ end }}
+
+  {{ with .Site.Params.brand_image }}
+    {{- with resources.Get . }}
+        <icon>{{ .Permalink }}</icon>
+    {{- end -}}
+  {{ end }}
+
+  <updated>{{ now | time.Format "2006-01-02T15:04:05-07:00" }}</updated>
+  
+  <id>{{ .Permalink }}</id>
+  
+  {{ with .Site.Params.Author }}
+    <author>
+      <name>{{ .name }}</name>
+      {{ with .email }}
+        <email>{{ . }}</email>
+      {{ end }}
+    </author>
+  {{ end }}
+  
+  <generator>Hugo -- gohugo.io</generator>
+
+  {{ with .Site.Params.copyright }}
+    <rights>© {{ .year }} {{- with $.Site.Params.Author.name }} - {{ . }} {{ end }} - {{ .copyright | plainify }}</rights>
+  {{ end }}
+
+  {{ range $pages }}
+    {{ $page := . }}
+    <entry>
+      {{ if .IsTranslated }}
+        <title xml:lang="{{ .Lang }}">{{ .Title | plainify }}</title>
+        <link href="{{ .Permalink }}" title="{{ .LinkTitle }}" hreflang="{{ .Lang }}" rel="self" type="text/html" />
+        {{ range .Translations }}
+          <link href="{{ .Permalink }}" title="{{ .LinkTitle }}" hreflang="{{ .Language.Lang }}" rel="alternate" type="text/html" />
+        {{ end }}
+      {{ else }}
+        <title>{{ .Title | plainify }}</title>
+        <link href="{{ .Permalink }}" title="{{ .LinkTitle }}" rel="self" type="text/html" />
+      {{ end }}
+
+      <id>{{ .Permalink }}</id>
+
+      {{ with (or .Params.author .Site.Params.Author.name) }}
+        <author>
+          <name>{{ . }}</name>
+        </author>
+      {{ end }}
+
+      <published>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</published>
+      <updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</updated>
+
+      {{ with .Content }}
+        {{ ( printf `<content type="html"><![CDATA[%s]]></content>` ( . | safeHTML | truncate 250 ) ) | safeHTML }}
+      {{ end }}
+
+      {{ if .Params.series }}
+        {{ $postTitle := .Title }}
+        {{ $seriesUrl := (( printf "series/%s" .Params.series ) | urlize) }}
+        {{ $series := .Site.GetPage $seriesUrl }}
+        {{ range $series.Pages }}
+            {{ if ne .Title $postTitle }}
+                <link href="{{ .Permalink }}" title="{{ .LinkTitle }}" rel="related" type="text/html" />
+            {{ end }}
+        {{ end }}
+      {{ end }}
+
+    </entry>
+  {{ end }}
+  
+</feed>

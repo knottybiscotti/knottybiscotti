@@ -1,0 +1,83 @@
+<nav>
+    <ul class="sidebar-nav">
+
+        {{ $sections := .Site.Sections.ByTitle }}
+        {{ $taxonomies := .Site.Taxonomies }}
+        {{ $entries := 0 }}
+        {{ range .Site.Params.menu }}
+
+            {{ $menu_item := . }}
+
+            {{ if and $menu_item.Children (eq $menu_item.Children -1) }}
+                {{ $entries = int math.MaxInt64 }}
+            {{ else }}
+                {{ $entries = int $menu_item.Children }}
+            {{ end }}
+
+            {{ if eq (len $menu_item.URL) 0 }}
+                <li class="heading {{lower $menu_item.Name}}">{{ $menu_item.Name }}</li>
+            {{ else if $menu_item.External }}
+                <li class="bullet">
+                    <a href="{{ $menu_item.URL }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
+                </li>
+            {{ end }}
+
+            <ul class="sidebar-nav inner">
+                {{ range $sections }}
+                    {{ $trimmedURL := (lower (strings.TrimSuffix "/" (strings.TrimPrefix "/" $menu_item.URL))) }}
+                    {{ if eq (lower .Title) (replace $trimmedURL "-" " ") }}
+                        <li class="heading {{lower $menu_item.Name}}">
+                            <a href="{{ $menu_item.URL }}">{{ $menu_item.Name }}</a>
+                        </li>
+                        {{ if $menu_item.HasChildren }}
+                            {{ if $menu_item.SubHeading }}
+                                <li class="sub-heading">
+                                    {{ $menu_item.SubHeading }}
+                                </li>
+                            {{ end }}
+                            {{ range .Pages.Limit $entries  }}
+                                <li class="bullet menu-entries">
+                                    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </ul>
+
+            {{ range $name, $taxonomy := $taxonomies }}
+                {{ if eq (lower $name) (lower $menu_item.Name) }}
+                    <ul class="sidebar-nav inner">
+                        <li class="heading {{ lower $name }}">
+                            <a href="{{ $menu_item.URL }}">{{ $menu_item.Name }}</a>
+                        </li>
+                {{ end }}
+                {{ $taxCount := 0 }}
+                {{ range $term, $DC := $taxonomy }}
+                    {{ if eq (lower $name) (lower $menu_item.Name) }}
+                        {{ if and $menu_item.HasChildren (ge $entries 1) }}
+
+                            {{ if ge $taxCount $entries }}
+                                {{ break }}
+                            {{ end }}
+
+                            {{ $taxCount = add $taxCount 1 }}
+
+                            {{ if $menu_item.SubHeading }}
+                                <li class="sub-heading">
+                                    {{ $menu_item.SubHeading }}
+                                </li>
+                            {{ end }}
+
+                            <li class="bullet taxonomies menu-entries {{lower (replace $menu_item.Name " " "-")}}">
+                               <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{replace $term " " "-"}}">{{ title (replace $term "_" " ") }}</a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                    </ul>
+            {{ end }}
+        {{ end }}
+    </ul>
+    <hr>
+</nav>
