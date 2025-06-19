@@ -225,6 +225,8 @@ Essa squirmed a little, the taffeta of her skirt making a shockingly loud susurr
 
 "I was gonna go back to my place." Her tone was easy, casual – without any expectation that Essa could detect. "I got the new *Hyperion Tactics* game, thought I'd smoke a little *crush* and check it out. You can come if y'want."
 
+![Essa smoking a blunt](/writing/media/Essa/Essa_blunt_SFW.png)
+
 Essa's eyes opened wide, not with confusion and hurt this time, but with excitement — a stark contrast to the scanalised shock Sarah Ann had suffered moments earlier. "Holy shit, really? It's not even out yet! Where'd you get it?"
 
 Laughing softly, Briar gently took Essa's arm and started leading her toward the exit. "I got connections." She winked at Essa, sending the alien girl into another spiralling thought cycle, but that was almost immediately interrupted by the friendly human. "If you don't smoke, that's okay, I won't either."
