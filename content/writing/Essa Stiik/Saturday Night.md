@@ -6,8 +6,10 @@ showComments: "true"
 summary: Could this be the BEST night of Essa's life?  Well DUH!
 characters:
   - essa_stiik
+series:
+  - Novel Ecosystems
 tags:
-  - Essa
+  - essa_stiik
   - sci-fi
   - sfw
   - fluff
