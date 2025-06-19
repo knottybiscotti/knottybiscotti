@@ -1,5 +1,5 @@
 ---
-title: "Love Your Work"
+title: Love Your Work
 Summary: Essa may be a bit flighty at times, but nobody loves working with technology more than her!
 characters:
   - essa_stiik
@@ -10,7 +10,7 @@ tags:
   - nsfw
   - sci-fi
   - story
-Series: "Essa Stiik"
+Series: Novel Ecosystems
 date: 2025-03-25
 showComments: true
 ---
