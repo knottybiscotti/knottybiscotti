@@ -10,7 +10,8 @@ tags:
   - nsfw
   - sci-fi
   - story
-Series: Novel Ecosystems
+Series:
+  - Liminal Space
 date: 2025-03-25
 showComments: true
 ---
