@@ -22,8 +22,8 @@ Welcome to *Knotty Biscotti's (sometimes) Naughty Treats*! I'm thrilled to have 
 
 ### 3. **Maintain a safe and inclusive environment**
 
-- Respect privacy and never share anyone’s personal or confidential information.    
-- Please don't post any illegal content, link to any such content or provide instructions on how to access such content.   
+- Respect privacy and never share anyone’s personal or confidential information.
+- Please don't post any illegal content, link to any such content or provide instructions on how to access such content.
 - Ensure that content you share is safe for all members to view and engage with.
 
 ### 4. **Promote positive engagement**

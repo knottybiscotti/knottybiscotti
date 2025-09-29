@@ -79,7 +79,7 @@ Their friendship had never recovered.
 
 "Not lying, Lu. He's gone, didn't say where to.  He might be back, though.  Why don't you stay a bit?  Let me help you.  I'll make sure you get a good rest while you're waiting." Talula hated herself for how eager she was to accept the offer.
 
-"Can't afford an Arbuckle's, everythin' was in the saddle-bags," she said simply.  Had she told Mary she'd lost her horse?  Talula couldn't remember.  Her eyes darted from the angel in a crushed velvet bodice to the far side of the game room.  
+"Can't afford an Arbuckle's, everythin' was in the saddle-bags," she said simply.  Had she told Mary she'd lost her horse?  Talula couldn't remember.  Her eyes darted from the angel in a crushed velvet bodice to the far side of the game room.
 
 There was a long table set against the wall laden with food.  Cold cuts, rye bread, salted herring, even some vegetables, celery mostly but some carrots too.  Just thinking about it made Talula's mouth water, looking at it was almost too much to bear.  She could go help herself, nobody would protest or try to stop her, but even Talula wasn't so hard up yet – at least she didn't think so – that she would break that rule.  Not even the lowliest deadbeat would eat without buying at least two drinks.  Nowhere in the territory.
 

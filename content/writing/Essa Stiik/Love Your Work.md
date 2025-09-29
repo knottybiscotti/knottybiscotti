@@ -71,7 +71,7 @@ The single strangest thing about humans, though, was what they called 'hair'.  T
 She didn't have a good grasp of that part of human physiology.  For them, hair was such a basic thing most of them couldn't even understand her questions about it.  What she did understand was that what you could see, on their heads, on their faces, in their armpits … other places … those were all the dead leftovers. The only parts that were alive were beneath their skin.   Waste product, all over them and the humans treated it like it was practically a sex-organ!  Their hair was something to be immensely proud of only to *cut* it away in a month or two, whenever they wanted to display their dead plumage in some other way.
 
 Regardless, she loved the humans, she was in *awe* of the humans in so many ways, even if they were utterly  **disgusting** from time to time.
-   
+
 The *Koeus*, on the other hand, had what humans would call 'hair' but it was a living extension of their bodies.  Essa wasn't a biologist but what she understood was that her species, in the absence of bright light, had developed a way to sense electromagnetic fields.  An extremely sensitive solution.  In a very real way Essa could 'see' an electromagnetic field, she could 'feel' electromagnetic waves in the same way she could feel the sun on her skin or the wind on her face.  Even in total darkness, Essa's people were almost never truly blind.
 
 Humans produced the most *wonderful* electromagnetic patterns and shapes and it was amazing to watch how they changed as one human interacted with another.  Or how a human interacted with her…
