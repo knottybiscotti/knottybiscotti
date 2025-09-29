@@ -6,8 +6,7 @@ showComments: "true"
 summary: Could this be the BEST night of Essa's life?  Well DUH!
 characters:
   - essa_stiik
-series:
-  - Liminal Space
+series: Liminal Space
 tags:
   - essa_stiik
   - sci-fi
