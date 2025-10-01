@@ -5,8 +5,8 @@ date: 2025-10-10
 draft: true
 showComments: true
 Characters:
-  - Alex Taylor
-  - Harper Ellison
+  - alex_taylor
+  - harper_ellison
 tags:
   - story
   - lesbian
