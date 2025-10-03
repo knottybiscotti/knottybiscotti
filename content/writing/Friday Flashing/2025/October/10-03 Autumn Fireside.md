@@ -2,7 +2,7 @@
 title: Autumn Fireside
 summary: Laurance and Ashley have been best friends as long as either can remember. So when Ashley and her boyfriend split just days before a romantic weekend getaway, Laurance is sure the best way she can help her friend is to help her have the best weekend of her life!
 date: 2025-10-03
-draft: true
+draft: false
 showComments: true
 characters:
   - ashley_gagnon
