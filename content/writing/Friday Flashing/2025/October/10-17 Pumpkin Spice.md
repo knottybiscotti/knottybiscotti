@@ -13,6 +13,7 @@ tags:
   - slice_of_life
   - masturbation
   - orgy
+  - nsfw
 Series: Friday Flashing
 ---
 Lightning split the night sky, casting the rain-slick sidewalk in stark relief, startling pedestrians with the ferocity of the crack. It was close, no doubt one of the taller buildings that loomed over the street like shadowy sentinels.  The rain hammered mercilessly against the windows of *The Perkatory Café*, as if the storm were a living thing trying to claw its way inside.
