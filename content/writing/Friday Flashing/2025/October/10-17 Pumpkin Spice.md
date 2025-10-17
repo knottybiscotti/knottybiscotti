@@ -5,6 +5,8 @@ date: 2025-10-17
 draft: false
 showComments: true
 characters:
+  - lydia_march
+  - rowan_vex
 tags:
   - story
   - magic
@@ -14,6 +16,8 @@ tags:
   - masturbation
   - orgy
   - nsfw
+  - supernatural
+  - haunting
 Series: Friday Flashing
 ---
 Lightning split the night sky, casting the rain-slick sidewalk in stark relief, startling pedestrians with the ferocity of the crack. It was close, no doubt one of the taller buildings that loomed over the street like shadowy sentinels.  The rain hammered mercilessly against the windows of *The Perkatory Café*, as if the storm were a living thing trying to claw its way inside.

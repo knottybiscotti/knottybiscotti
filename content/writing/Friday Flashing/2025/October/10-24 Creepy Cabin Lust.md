@@ -10,6 +10,7 @@ characters:
 tags:
   - story
   - nsfw
+  - comedy
 Series: Friday Flashing, Spirit Boxing
 ---
 "Hey every*one*!" Hazel beamed into the camera she held at arm's length. "*TwitchWitch* again we're on another spooky adventure!"  She walked backward down a narrow path toward a cabin surrounded by dense woods.  "Of *course* I'm here with my producer, the original *BooBuster*!" She turned the camera on Lena who was carrying two bags of groceries and a cardboard box of Merlot.
