@@ -14,6 +14,15 @@ characters:
   - amaethon
 tags:
   - story
+  - nsfw
+  - supernatural
+  - dubcon
+  - bdsm
+  - horror
+  - monster_sex
+  - heterosexual
+  - fiction
+  - folklore
 Series: Friday Flashing
 notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
 ---
