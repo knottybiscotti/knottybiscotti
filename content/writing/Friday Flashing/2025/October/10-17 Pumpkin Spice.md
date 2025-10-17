@@ -2,7 +2,7 @@
 title: Pumpkin Spice
 summary: Lydia orders a “Haunted Latte” at her favourite café and finds herself getting steamed in all the right ways. Something in the espresso starts grinding back, and suddenly the café’s serving more than caffeine.
 date: 2025-10-17
-draft: true
+draft: false
 showComments: true
 characters:
 tags:
