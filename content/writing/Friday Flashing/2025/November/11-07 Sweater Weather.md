@@ -5,7 +5,7 @@ date: 2025-09-24
 draft: true
 showComments: true
 characters:
-  - riven_marrow
+  - riven_morrow
 tags:
   - story
   - folklore
