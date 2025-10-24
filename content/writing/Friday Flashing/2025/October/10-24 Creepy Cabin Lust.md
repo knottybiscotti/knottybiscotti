@@ -2,7 +2,7 @@
 title: Creepy Cabin Lust
 summary: A couple rents a supposedly haunted AirBnB for a spooky Halloween getaway. The haunting turns out to be VERY interactive.
 date: 2025-10-24
-draft: true
+draft: false
 showComments: true
 characters:
   - lena_costas
