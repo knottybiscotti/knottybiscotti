@@ -17,7 +17,8 @@ tags:
   - lesbian
   - fiction
   - flash
-Series: Friday Flashing, Spirit Boxing
+  - spirit_boxing
+Series: Friday Flashing
 notes: "This is my first crossover between my #fridayflashing stories and my other stories, but it won't be the last. This one is just a light crossover, introducing us to Callie's friend and fellow influencer, Hazel, who we will eventually see in #spirit_boxing but so far has only been mentioned."
 ---
 "Hey every*one*!" Hazel beamed into the camera she held at arm's length. "*TwitchWitch* again we're on another spooky adventure!"  She walked backward down a narrow path toward a cabin surrounded by dense woods.  "Of *course* I'm here with my producer, the original *BooBuster*!" She turned the camera on Lena who was carrying two bags of groceries and a cardboard box of Merlot.
