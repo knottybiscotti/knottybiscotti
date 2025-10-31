@@ -1,5 +1,5 @@
 ---
-title: 10-31 The Pumpkin Lord's Price
+title: The Pumpkin Lord's Price
 summary: |-
   Rhiannon rings like a bell through the night, and
   Wouldn't you love to love her?
