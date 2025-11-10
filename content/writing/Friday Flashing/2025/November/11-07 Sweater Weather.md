@@ -68,3 +68,5 @@ Once clothed, I look around the mossy clearing that had been last night's bedroo
 
 ***
 <signature>Knotty</signature>
+***
+![friday-flashing|150](/writing/media/Series/friday-flashing.png)
