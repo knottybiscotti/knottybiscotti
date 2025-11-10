@@ -13,15 +13,15 @@
 {{ end }}
 
 {{ if .IsSection }}
-  {{ .Scratch.Set "title" ($.Site.Params.brand) }}
-  {{ .Scratch.Add "title" " - " }}
-  {{ .Scratch.Add "title" .LinkTitle }}
+  {{ .Scratch.Set "title" .LinkTitle }}
+  {{ .Scratch.Add "title" " @ " }}
+  {{ .Scratch.Add "title" ($.Site.Params.brand) }}
 {{ end }}
 
 {{ if .IsPage }}
-  {{ .Scratch.Set "title" ($.Site.Params.brand) }}
-  {{ .Scratch.Add "title" " - " }}
-  {{ .Scratch.Add "title" .LinkTitle }}
+  {{ .Scratch.Set "title" .LinkTitle }}
+  {{ .Scratch.Add "title" " @ " }}
+  {{ .Scratch.Add "title" ($.Site.Params.brand) }}
 {{ end }}
 
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
@@ -46,6 +46,12 @@
     <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
   {{ end -}}
 {{ end -}}
+
+{{ if .IsPage }}
+  {{ if .Params.Thumbnail }}
+    <meta property="og:image" content="{{ .Params.Thumbnail }}" />
+  {{ end }}
+{{ end }}
 
 <!-- Title Tags -->
 <title itemprop="name">{{ .Scratch.Get "title" }}</title>
