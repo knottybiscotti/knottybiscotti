@@ -124,15 +124,29 @@ a.social:hover {
     width: 66%;
 }
 
-.content.container .image-refs img {
-    float: none;
+.content.container img.image-refs {
     padding: 15px;
     vertical-align: middle;
     width: 66%;
 }
 
-.content.container .thumbnail img {
-    display: none;
+.content.container img.thumbnail {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 7%;
+    z-index: 100;
+    border-radius: 5px;
+    box-shadow: 4px 3px 5px var(--accent-colour);
+    border: 1px solid var(--sub-colour);
+    padding: 0;
+    margin: 0;
+    opacity: 10%;
+    transition: opacity 0.5s ease-in;
+}
+
+.content.container img.thumbnail:hover {
+    opacity: 95%;
 }
 
 signature {
