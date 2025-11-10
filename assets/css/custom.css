@@ -124,9 +124,12 @@ a.social:hover {
     width: 66%;
 }
 
-.content.container img.image-refs {
+.content.container .image-refs img {
     padding: 15px;
-    vertical-align: middle;
+    position: inline;
+    float: none;
+    clear: both;
+    align: middle;
     width: 66%;
 }
 
