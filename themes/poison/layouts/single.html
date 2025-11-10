@@ -6,10 +6,6 @@
         <div class="summary">
             {{ .Page.Params.Notes }}
         </div>
-    {{ else }}
-        <div class="summary">
-            This post has no notes.
-        </div>
     {{ end }}
     {{ if (.Site.Params.listmonk) }}
         {{ partial "post/listmonk_email_newsletters.html" . }}
@@ -19,6 +15,11 @@
         {{ partial "post/comments.html" . }}
     {{ end }}
 </div>
+{{ if .Page.Params.Thumbnail }}
+    <div class="thumbnail">
+       <img src="{{.Page.Params.Thumbnail}}">
+    </div>
+{{ end }}
 {{- end }}
 {{ define "sidebar" }}
     {{ if and (not .Params.hideToc) (not .Site.Params.hideToc) }}

@@ -17,6 +17,7 @@ tags:
   - oral_sex
   - haunting
 Series: Friday Flashing
+Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 "Mmm, you'll be wantin' to stay the night," the old man says to me and I can smell the blend of fried fish and sour beer on his breath. I give him my most withering look, but he must be too pickled to read my body language.
 
@@ -68,5 +69,3 @@ Once clothed, I look around the mossy clearing that had been last night's bedroo
 
 ***
 <signature>Knotty</signature>
-***
-![friday-flashing|150](/writing/media/Series/friday-flashing.png)

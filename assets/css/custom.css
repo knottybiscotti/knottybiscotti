@@ -124,6 +124,17 @@ a.social:hover {
     width: 66%;
 }
 
+.content.container .image-refs img {
+    float: none;
+    padding: 15px;
+    vertical-align: middle;
+    width: 66%;
+}
+
+.content.container .thumbnail img {
+    display: none;
+}
+
 signature {
     font-family: Indie Flower;
     font-size: larger;
