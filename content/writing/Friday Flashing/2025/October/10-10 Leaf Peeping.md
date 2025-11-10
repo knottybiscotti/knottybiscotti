@@ -16,6 +16,7 @@ tags:
   - outdoors
   - nsfw
 Series: Friday Flashing
+Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 "My name's Harper, you can call me Harper." That joke always got a few chuckles and a few groans, but Harper never gave up on it. _I'll marry the girl who laughs at that one,_ she’d joke to the other guides, who would invariably roll their eyes and change the subject.
 

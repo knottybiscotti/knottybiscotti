@@ -20,6 +20,7 @@ tags:
   - nsfw
 Series: Friday Flashing
 notes: At 1600 words this is really stretching the definition of "Flash Fiction" but I really didn't want to cut out the second half of the scene.  I promise others will be tighter!
+Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 "Thank **God**!  I was sure you'd gotten us lost," Laurence declared as the car crept around a final bend in what she was certain was nothing more than a fire road.
 

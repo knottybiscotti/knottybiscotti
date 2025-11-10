@@ -20,6 +20,7 @@ tags:
   - story
   - supernatural
 series: Spirit Boxing
+Thumbnail: /writing/media/Series/spirit-boxing.png
 ---
 
 "Hey Seekers! It's y'girl SeekerCK!" Looking directly into the camera on her phone Callie had the briefest flicker of doubt. She had passed a hundred thousand subscribers last month but how many of them were real? Like, really real? There were barely a dozen she remembered as regulars in her comment section. She always looked for *BeBea* and *Shay Day* leaving notes for her first, they were her favourite. In a strange way she even looked forward to the salt from *PunkyDebunker*; constantly calling her a fake and a fraud. It always felt good-natured. Friendly salt. She regularly engaged in a dialog with him in the comments section – she didn't know who was behind that screen name but she was convinced they were a guy – trying to help him see how it would be impossible for her to make all this stuff up.
