@@ -1,20 +1,22 @@
 ---
-title: Saturday Night
-date: 2025-06-09
-draft: "false"
-showComments: "true"
-summary: Could this be the BEST night of Essa's life?  Well DUH!
-characters:
+Title: Saturday Night
+Summary: Could this be the BEST night of Essa's life?  Well DUH!
+Date: 2025-06-09
+Draft: "false"
+ShowComments: "true"
+Characters:
   - essa_stiik
-series: Liminal Space
-tags:
+  - briar_reinhardt
+Series: Liminal Space
+Tags:
   - essa_stiik
   - sci-fi
   - sfw
   - fluff
   - Briar
   - slice_of_life
-notes: This one started out a fun, breezy thing but when it reached the point in the story where Essa finally encountered Ms. Jaddi I ground to an absolute halt.  I just didn't want to write the bit where someone was mean to her.  She's so sweet and optimistic and curious and to have someone be just awful to her felt really bad.  The only thing that kept me going was knowing that Briar was going to swoop in like an angry raptor and rescue poor Essa.
+Notes: This one started out a fun, breezy thing but when it reached the point in the story where Essa finally encountered Ms. Jaddi I ground to an absolute halt.  I just didn't want to write the bit where someone was mean to her.  She's so sweet and optimistic and curious and to have someone be just awful to her felt really bad.  The only thing that kept me going was knowing that Briar was going to swoop in like an angry raptor and rescue poor Essa.
+Thumbnail: /writing//media/Series/liminal-space.png
 ---
 
 "You are a *vision*, Ms. Stick!" the shop-girl gushed as Essa turned to look at herself from all the angles in the mirrors. Other shops would have had micrometre-accurate holographic representations of herself modelling the dress so she could see precisely how she looked in it, but Essa liked this place better. It felt more real, more *authentic*, somehow, and she wanted so very badly to be so *very* authentic tonight.

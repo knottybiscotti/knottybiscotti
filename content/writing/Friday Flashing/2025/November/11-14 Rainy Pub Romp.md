@@ -1,13 +1,14 @@
 ---
-title: Rainy Pub Romp
-summary: A storm rages outside, but inside the pub, things are very, very warm! Quiet conversations, stolen touches, and a secret that must be kept. Sometimes, the best nights are the ones you never see coming.
-date: 2025-10-26
-draft: true
-showComments: true
-characters:
+Title: Rainy Pub Romp
+Summary: A storm rages outside, but inside the pub, things are very, very warm! Quiet conversations, stolen touches, and a secret that must be kept. Sometimes, the best nights are the ones you never see coming.
+Date: 2025-10-26
+Draft: true
+ShowComments: true
+Characters:
   - taran_macneill
   - blair_kerr
-tags:
+Series: Friday Flashing
+Tags:
   - story
   - public
   - exhibitionism
@@ -22,8 +23,7 @@ tags:
   - Sexytember
   - tender
   - second_person
-Series: Friday Flashing
-notes: Here's one under a 1000 words! 🤸 A couple of new characters here, my very first time 'publishing' any writing where I tried to write in the second person (I really hope it lands for you!) and the first time I've basically cribbed from my own life! The pub in this story is based loosely on one I would visit when I lived in Glasgow, though I was in The Gorbals and this one is on the other side of the River Clyde.  I hope you enjoy!  I'm sure we'll see Taran and Blair again.
+Notes: Here's one under a 1000 words! 🤸 A couple of new characters here, my very first time 'publishing' any writing where I tried to write in the second person (I really hope it lands for you!) and the first time I've basically cribbed from my own life! The pub in this story is based loosely on one I would visit when I lived in Glasgow, though I was in The Gorbals and this one is on the other side of the River Clyde.  I hope you enjoy!  I'm sure we'll see Taran and Blair again.
 Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 The sleet chases you through the door as you struggle to close it behind you. The warm, smoky, whisky-soaked air wraps you in a lover's embrace. The only one to take note of your arrival is Noah, forever tending bar, and he only offers a nod and a flick of his head that says, "Wherever you can find a seat."

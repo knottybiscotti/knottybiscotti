@@ -1,10 +1,14 @@
 ---
-title: "No Regrets: Chapter 1"
+Title: "No Regrets: Chapter 1"
 Summary: Wherein Talula Goodman returns home after a long time on the road and encounters a childhood friend.
-characters:
+Date: 2025-04-27
+Draft: false
+ShowComments: true
+Characters:
   - talula_goodman
   - mary_mawdsley
-tags:
+Series: The Well
+Tags:
   - fiction
   - implied_violence
   - lesbian
@@ -14,9 +18,7 @@ tags:
   - the_well
   - violence
   - western
-Series: The Well
-date: 2025-04-27
-showComments: true
+Notes:
 Thumbnail: /writing/media/Series/the-well.png
 ---
 

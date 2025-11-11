@@ -1,13 +1,14 @@
 ---
-title: Leaf Peeping
-summary: On a guided “leaf peeping” hike, Alex seems to make a connection with the guide.  She's had enough of her life in the city and is sure a weekend hiking in the woods and looking at the beauty of nature is just what she needs right now.
-date: 2025-10-10
-draft: false
-showComments: true
+Title: Leaf Peeping
+Summary: On a guided “leaf peeping” hike, Alex seems to make a connection with the guide.  She's had enough of her life in the city and is sure a weekend hiking in the woods and looking at the beauty of nature is just what she needs right now.
+Date: 2025-10-10
+Draft: false
+ShowComments: true
 Characters:
   - alex_taylor
   - harper_ellison
-tags:
+Series: Friday Flashing
+Tags:
   - story
   - lesbian
   - alex_taylor
@@ -15,7 +16,7 @@ tags:
   - tender
   - outdoors
   - nsfw
-Series: Friday Flashing
+Notes:
 Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 "My name's Harper, you can call me Harper." That joke always got a few chuckles and a few groans, but Harper never gave up on it. _I'll marry the girl who laughs at that one,_ she’d joke to the other guides, who would invariably roll their eyes and change the subject.

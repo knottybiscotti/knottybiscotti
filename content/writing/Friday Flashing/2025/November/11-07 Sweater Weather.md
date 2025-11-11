@@ -1,12 +1,13 @@
 ---
-title: Sweater Weather
-summary: A drifter's night takes a surreal turn when they encounter a mysterious woman on a lonely road. Drawn into a dreamlike encounter beneath the moon, the line between reality and illusion begins to blur.
-date: 2025-11-07
-draft: false
-showComments: true
-characters:
+Title: Sweater Weather
+Summary: A drifter's night takes a surreal turn when they encounter a mysterious woman on a lonely road. Drawn into a dreamlike encounter beneath the moon, the line between reality and illusion begins to blur.
+Date: 2025-11-07
+Draft: false
+ShowComments: true
+Characters:
   - riven_morrow
-tags:
+Series: Friday Flashing
+Tags:
   - story
   - folklore
   - gothic_horror
@@ -16,7 +17,7 @@ tags:
   - outdoors
   - oral_sex
   - haunting
-Series: Friday Flashing
+Notes:
 Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 "Mmm, you'll be wantin' to stay the night," the old man says to me and I can smell the blend of fried fish and sour beer on his breath. I give him my most withering look, but he must be too pickled to read my body language.

@@ -1,12 +1,13 @@
 ---
-title: I NEVER expected THIS at a HAUNTED Farm! (Insane!)
-summary: Callie's friend and fellow ghost-hunter told her about a mysterious farm with a spooky back story, so she takes her gear and her viewers out for a little adventure.  Thing is, she might be getting more than she bargained for!
-date: 2025-05-22
-draft: false
-showComments: true
-characters:
+Title: I NEVER expected THIS at a HAUNTED Farm! (Insane!)
+Summary: Callie's friend and fellow ghost-hunter told her about a mysterious farm with a spooky back story, so she takes her gear and her viewers out for a little adventure.  Thing is, she might be getting more than she bargained for!
+Date: 2025-05-22
+Draft: false
+ShowComments: true
+Characters:
   - callie_keller
-tags:
+Series: Spirit Boxing
+Tags:
   - deep_throat
   - dubcon
   - facial
@@ -19,7 +20,7 @@ tags:
   - oral_sex
   - story
   - supernatural
-series: Spirit Boxing
+Notes:
 Thumbnail: /writing/media/Series/spirit-boxing.png
 ---
 

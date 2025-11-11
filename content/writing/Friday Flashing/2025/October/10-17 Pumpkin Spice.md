@@ -1,13 +1,14 @@
 ---
-title: Pumpkin Spice
-summary: Lydia orders a “Haunted Latte” at her favourite café and finds herself getting steamed in all the right ways. Something in the espresso starts grinding back, and suddenly the café’s serving more than caffeine.
-date: 2025-10-17
-draft: false
-showComments: true
-characters:
+Title: Pumpkin Spice
+Summary: Lydia orders a “Haunted Latte” at her favourite café and finds herself getting steamed in all the right ways. Something in the espresso starts grinding back, and suddenly the café’s serving more than caffeine.
+Date: 2025-10-17
+Draft: false
+ShowComments: true
+Characters:
   - lydia_march
   - rowan_vex
-tags:
+Series: Friday Flashing
+Tags:
   - story
   - magic
   - lesbian
@@ -18,7 +19,7 @@ tags:
   - nsfw
   - supernatural
   - haunting
-Series: Friday Flashing
+Notes:
 Thumbnail: /writing/media/Series/friday-flashing.png
 ---
 Lightning split the night sky, casting the rain-slick sidewalk in stark relief, startling pedestrians with the ferocity of the crack. It was close, no doubt one of the taller buildings that loomed over the street like shadowy sentinels.  The rain hammered mercilessly against the windows of *The Perkatory Café*, as if the storm were a living thing trying to claw its way inside.
