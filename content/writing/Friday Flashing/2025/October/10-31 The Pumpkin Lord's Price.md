@@ -1,10 +1,11 @@
 ---
 Title: The Pumpkin Lord's Price
 Summary: |-
-  Rhiannon rings like a bell through the night, and
-  Wouldn't you love to love her?
-  Takes to the sky like a bird in flight, and
+  Rhiannon rings like a bell through the night, and<br/>
+  Wouldn't you love to love her?<br/>
+  Takes to the sky like a bird in flight, and<br/>
   Who will be her lover?
+  <div style="text-align:right">"Rhiannon", Fleetwood Mac</div>
 Date: 2025-10-31
 Draft: false
 ShowComments: true
