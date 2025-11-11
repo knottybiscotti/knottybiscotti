@@ -18,7 +18,7 @@ Tags:
   - oral_sex
   - haunting
 Notes:
-Thumbnail: /writing/media/Series/friday-flashing.png
+Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Mmm, you'll be wantin' to stay the night," the old man says to me and I can smell the blend of fried fish and sour beer on his breath. I give him my most withering look, but he must be too pickled to read my body language.
 
