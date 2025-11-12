@@ -8,15 +8,18 @@ Characters:
   - riven_morrow
 Series: Friday Flashing
 Tags:
-  - story
+  - cunnilingus
+  - dubcon
+  - flash
   - folklore
   - gothic_horror
-  - supernatural
-  - queer
-  - flash
-  - outdoors
-  - oral_sex
   - haunting
+  - mind_control
+  - oral_sex
+  - outdoors
+  - queer
+  - story
+  - supernatural
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
