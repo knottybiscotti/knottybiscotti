@@ -1,8 +1,8 @@
 ---
 Title: Giving Thanks
-Summary: In the midst of an historic ice storm, two college radio hosts find themselves unexpectedly alone on air, navigating the chaos outside as Thanksgiving approaches and their simmering connection inside. With humour, warmth, and a hint of mischief, they share thoughts, gratitude, and a surprising moment that tests their friendship.
+Summary: In the midst of an historic ice storm, two high school friends, college radio hosts, find themselves unexpectedly alone on air, comforting their listeners on Thanksgiving Eve and navigating their simmering connection inside. With humour, warmth, and a hint of mischief, they share thoughts, gratitude, and a surprising moment that tests their friendship.
 Date: 2025-11-21
-Draft: true
+Draft: false
 ShowComments: true
 Characters:
   - rachel_brooks
@@ -22,7 +22,7 @@ Tags:
   - fingering
   - lgbtqia2s+
 Notes:
-Thumbnail: /writing/media/Series/friday-flashing.png
+Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Welcome back, dear listeners. Or if you're just joining us, welcome to it. Where *it* is feeling like the *frozen end times* out there! The city's buried under an inch of ice, the airport's been shut down since nine this morning and that's, uhhh, fourteen hours now? Check my math, willya, Rach?"
 
