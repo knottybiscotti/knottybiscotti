@@ -14,7 +14,10 @@ Tags:
   - sci-fi
   - comedy
   - frustration
-Notes: This is the first appearance of Essa from my Liminal Space series of stories crossing over into the Friday Flashing series. The idea of her being caught in an ion storm was too delicious to pass up as soon as the idea occurred to me! I needed to think a bit more about how it could be a surprise, but given that a significant solar particle event can have high energy particles reaching Earth in as little as 10 minutes, bringing us to a small, highly active red dwarf, anyone inside the Goldilocks Zone would have seconds, at most, before they experienced the event.<br/>I'm not pretending there's any science supporting this silly bit of smut, but I can assure you I've thought about it at least a litte! 💖
+Notes: |-
+  This is the first appearance of Essa from my Liminal Space series of stories crossing over into the Friday Flashing series. The idea of her being caught in an ion storm was too delicious to pass up as soon as the idea occurred to me! I needed to think a bit more about how it could be a surprise, but given that a significant solar particle event can have high energy particles reaching Earth in as little as 10 minutes, bringing us to a small, highly active red dwarf, anyone inside the Goldilocks Zone would have seconds, at most, before they experienced the event.
+
+  I'm not pretending there's any science supporting this silly bit of smut, but I can assure you I've thought about it at least a litte! 💖
 Thumbnail: /knottybiscotti/writing/media/Essa/Essa_blunt_SFW.png
 ---
 
