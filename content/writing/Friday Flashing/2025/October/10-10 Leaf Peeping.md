@@ -11,8 +11,6 @@ Series: Friday Flashing
 Tags:
   - story
   - lesbian
-  - alex_taylor
-  - harper_ellison
   - tender
   - outdoors
   - nsfw
@@ -57,7 +55,7 @@ The sun edged toward the horizon as the group reached the trailhead parking lot.
 
 "This was _just_ what I needed!" Alex exclaimed as the others departed. Harper offered Alex her warmest smile. The last few hours had kept Alex close and Harper had been more than a little charmed by how genuine and enthusiastic this city girl seemed, even when she was clearly struggling with the exertion.
 
-Harper’s gaze sharpened, confident and teasing. “I’m glad,” she said smoothly, wrapping her arms around Alex in a quick, warm hug. She’d guessed Alex wanted more than just a handshake. Alex hesitated for a moment, then returned the hug wight vigor.
+Harper’s gaze sharpened, confident and teasing. “I’m glad,” she said smoothly, wrapping her arms around Alex in a quick, warm hug. She’d guessed Alex wanted more than just a handshake. Alex hesitated for a moment, then returned the hug with vigour.
 
 When they parted, Harper caught the faintest blush and made up her mind. “It’s a shame we don’t get to visit my favourite spot,” she said softly. “You’d love it.”
 
