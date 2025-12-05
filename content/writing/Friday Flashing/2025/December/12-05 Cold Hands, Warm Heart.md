@@ -25,7 +25,7 @@ The night air was bitterly cold. It *was* the first week of December, but this w
 
 She didn't care one bit.
 
-Two months ago, on a whim, she'd gone [leaf peeping](/knottybiscotti/writing/Friday%20Flashing/2025/October/10-10%20Leaf%20Peeping.md), a guided hike for "city folk" led by Harper. They'd spent every weekend since that one together, and now, tonight, the two women were cuddled together, standing at a chest-high barrel table beneath zigzagging fairy lights, listening to a band perform a mix of standards and holiday songs on a stage somewhere near the temporary skating rink. The Christmas Market was overwrought and overcrowded, and Alex was having the best night of her life.
+Two months ago, on a whim, she'd gone [leaf peeping](/knottybiscotti/writing/friday-flashing/2025/october/10-10-leaf-peeping/), a guided hike for "city folk" led by Harper. They'd spent every weekend since that one together, and now, tonight, the two women were cuddled together, standing at a chest-high barrel table beneath zigzagging fairy lights, listening to a band perform a mix of standards and holiday songs on a stage somewhere near the temporary skating rink. The Christmas Market was overwrought and overcrowded, and Alex was having the best night of her life.
 
 Every night she'd spent with Harper had been a new "best of her life" night.
 
