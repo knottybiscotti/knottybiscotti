@@ -1,5 +1,5 @@
 ---
-title: Winter Night, Cozy Fire
+title: A Quiet Storm
 summary: During a stormy evening, two women share a quiet, intimate moment in their cozy home. As the wind howls outside, their connection unfolds through gentle touches and unspoken support, revealing the depth of their love and trust. This tender scene captures the beauty of long-term intimacy in a simple, heartfelt way.
 date: 2025-12-12
 draft: false
