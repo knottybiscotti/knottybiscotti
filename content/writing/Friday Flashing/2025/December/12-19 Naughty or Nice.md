@@ -2,7 +2,7 @@
 title: Naughty or Nice
 summary: We spend a cozy evening in with Heidi and Eleanor as they share their first Christmas together. Eleanor has been very careful to bring the thoughtful, meaningful type of gifts for Heidi.
 date: 2025-12-19
-draft: true
+draft: false
 showComments: true
 characters:
 series: Friday Flashing
