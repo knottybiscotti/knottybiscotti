@@ -5,7 +5,7 @@ date: 2025-12-12
 draft: false
 showComments: true
 characters:
-Series: Friday Flashing
+series: Friday Flashing
 tags:
   - story
   - sapphic
