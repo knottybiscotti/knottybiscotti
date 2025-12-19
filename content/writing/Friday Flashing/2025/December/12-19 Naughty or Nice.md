@@ -20,9 +20,12 @@ Notes: "What I've learned with this little exercise: (1) I love writing quick li
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 
-*I ought to say no, no, no sir.*
+*I ought to say no, no, no sir.
+
 *Mind if move in closer?*
+
 *At least I'm gonna say that I tried.*
+
 *What's the sense of hurting my pride?*
 
 "Heidi, dear, where are you?"
