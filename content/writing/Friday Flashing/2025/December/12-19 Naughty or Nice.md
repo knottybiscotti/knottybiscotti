@@ -16,7 +16,7 @@ tags:
   - control
   - age_difference
   - tender
-Notes: Brand new challenge this time! No dialogue! No characters! Well, obviously characters, two, at least, you could argue there's more than that here, but the two women are characters, but neither is named. My intent was to draw you, my wonderful readers, deep into the scene and focus on the experience. I sure hope it worked!  Next week is something easier.  I've had some more challenging stuff to write and I'm happy with the results, so now I'm going to do something fun and FILTHY. 🥰
+Notes: "What I've learned with this little exercise: (1) I love writing quick little scenes and finally letting some of my character ideas have their own stories! (2) When I DON'T have time to fuss over every detail, I enjoy the writing process more! (3) I don't like letting half-baked stories out into the world, but I LOVE sharing more of my writing. I like pretending I have an audience! (4) As soon as I 'finish' a story that's when I'm most motivated to start my next one! (5) Editing is f-ing HARD!  Seriously, this one's over 2000 words when I intended it to be around 800. I need a good editor to SHUT ME UP❣️"
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 
