@@ -106,7 +106,7 @@ Heidi set aside the jewellery box and retrieved the next item from the stocking.
 
 ***SMACK!***
 
-The candy-cane paddle's sharp crack cut through Heidi's words, leaving her gasping in shock and pain. Her ass flared with pain immediatly and she nearly toppled forward, but Eleanor swiftly pulled her upright by her harness. Still kneeling on the floor behind Heidi, Eleanor brought her lips to the sub's ear once more.
+The candy-cane paddle's sharp crack cut through Heidi's words, leaving her gasping, tears welling up in her eyes. Her ass flared with pain immediately and she nearly toppled forward, but Eleanor swiftly pulled her upright by her harness. Still kneeling on the floor behind Heidi, Eleanor brought her lips to the sub's ear once more.
 
 "Heidi. *Naughty* or *nice*."
 
