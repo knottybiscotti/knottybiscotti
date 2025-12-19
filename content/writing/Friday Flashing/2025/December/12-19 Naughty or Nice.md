@@ -16,17 +16,14 @@ tags:
   - control
   - age_difference
   - tender
-Notes: "What I've learned with this little exercise: (1) I love writing quick little scenes and finally letting some of my character ideas have their own stories! (2) When I DON'T have time to fuss over every detail, I enjoy the writing process more! (3) I don't like letting half-baked stories out into the world, but I LOVE sharing more of my writing. I like pretending I have an audience! (4) As soon as I 'finish' a story that's when I'm most motivated to start my next one! (5) Editing is f-ing HARD!  Seriously, this one's over 2000 words when I intended it to be around 800. I need a good editor to SHUT ME UP❣️"
+Notes: "What I've learned with this little exercise: (1) I love writing quick little scenes and finally letting some of my character ideas have their own stories! (2) When I DON'T have time to fuss over every detail, I enjoy the writing process more! (3) I don't like letting half-baked stories out into the world, but I LOVE sharing more of my writing. I like pretending I have an audience! (4) As soon as I 'finish' a story that's when I'm most motivated to start my next one! (5) Editing is f-ing HARD!  Seriously, this one's over 2000 words when I intended it to be around 800. I need a good editor to SHUT ME UP❣️<br/>Also, I threw out TWO items I had in the stocking in the original draft because even with this I'm OVER 2100 words! I'm a monster."
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 
-*I ought to say no, no, no sir.
-
-*Mind if move in closer?*
-
-*At least I'm gonna say that I tried.*
-
-*What's the sense of hurting my pride?*
+*I ought to say no, no, no sir.*<br/>
+*Mind if move in closer?*<br/>
+*At least I'm gonna say that I tried.*<br/>
+*What's the sense of hurting my pride?*<br/>
 
 "Heidi, dear, where are you?"
 
@@ -102,7 +99,7 @@ Heidi set aside the jewellery box and retrieved the next item from the stocking.
 
 "I don't underst—"
 
-**SMACK!**
+***SMACK!***
 
 The candy-cane paddle's sharp crack cut through Heidi's words, leaving her gasping in shock and pain. Her ass flared with pain immediatly and she nearly toppled forward, but Eleanor swiftly pulled her upright by her harness. Still kneeling on the floor behind Heidi, Eleanor brought her lips to the sub's ear once more.
 
@@ -120,7 +117,7 @@ Heidi's teeth sank into her lower lip, her mind racing with the consequences of 
 
 "I *can't*," Heidi felt herself getting light-headed. She couldn't say these things out loud. Not to Eleanor! But she couldn't disobey her either!
 
-**SMACK!**
+***SMACK!***
 
 "I'm *trying*!" Heidi was gasping for breath, desperate for any way to avoid confessing.
 
