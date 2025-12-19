@@ -20,10 +20,12 @@ Notes: "What I've learned with this little exercise: (1) I love writing quick li
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 
+<blockquote>
 *I ought to say no, no, no sir.*<br/>
 *Mind if move in closer?*<br/>
 *At least I'm gonna say that I tried.*<br/>
 *What's the sense of hurting my pride?*<br/>
+</blockquote>
 
 "Heidi, dear, where are you?"
 
