@@ -1,6 +1,6 @@
 ---
 title: Reindeer Trials
-summary: Eleanor and Heidi are back! This one is an intimate exploration of vulnerability and trust, as they navigate their passions and discover the unbreakable strength of their bond through love, lust and trust.
+summary: Eleanor and Heidi are back! This one is an intimate exploration of vulnerability and trust, as they navigate their passions and discover the unbreakable strength of their bond through love, lust and who each can be for the other.
 date: 2025-12-26
 draft: false
 showComments: true
