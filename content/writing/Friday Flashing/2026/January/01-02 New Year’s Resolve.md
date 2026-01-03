@@ -8,6 +8,11 @@ Characters:
   - rhiannon_carrow
 Tags:
   - story
+  - nsfw
+  - oral_sex
+  - heterosexual
+  - rough
+  - fiction
 Series: Friday Flashing
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

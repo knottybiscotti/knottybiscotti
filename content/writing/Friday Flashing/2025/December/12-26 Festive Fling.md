@@ -20,6 +20,7 @@ tags:
   - strap_on
   - pet_play
   - orgasm
+Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 Eleanor stood before the floor-to-ceiling windows in her apartment living room. The snow piled up on the balcony, and below, the city twinkled with a festive glow. She savoured a slow sip from the short-stemmed wine glass, delighting in the sweet, creamy texture. The eggnog flowed smoothly over her tongue and into her throat. The glass, with its squat, heavy body and square-ish bowl with a gold rim, was a ridiculous bit of nostalgia for her. The side of the glass featured two colourful stripes, one red and one green, topped with a ring of holly and berries. A childhood holdover, the glasses made the holiday feel somehow *more* special when she drank eggnog from them.
 

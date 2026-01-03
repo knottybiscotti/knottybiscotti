@@ -20,7 +20,7 @@ Tags:
   - flash
   - spirit_boxing
 Notes: "This is my first crossover between my #fridayflashing stories and my other stories, but it won't be the last. This one is just a light crossover, introducing us to Callie's friend and fellow influencer, Hazel, who we will eventually see in #spirit_boxing but so far has only been mentioned."
-Thumbnail: /writing/media/Series/friday-flashing.png
+Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Hey every*one*!" Hazel beamed into the camera she held at arm's length. "*TwitchWitch* again we're on another spooky adventure!"  She walked backward down a narrow path toward a cabin surrounded by dense woods.  "Of *course* I'm here with my producer, the original *BooBuster*!" She turned the camera on Lena who was carrying two bags of groceries and a cardboard box of Merlot.
 
