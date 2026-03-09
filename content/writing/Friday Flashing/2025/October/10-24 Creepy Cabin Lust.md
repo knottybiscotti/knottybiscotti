@@ -5,8 +5,8 @@ Date: 2025-10-24
 Draft: false
 ShowComments: true
 Characters:
-  - lena_costas
-  - hazel_davis
+  - "[[Lena Costas]]"
+  - "[[Hazel Davis]]"
 Series: Friday Flashing
 Tags:
   - story
