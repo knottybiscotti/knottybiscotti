@@ -42,13 +42,17 @@ She would not be here for Valentine's Day.  The first Valentine's Day since Heid
 She texted Heidi to give her the news, which, of course, she was absolutely jubilant over.
 
 > 🎉👏🏆
+> 
 > Omg congrats!! so hyped you’re literally amazing 😭💖
 
 > I'm going to miss our Valentine's Day, won't be home until after 10pm on Saturday.
 
 > 😢
+> 
 > j/k another time?
+> 
 > ...
+> 
 > im free tonight 🙏
 
 Eleanor's disappointment vanished.
