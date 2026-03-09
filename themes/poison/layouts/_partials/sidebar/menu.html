@@ -69,11 +69,13 @@
                                 </li>
                             {{ end }}
 
-                            {{ $name := replaceRE `\[\[[^|]+\|([^\]]+)\]\]` `$1` $menu_item.Name }}
-                            {{ $clean_term := replaceRE `\[\[[^|]+\|([^\]]+)\]\]` `$1` $term }}
+                            {{ $clean_term := $term
+                                | replaceRE `\[\[[^|]+\|([^\]]+)\]\]` `$1`
+                                | replaceRE `\[\[([^\]]+)\]\]` `$1`
+                            }}
 
-                            <li class="bullet taxonomies menu-entries {{ lower (replace $name " " "-") }}">
-                               <a href="/{{ lower (replace $name " " "-") }}/{{ replace $clean_term " " "-" }}">
+                            <li class="bullet taxonomies menu-entries {{ $name | urlize }}">
+                               <a href="/{{ $name | urlize }}/{{ $clean_term | urlize }}">
                                   {{ title (replace $clean_term "_" " ") }}
                                </a>
                             </li>
