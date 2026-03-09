@@ -74,7 +74,7 @@
 
                             <li class="bullet taxonomies menu-entries {{ $slug }}">
                                <a href="/{{ $slug }}/{{ $slugterm | urlize }}">
-                                  {{ title (replace $slugterm "_" " ") | strings.Title }}
+                                  {{ title (replace $slugterm "-" " ") | strings.Title }}
                                </a>
                             </li>
                         {{ end }}
