@@ -70,7 +70,7 @@
                             {{ end }}
 
                             {{ $slug := partial "obsidian-slug.html" $menu_item.Name }}
-                            {{ $slugterm := partial "obsidian-slug.html" $menu_item.Name }}
+                            {{ $slugterm := partial "obsidian-slug.html" $term }}
 
                             <li class="bullet taxonomies menu-entries {{ $slug }}">
                                <a href="/{{ $slug }}/{{ $slugterm | urlize }}">
