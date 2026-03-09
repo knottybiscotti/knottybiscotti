@@ -70,10 +70,11 @@
                             {{ end }}
 
                             {{ $slug := partial "obsidian-slug.html" $menu_item.Name }}
+                            {{ $slugterm := partial "obsidian-slug.html" $menu_item.Name }}
 
                             <li class="bullet taxonomies menu-entries {{ $slug }}">
-                               <a href="/{{ $slug }}/{{ $term | urlize }}">
-                                  {{ title (replace $term "_" " ") | strings.Title }}
+                               <a href="/{{ $slug }}/{{ $slugterm | urlize }}">
+                                  {{ title (replace $slugterm "_" " ") | strings.Title }}
                                </a>
                             </li>
                         {{ end }}
