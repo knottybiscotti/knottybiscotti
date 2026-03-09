@@ -69,14 +69,11 @@
                                 </li>
                             {{ end }}
 
-                            {{ $clean_term := $term
-                                | replaceRE `\[\[[^|]+\|([^\]]+)\]\]` `$1`
-                                | replaceRE `\[\[([^\]]+)\]\]` `$1`
-                            }}
+                            {{ $slug := partial "obsidian-slug.html" $menu_item.Name }}
 
-                            <li class="bullet taxonomies menu-entries {{ $name | urlize }}">
-                               <a href="/{{ $name | urlize }}/{{ $clean_term | urlize }}">
-                                  {{ title (replace $clean_term "_" " ") }}
+                            <li class="bullet taxonomies menu-entries {{ $slug }}">
+                               <a href="/{{ $slug }}/{{ $term | urlize }}">
+                                  {{ title (replace $term "_" " ") | strings.Title }}
                                </a>
                             </li>
                         {{ end }}

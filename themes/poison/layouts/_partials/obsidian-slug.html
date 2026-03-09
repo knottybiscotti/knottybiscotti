@@ -1,0 +1,16 @@
+{{- $name := . -}}
+
+{{- /* [[path|alias]] -> alias */ -}}
+{{- $name = replaceRE `\[\[[^|]+\|([^\]]+)\]\]` `$1` $name -}}
+
+{{- /* [[text]] -> text */ -}}
+{{- $name = replaceRE `\[\[([^\]]+)\]\]` `$1` $name -}}
+
+{{- /* If a path remains, keep the last part */ -}}
+{{- $parts := split $name "/" -}}
+{{- $name = index $parts (sub (len $parts) 1) -}}
+
+{{- /* Convert to URL slug */ -}}
+{{- $name = $name | lower | urlize -}}
+
+{{- return $name -}}
