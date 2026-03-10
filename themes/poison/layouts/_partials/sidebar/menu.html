@@ -69,13 +69,8 @@
                                 </li>
                             {{ end }}
 
-                            {{ $slug := partial "obsidian-slug.html" $menu_item.Name }}
-                            {{ $slugterm := partial "obsidian-slug.html" $term }}
-
-                            <li class="bullet taxonomies menu-entries {{ $slug }}">
-                               <a href="/{{ $slug }}/{{ $slugterm | urlize }}">
-                                  {{ title (replace $slugterm "-" " ") | strings.Title }}
-                               </a>
+                            <li class="bullet taxonomies menu-entries {{lower (replace $menu_item.Name " " "-")}}">
+                               <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{replace $term " " "-"}}">{{ title (replace $term "_" " ") }}</a>
                             </li>
                         {{ end }}
                     {{ end }}
