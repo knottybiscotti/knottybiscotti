@@ -22,7 +22,7 @@
             <ul class="tags">
             {{ range .Params.tags }}
                 {{- $slug := partial "obsidian-slug.html" . -}}
-                {{- $display := title $slug  -}}
+                {{- $display := title (replaceRE '[-_]' ' ' $slug) -}}
                 <li class="tag-{{ $display | urlize }}">
                     <a href='{{ "tags/" | absLangURL }}{{ $slug }}'>{{ title ($display) }}</a>
                 </li>
