@@ -54,19 +54,8 @@
 
                             {{ $taxCount = add $taxCount 1 }}
 
-                            {{/*
-                                Strip wiki links from $term for display.
-                                Two separate replaceRE calls avoid putting | inside a
-                                backtick string, which can confuse Hugo's template parser.
-                                Pass 1: [[path/to/File|Alias]] -> Alias
-                                Pass 2: [[Plain Name]]         -> Plain Name
-                                Then normalise slug separators (- and _) to spaces.
-                            */}}
-                            {{- $display := $term -}}
-                            {{- $display  = $display | replaceRE `\[\[[^\]]+\|([^\]]+)\]\]` "$1" -}}
-                            {{- $display  = $display | replaceRE `\[\[([^\]]+)\]\]` "$1" -}}
-                            {{- $display  = $display | replace "_" " " | replace "-" " " | title -}}
                             {{- $slug := partial "obsidian-slug.html" $term -}}
+                            {{- $display := title($slug) -}}
 
                             <li class="bullet taxonomies menu-entries {{lower (replace $menu_item.Name " " "-")}}">
                                 <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{ $slug }}">{{ title ($display) }}</a>

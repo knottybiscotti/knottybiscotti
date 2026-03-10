@@ -21,11 +21,8 @@
         {{ if .Params.tags }}
             <ul class="tags">
             {{ range .Params.tags }}
-                {{- $display := . -}}
-                {{- $display  = $display | replaceRE `\[\[[^\]]+\|([^\]]+)\]\]` "$1" -}}
-                {{- $display  = $display | replaceRE `\[\[([^\]]+)\]\]` "$1" -}}
-                {{- $display  = $display | replace "_" " " | replace "-" " " -}}
                 {{- $slug := partial "obsidian-slug.html" . -}}
+                {{- $display := title($slug) -}}
                 <li class="tag-{{ $display | urlize }}">
                     <a href='{{ "tags/" | absLangURL }}{{ $slug }}'>{{ title ($display) }}</a>
                 </li>
