@@ -16,10 +16,6 @@
 
             {{ if eq (len $menu_item.URL) 0 }}
                 <li class="heading {{lower $menu_item.Name}}">{{ $menu_item.Name }}</li>
-            {{ else if $menu_item.External }}
-                <li class="bullet">
-                    <a href="{{ $menu_item.URL }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
-                </li>
             {{ end }}
 
             <ul class="sidebar-nav inner">
@@ -30,12 +26,7 @@
                             <a href="{{ $menu_item.URL }}">{{ $menu_item.Name }}</a>
                         </li>
                         {{ if $menu_item.HasChildren }}
-                            {{ if $menu_item.SubHeading }}
-                                <li class="sub-heading">
-                                    {{ $menu_item.SubHeading }}
-                                </li>
-                            {{ end }}
-                            {{ range .Pages.Limit $entries  }}
+                            {{ range .Pages.Limit $entries }}
                                 <li class="bullet menu-entries">
                                     <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
                                 </li>
@@ -63,14 +54,12 @@
 
                             {{ $taxCount = add $taxCount 1 }}
 
-                            {{ if $menu_item.SubHeading }}
-                                <li class="sub-heading">
-                                    {{ $menu_item.SubHeading }}
-                                </li>
-                            {{ end }}
+                            {{/* Strip wiki links for display and URL */}}
+                            {{- $display := $term | replaceRE `\[\[[^\]]*\|([^\]]+)\]\]` "$1" | replaceRE `\[\[([^\]|]+)\]\]` "$1" | replace "_" " " | title -}}
+                            {{- $slug := partial "obsidian-slug.html" $term -}}
 
                             <li class="bullet taxonomies menu-entries {{lower (replace $menu_item.Name " " "-")}}">
-                               <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{replace $term " " "-"}}">{{ title (replace $term "_" " ") }}</a>
+                                <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{ $slug }}">{{ $display }}</a>
                             </li>
                         {{ end }}
                     {{ end }}
