@@ -69,7 +69,7 @@
                             {{- $slug := partial "obsidian-slug.html" $term -}}
 
                             <li class="bullet taxonomies menu-entries {{lower (replace $menu_item.Name " " "-")}}">
-                                <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{ $slug }}">{{ title $display }}</a>
+                                <a href="/{{lower (replace $menu_item.Name " " "-") }}/{{ $slug }}">{{ title ($display) }}</a>
                             </li>
                         {{ end }}
                     {{ end }}

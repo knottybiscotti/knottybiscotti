@@ -27,7 +27,7 @@
                 {{- $display  = $display | replace "_" " " | replace "-" " " -}}
                 {{- $slug := partial "obsidian-slug.html" . -}}
                 <li class="tag-{{ $display | urlize }}">
-                    <a href='{{ "tags/" | absLangURL }}{{ $slug }}'>{{ title $display }}</a>
+                    <a href='{{ "tags/" | absLangURL }}{{ $slug }}'>{{ title ($display) }}</a>
                 </li>
             {{ end }}
             </ul>
