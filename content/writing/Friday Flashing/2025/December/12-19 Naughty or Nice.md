@@ -10,10 +10,10 @@ characters:
 series: Friday Flashing
 tags:
   - story
-  - sapphic
+  - lesbian
   - lesbian
   - bdsm
-  - domme-sub
+  - domme_sub
   - confession
   - control
   - age_difference

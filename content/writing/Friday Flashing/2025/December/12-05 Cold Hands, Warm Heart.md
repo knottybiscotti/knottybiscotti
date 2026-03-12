@@ -13,7 +13,7 @@ Tags:
   - nsfw
   - hold_the_moan
   - lesbian
-  - sapphic
+  - lesbian
   - slice_of_life
   - secret_sex
   - outdoors

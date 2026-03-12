@@ -12,7 +12,7 @@ Tags:
   - story
   - nsfw
   - lesbian
-  - sapphic
+  - lesbian
   - fiction
   - flash
   - friday_flashing

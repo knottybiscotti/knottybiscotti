@@ -8,7 +8,7 @@ characters:
 series: Friday Flashing
 tags:
   - story
-  - sapphic
+  - lesbian
   - lesbian
   - cozy
   - fingering

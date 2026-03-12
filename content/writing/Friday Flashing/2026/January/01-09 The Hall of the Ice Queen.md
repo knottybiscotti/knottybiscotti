@@ -16,7 +16,7 @@ Tags:
   - confession
   - cunnilingus
   - nsfw
-  - sapphic
+  - lesbian
   - lesbian
   - fingering
   - bdsm

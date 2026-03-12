@@ -11,7 +11,7 @@ Series: Spirit Boxing
 Tags:
   - story
   - lesbian
-  - sapphic
+  - lesbian
   - supernatural
   - comedy
   - nsfw

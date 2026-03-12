@@ -9,10 +9,10 @@ characters:
   - heidi_price
 tags:
   - story
-  - sapphic
+  - lesbian
   - lesbian
   - bdsm
-  - domme-sub
+  - domme_sub
   - control
   - age_difference
   - tender

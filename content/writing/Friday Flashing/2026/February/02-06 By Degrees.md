@@ -14,14 +14,14 @@ Tags:
   - bdsm
   - body_worship
   - control
-  - domme-sub
+  - domme_sub
   - flash
   - friday_flashing
   - lesbian
   - nsfw
   - orgasm
   - queer
-  - sapphic
+  - lesbian
   - lgbtqia2s
   - pain
   - wax_play
