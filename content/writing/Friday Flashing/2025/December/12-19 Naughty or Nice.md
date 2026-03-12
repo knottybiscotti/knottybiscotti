@@ -13,7 +13,7 @@ tags:
   - sapphic
   - lesbian
   - bdsm
-  - D/s
+  - domme-sub
   - confession
   - control
   - age_difference

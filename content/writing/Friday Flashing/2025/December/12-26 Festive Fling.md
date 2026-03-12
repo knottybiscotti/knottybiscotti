@@ -12,7 +12,7 @@ tags:
   - sapphic
   - lesbian
   - bdsm
-  - D/s
+  - domme-sub
   - control
   - age_difference
   - tender

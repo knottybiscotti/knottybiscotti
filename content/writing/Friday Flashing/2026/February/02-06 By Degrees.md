@@ -14,7 +14,7 @@ Tags:
   - bdsm
   - body_worship
   - control
-  - D/s
+  - domme-sub
   - flash
   - friday_flashing
   - lesbian
