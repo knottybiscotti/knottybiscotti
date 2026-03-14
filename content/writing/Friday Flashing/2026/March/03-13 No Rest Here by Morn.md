@@ -10,13 +10,11 @@ Series: Friday Flashing
 tags:
   - dreamlike
   - fable_like
-  - flash_fiction_52
   - forest
   - low_fantasy
   - sensual
   - series_standalone
   - short_story
-  - story
   - strangers
   - tense
   - agender
@@ -28,7 +26,6 @@ tags:
   - deep_throat
   - gothic_horror
   - queer
-  - spirit_boxing
 Notes: I had a completely different story written for this one—I'll probably recycle it later, it featured Rhiannon—before Riven popped up behind my shoulder and said "I really wanna blow a Leprechaun". I can't say no to Riven. They're basically my avatar! Hope you enjoy!
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

@@ -9,24 +9,30 @@ Characters:
   - heidi_price
 Series: Friday Flashing
 Tags:
-  - story
   - age_difference
+  - age_gap_older_woman
   - bdsm
   - body_worship
+  - bondage
   - control
   - domme_sub
+  - explicit
   - flash
-  - friday_flashing
-  - lesbian
-  - nsfw
-  - orgasm
-  - queer
+  - flash_fiction
   - lesbian
   - lgbtqia2s
+  - mistress_pet
+  - nsfw
+  - orgasm
   - pain
-  - wax_play
-  - tribadism
+  - queer
+  - restraints
   - scissoring
+  - temperature_play
+  - tribadism
+  - valentines_day
+  - wax_play
+  - wlw
 Notes: |-
   Happy International Women's Day, everyone! This was originally going to be published the week before Valentine's Day, but alas, my mental health didn't allow for that. But it's here now! It was scheduled to be titled "Dinner by Candlelight" but I had to scrap the whole "Dinner" part when I cut that part of the story for length reasons, and then I pretty much HATED just "Candlelight", so now it's got a new, cheeky title that references the current story AND the back-story about how Eleanor and Heidi met! Gosh I'm clever!
 

@@ -9,16 +9,22 @@ Characters:
   - laurance_tremblay
 Series: Friday Flashing
 Tags:
-  - story
   - ashley_gagnon
+  - cabin_getaway
+  - canadian_setting
+  - female_friendship
+  - flash
+  - flash_fiction
+  - friends_to_lovers
+  - heterosexual
+  - hurt_comfort
   - laurence_tremblay
   - lesbian
-  - heterosexual
-  - threesome
-  - cozy
-  - flash
-  - friends_to_lovers
   - nsfw
+  - post_breakup
+  - threesome
+  - wilderness
+  - cozy
 Notes: At 1600 words this is really stretching the definition of "Flash Fiction" but I really didn't want to cut out the second half of the scene.  I promise others will be tighter!
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

@@ -1,6 +1,10 @@
 ---
 title: Reindeer Trials
-summary: Eleanor and Heidi are back! This one is an intimate exploration of vulnerability and trust, as they navigate their passions and discover the unbreakable strength of their bond through love, lust and who each can be for the other.
+summary: >-
+  Eleanor and Heidi are back! This one is an intimate exploration of
+  vulnerability and trust, as they navigate their passions and discover the
+  unbreakable strength of their bond through love, lust and who each can be for
+  the other.
 date: 2025-12-26
 draft: false
 showComments: true
@@ -8,18 +12,23 @@ characters:
   - eleanor_whitcomb
   - heidi_price
 tags:
-  - story
-  - lesbian
-  - lesbian
-  - bdsm
-  - domme_sub
-  - control
   - age_difference
-  - tender
+  - age_gap_older_woman
+  - bdsm
+  - collar_and_leash
+  - control
+  - d_s
   - dildo
-  - strap_on
-  - pet_play
+  - dominant_woman
+  - domme_sub
+  - established_relationship
+  - holiday_setting
+  - lesbian
   - orgasm
+  - pet_play
+  - story
+  - strap_on
+  - tender
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 Eleanor stood before the floor-to-ceiling windows in her apartment living room. The snow piled up on the balcony, and below, the city twinkled with a festive glow. She savoured a slow sip from the short-stemmed wine glass, delighting in the sweet, creamy texture. The eggnog flowed smoothly over her tongue and into her throat. The glass, with its squat, heavy body and square-ish bowl with a gold rim, was a ridiculous bit of nostalgia for her. The side of the glass featured two colourful stripes, one red and one green, topped with a ring of holly and berries. A childhood holdover, the glasses made the holiday feel somehow *more* special when she drank eggnog from them.

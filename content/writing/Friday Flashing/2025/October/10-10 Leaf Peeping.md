@@ -9,11 +9,20 @@ Characters:
   - harper_ellison
 Series: Friday Flashing
 Tags:
-  - story
+  - autumn
+  - city_girl
+  - flash_fiction
+  - flirtatious
+  - forest
+  - guide_tourist
   - lesbian
-  - tender
-  - outdoors
+  - nature_hike
   - nsfw
+  - outdoors
+  - strangers
+  - tender
+  - strangers_to_lovers
+  - fingering
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

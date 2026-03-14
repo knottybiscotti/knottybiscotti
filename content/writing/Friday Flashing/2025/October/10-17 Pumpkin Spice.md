@@ -9,16 +9,23 @@ Characters:
   - rowan_vex
 Series: Friday Flashing
 Tags:
-  - story
-  - magic
-  - lesbian
   - comedy
-  - slice_of_life
-  - masturbation
-  - orgy
-  - nsfw
-  - supernatural
+  - enchanted_drink
+  - explicit
+  - ghost_possession
+  - haunted_cafe
   - haunting
+  - humorous
+  - lesbian
+  - magic
+  - magic_adjacent
+  - masturbation
+  - nsfw
+  - orgy
+  - playful
+  - slice_of_life
+  - supernatural
+  - supernatural_erotica
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

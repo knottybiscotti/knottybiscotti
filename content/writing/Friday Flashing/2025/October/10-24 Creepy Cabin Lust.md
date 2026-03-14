@@ -9,16 +9,23 @@ Characters:
   - "[[Hazel Davis]]"
 Series: Friday Flashing
 Tags:
-  - story
-  - nsfw
   - comedy
-  - supernatural
-  - haunting
-  - orgy
-  - lesbian
-  - fiction
+  - content_creator
+  - established_relationship
   - flash
+  - flash_fiction
+  - ghost_encounter
+  - halloween
+  - haunted_cabin
+  - haunting
+  - humorous
+  - lesbian
+  - nsfw
+  - orgy
+  - series_spirit_boxing
   - spirit_boxing
+  - supernatural
+  - supernatural_comedy
 Notes: "This is my first crossover between my #fridayflashing stories and my other stories, but it won't be the last. This one is just a light crossover, introducing us to Callie's friend and fellow influencer, Hazel, who we will eventually see in #spirit_boxing but so far has only been mentioned."
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

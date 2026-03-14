@@ -9,15 +9,22 @@ characters:
   - heidi_price
 series: Friday Flashing
 tags:
-  - story
-  - lesbian
-  - lesbian
+  - age_difference
   - bdsm
-  - domme_sub
+  - christmas
   - confession
   - control
-  - age_difference
+  - cozy
+  - d_s
+  - domme_sub
+  - established_relationship
+  - gentle_domme
+  - gift_giving
+  - leather_harness
+  - lesbian
+  - mistress_dynamic
   - tender
+  - age_gap_older_woman
 Notes: |-
   What I've learned with this little exercise: (1) I love writing quick little scenes and finally letting some of my character ideas have their own stories! (2) When I DON'T have time to fuss over every detail, I enjoy the writing process more! (3) I don't like letting half-baked stories out into the world, but I LOVE sharing more of my writing. I like pretending I have an audience! (4) As soon as I 'finish' a story that's when I'm most motivated to start my next one! (5) Editing is f-ing HARD! Seriously, this one's over 2000 words when I intended it to be around 800. I need a good editor to SHUT ME UP❣️
 

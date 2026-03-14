@@ -7,12 +7,22 @@ ShowComments: true
 Characters:
   - rhiannon_carrow
 Tags:
-  - story
-  - nsfw
-  - oral_sex
-  - heterosexual
-  - rough
+  - drunk_hookup
+  - explicit
   - fiction
+  - hangover
+  - heterosexual
+  - m_f
+  - morning_after
+  - new_years_eve
+  - nsfw
+  - one_night_stand
+  - oral
+  - oral_sex
+  - playful
+  - rough
+  - strangers_to_lovers
+  - deep_throat
 Series: Friday Flashing
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

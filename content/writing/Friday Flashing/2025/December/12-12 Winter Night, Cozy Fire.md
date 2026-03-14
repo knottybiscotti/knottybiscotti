@@ -7,14 +7,19 @@ showComments: true
 characters:
 series: Friday Flashing
 tags:
-  - story
-  - lesbian
-  - lesbian
-  - cozy
-  - fingering
   - body_worship
+  - cozy
+  - established_relationship
+  - explicit
+  - fingering
   - flash
+  - lesbian
+  - manual
   - mutual_masturbation
+  - no_dialogue
+  - sensual
+  - tender
+  - writer_character
 Notes: Brand new challenge this time! No dialogue! No characters! Well, obviously characters, two, at least, you could argue there's more than that here, but the two women are characters, but neither is named. My intent was to draw you, my wonderful readers, deep into the scene and focus on the experience. I sure hope it worked!  Next week is something easier.  I've had some more challenging stuff to write and I'm happy with the results, so now I'm going to do something fun and FILTHY. 🥰
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

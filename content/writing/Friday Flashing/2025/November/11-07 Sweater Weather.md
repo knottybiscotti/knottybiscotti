@@ -9,17 +9,21 @@ Characters:
 Series: Friday Flashing
 Tags:
   - cunnilingus
+  - cw_dubious_consent
+  - dreamlike
   - dubcon
   - flash
   - folklore
   - gothic_horror
   - haunting
   - mind_control
+  - oral
   - oral_sex
   - outdoors
   - queer
-  - story
   - supernatural
+  - supernatural_encounter
+  - surreal
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

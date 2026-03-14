@@ -7,24 +7,29 @@ ShowComments: true
 Characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Hazel Davis|Hazel Davis]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Lena Costas|Lena Costas]]"
-Series: Spirit Boxing
+Series: Friday Flashing
 Tags:
-  - story
-  - lesbian
-  - lesbian
-  - supernatural
-  - comedy
-  - nsfw
-  - spirit_boxing
-  - flash
-  - cunnilingus
-  - oral_sex
+  - accidental_magic
   - analingus
+  - aphrodisiac
+  - comedy
+  - cunnilingus
+  - established_relationship
   - fingering
+  - flash
   - friday_flashing
+  - humorous
+  - lesbian
   - magic
+  - magic_mishap
+  - nsfw
+  - oral
+  - oral_sex
   - orgasm
   - queer
+  - series_spirit_boxing
+  - supernatural
+  - valentines_day
 Notes: This one was originally scheduled for the day before Valentine's Day, but I was mired in…personal stuff at the time. I'm going to pick and choose which ones to publish and when for a little bit, but I promise next week is going to be rather ☘️!
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

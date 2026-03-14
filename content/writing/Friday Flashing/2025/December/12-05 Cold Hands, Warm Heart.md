@@ -9,15 +9,22 @@ Characters:
   - harper_ellison
 Series: Friday Flashing
 Tags:
-  - story
-  - nsfw
+  - established_relationship
+  - ex_encounter
+  - exhibitionism
+  - explicit
   - hold_the_moan
+  - holiday_market
   - lesbian
-  - lesbian
-  - slice_of_life
-  - secret_sex
+  - mulled_wine
+  - nsfw
+  - outdoor_setting
   - outdoors
+  - playful
   - public
+  - public_play
+  - secret_sex
+  - slice_of_life
 Notes: This didn't start out as an Alex/Harper story but I wasn't even through the first outline before I realised it absolutely <em>had</em> to be one featuring the new couple. It fit them too well and it scratched my itch for character development even in these bite-sized little bits of smut! 🥰
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

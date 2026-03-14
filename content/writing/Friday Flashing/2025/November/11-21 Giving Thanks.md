@@ -9,18 +9,22 @@ Characters:
   - frankie_pierce
 Series: Friday Flashing
 Tags:
-  - story
-  - nsfw
-  - lesbian
-  - lesbian
-  - fiction
-  - flash
-  - friday_flashing
-  - tender
-  - friends_to_lovers
+  - college_radio
   - cozy
+  - fiction
   - fingering
+  - flash
+  - forced_proximity
+  - friday_flashing
+  - friends_to_lovers
+  - ice_storm
+  - lesbian
   - lgbtqia2s+
+  - nsfw
+  - playful
+  - slow_burn_moment
+  - tender
+  - thanksgiving
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
