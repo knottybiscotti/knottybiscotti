@@ -89,7 +89,7 @@ He faltered.
 
 I studied the beautiful liar for a long, *long* time. So long I could see his discomfort on his face.
 
-"You have my true name, I'm owed yours."
+"You have my true name, I'm owed yours," I said, returning to my seat opposite.
 
 He laughed so loud I jumped in my seat. "Finbar Foxember, or what's left of 'im. Banished these—fuck me, what year is it?"
 
