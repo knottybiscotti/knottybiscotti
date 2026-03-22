@@ -5,8 +5,7 @@ Date: 2026-02-06
 Draft: false
 ShowComments: true
 Characters:
-  - eleanor_whitcomb
-  - heidi_price
+  - heidi
 Series: Friday Flashing
 Tags:
   - age_difference

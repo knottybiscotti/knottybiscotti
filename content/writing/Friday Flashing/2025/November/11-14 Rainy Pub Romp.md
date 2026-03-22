@@ -5,8 +5,8 @@ Date: 2025-11-14
 Draft: false
 ShowComments: true
 Characters:
-  - taran_macneill
-  - blair_kerr
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Taran MacNeill|Taran MacNeill]]"
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Blair Kerr|Blair Kerr]]"
 Series: Friday Flashing
 Tags:
   - agender

@@ -5,8 +5,8 @@ Date: 2026-01-09
 Draft: false
 ShowComments: true
 Characters:
-  - juvielle_wode
   - queen_nechta
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Juvielle Wode|Juvielle Wode]]"
 Series: Friday Flashing
 Tags:
   - bdsm

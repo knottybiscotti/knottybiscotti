@@ -5,8 +5,8 @@ Date: 2025-12-05
 Draft: false
 ShowComments: true
 Characters:
-  - alex_taylor
-  - harper_ellison
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Harper Ellison|Harper Ellison]]"
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Alex Taylor|Alex Taylor]]"
 Series: Friday Flashing
 Tags:
   - established_relationship

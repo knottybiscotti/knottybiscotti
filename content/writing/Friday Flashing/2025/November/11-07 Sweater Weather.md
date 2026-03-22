@@ -5,7 +5,7 @@ Date: 2025-11-07
 Draft: false
 ShowComments: true
 Characters:
-  - riven_morrow
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
 Series: Friday Flashing
 Tags:
   - cunnilingus

@@ -5,7 +5,7 @@ Date: 2026-01-02
 Draft: false
 ShowComments: true
 Characters:
-  - rhiannon_carrow
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
 Tags:
   - drunk_hookup
   - explicit
