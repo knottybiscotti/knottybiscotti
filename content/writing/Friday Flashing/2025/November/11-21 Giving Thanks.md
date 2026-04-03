@@ -5,8 +5,8 @@ Date: 2025-11-21
 Draft: false
 ShowComments: true
 Characters:
-  - rachel_brooks
-  - frankie_pierce
+  - "[[Rachel Brooks]]"
+  - "[[Frankie Pierce]]"
 Series: Friday Flashing
 Tags:
   - college_radio
@@ -25,6 +25,7 @@ Tags:
   - slow_burn_moment
   - tender
   - thanksgiving
+  - warm_front
 Notes:
 Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
