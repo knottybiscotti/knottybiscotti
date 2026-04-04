@@ -1,14 +1,14 @@
 ---
-Title: Weathering the Storm
-Summary: While tracking down a rare part near a volatile red dwarf for her new captain, Essa meets a sharp-edged scrapper who’s not what she expected. But as tension builds and unseen forces surge, their encounter veers into unfamiliar—and perilously intimate—territory. Some storms don’t stay outside.
-Date: 2025-11-28
-Draft: false
-ShowComments: true
-Characters:
+title: Weathering the Storm
+summary: While tracking down a rare part near a volatile red dwarf for her new captain, Essa meets a sharp-edged scrapper who’s not what she expected. But as tension builds and unseen forces surge, their encounter veers into unfamiliar—and perilously intimate—territory. Some storms don’t stay outside.
+date: 2025-11-28
+draft: false
+showComments: true
+characters:
   - essa_stiik
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Vesna Nováková|Vesna Nováková]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - alien_protagonist
   - comedy
   - crossover
@@ -23,11 +23,11 @@ Tags:
   - sexual_tension
   - space_setting
   - strangers
-Notes: |-
+notes: |-
   This is the first appearance of Essa from my Liminal Space series of stories crossing over into the Friday Flashing series. The idea of her being caught in an ion storm was too delicious to pass up as soon as the idea occurred to me! I needed to think a bit more about how it could be a surprise, but given that a significant solar particle event can have high energy particles reaching Earth in as little as 10 minutes, bringing us to a small, highly active red dwarf, anyone inside the Goldilocks Zone would have seconds, at most, before they experienced the event.
 
   I'm not pretending there's any science supporting this silly bit of smut, but I can assure you I've thought about it at least a litte! 💖
-Thumbnail: /knottybiscotti/writing/media/Essa/Essa_blunt_SFW.png
+thumbnail: /knottybiscotti/writing/media/Essa/Essa_blunt_SFW.png
 ---
 
 "A Tibanna intermix regulator?" The Scrapper's expression left Essa wondering if she'd accidentally slipped into her native *Koeus* language, *Or’tena*.  Her frizzy shock of hair drooped at the thought that she had been rude to the delightful human.

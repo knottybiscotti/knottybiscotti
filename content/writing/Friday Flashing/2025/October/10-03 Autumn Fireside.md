@@ -1,14 +1,14 @@
 ---
-Title: Autumn Fireside
-Summary: Laurance and Ashley have been best friends as long as either can remember. So when Ashley and her boyfriend split just days before a romantic weekend getaway, Laurance is sure the best way she can help her friend is to help her have the best weekend of her life!
-Date: 2025-10-03
-Draft: false
-ShowComments: true
-Characters:
+title: Autumn Fireside
+summary: Laurance and Ashley have been best friends as long as either can remember. So when Ashley and her boyfriend split just days before a romantic weekend getaway, Laurance is sure the best way she can help her friend is to help her have the best weekend of her life!
+date: 2025-10-03
+draft: false
+showComments: true
+characters:
   - ashley_gagnon
   - laurance_tremblay
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - ashley_gagnon
   - cabin_getaway
   - canadian_setting
@@ -25,8 +25,8 @@ Tags:
   - threesome
   - wilderness
   - cozy
-Notes: At 1600 words this is really stretching the definition of "Flash Fiction" but I really didn't want to cut out the second half of the scene.  I promise others will be tighter!
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: At 1600 words this is really stretching the definition of "Flash Fiction" but I really didn't want to cut out the second half of the scene.  I promise others will be tighter!
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Thank **God**!  I was sure you'd gotten us lost," Laurence declared as the car crept around a final bend in what she was certain was nothing more than a fire road.
 

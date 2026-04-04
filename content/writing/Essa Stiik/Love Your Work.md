@@ -1,21 +1,21 @@
 ---
-Title: Love Your Work
-Summary: Essa may be a bit flighty at times, but nobody loves working with technology more than her!
-Date: 2025-03-25
-Draft: false
-ShowComments: true
-Characters:
+title: Love Your Work
+summary: Essa may be a bit flighty at times, but nobody loves working with technology more than her!
+date: 2025-03-25
+draft: false
+showComments: true
+characters:
   - essa_stiik
-Series: Liminal Space
-Tags:
+series: Liminal Space
+tags:
   - essa_stiik
   - fiction
   - masturbation
   - nsfw
   - sci-fi
   - story
-Notes:
-Thumbnail:
+notes:
+thumbnail:
 ---
 
 Wending her way through the narrow, gloomy spaces in the starship's underbelly, Essa was suddenly aware of an odd tingling.  She felt her hair stand up a little while she turned a slow circle, as best she could in a space barely wider than her shoulders.  It felt like she was at the edge of a powerful electromagnetic field and after a moment of uncertainty she decided that the problem was on the other side of the bulkhead to her right.

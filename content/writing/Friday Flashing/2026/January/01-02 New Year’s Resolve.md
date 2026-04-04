@@ -1,12 +1,12 @@
 ---
-Title: New Year’s Resolve
-Summary: Rhiannon's year of "bliss" seems to be going pretty well! And after her hookup at her friend's New Year's Eve party, the calendar year seems to be starting out pretty well too!
-Date: 2026-01-02
-Draft: false
-ShowComments: true
-Characters:
+title: New Year’s Resolve
+summary: Rhiannon's year of "bliss" seems to be going pretty well! And after her hookup at her friend's New Year's Eve party, the calendar year seems to be starting out pretty well too!
+date: 2026-01-02
+draft: false
+showComments: true
+characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
-Tags:
+tags:
   - drunk_hookup
   - explicit
   - fiction
@@ -23,9 +23,9 @@ Tags:
   - rough
   - strangers_to_lovers
   - deep_throat
-Series: Friday Flashing
-Notes:
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+series: Friday Flashing
+notes:
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "FOUR!" the party chanted in unison.
 

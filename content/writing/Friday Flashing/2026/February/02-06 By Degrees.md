@@ -1,29 +1,35 @@
 ---
-Title: By Degrees
-Summary: Valentine's Day plans are ruined because Eleanor is too good at her job and too respected by her peers. Heidi suggests a possible solution…
-Date: 2026-02-06
-Draft: false
-ShowComments: true
-Characters:
-  - heidi
-Series: Friday Flashing
-Tags:
+title: By Degrees
+summary: >-
+  Valentine's Day plans are ruined because Eleanor is too good at her job and
+  too respected by her peers. Heidi suggests a possible solution…
+date: 2026-02-06
+draft: false
+showComments: true
+characters:
+  - eleanor_whitcomb
+  - heidi_price
+series: Friday Flashing
+tags:
   - age_difference
   - age_gap_older_woman
   - bdsm
   - body_worship
   - bondage
   - control
+  - d_s
   - domme_sub
+  - established_relationship
   - explicit
   - flash
   - flash_fiction
   - lesbian
   - lgbtqia2s
+  - mistress_dynamic
   - mistress_pet
-  - nsfw
   - orgasm
   - pain
+  - pet_play
   - queer
   - restraints
   - scissoring
@@ -32,12 +38,13 @@ Tags:
   - valentines_day
   - wax_play
   - wlw
-Notes: |-
+notes: |-
   Happy International Women's Day, everyone! This was originally going to be published the week before Valentine's Day, but alas, my mental health didn't allow for that. But it's here now! It was scheduled to be titled "Dinner by Candlelight" but I had to scrap the whole "Dinner" part when I cut that part of the story for length reasons, and then I pretty much HATED just "Candlelight", so now it's got a new, cheeky title that references the current story AND the back-story about how Eleanor and Heidi met! Gosh I'm clever!
 
   Anyway, bonus story this week because I do want to catch up and I freakin' ADORE these two women, and it's International Women's Day. And I'm getting better at "murdering my darlings". ref: https://tinhouse.com/murder-your-darlings/
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Eleanor had been invited to give a keynote at next week's symposium on *Journalistic Integrity in the Age of Social Media*.
 
 She was *profoundly* disappointed.

@@ -1,14 +1,14 @@
 ---
-Title: The Hall of the Ice Queen
-Summary: An early frost, a meagre harvest and a bitter winter sends Juvielle in search of The Ice Queen. The old stories say the queen can save the village, but they never mention a price.
-Date: 2026-01-09
-Draft: false
-ShowComments: true
-Characters:
+title: The Hall of the Ice Queen
+summary: An early frost, a meagre harvest and a bitter winter sends Juvielle in search of The Ice Queen. The old stories say the queen can save the village, but they never mention a price.
+date: 2026-01-09
+draft: false
+showComments: true
+characters:
   - queen_nechta
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Juvielle Wode|Juvielle Wode]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - bdsm
   - confession
   - cunnilingus
@@ -31,8 +31,8 @@ Tags:
   - supernatural_encounter
   - village_in_peril
   - winter_setting
-Notes: This one took a long time to finish, not because I had trouble with the story in any way, when I started my little "Friday Flash Smut" quest and I was sketching out my ideas for each story, this is one of the ideas that I wanted to start writing right away. I love the mix of low-fantasy, smut, high stakes and the threat underlying the climactic scene.  No, it took a long time to finish because I, personally, had a pretty significant setback over the holiday break and, well, I'm just now climbing back out of my hole.  It feels very, very good to complete a story, though, so I'm going to try to build on that positive momentum.  And to everyone who took time while I was turtling to leave a like / kudos or a comment, THANK YOU! When I finally started checking my messages again a week ago, I cried.  Thank you! <3
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: This one took a long time to finish, not because I had trouble with the story in any way, when I started my little "Friday Flash Smut" quest and I was sketching out my ideas for each story, this is one of the ideas that I wanted to start writing right away. I love the mix of low-fantasy, smut, high stakes and the threat underlying the climactic scene.  No, it took a long time to finish because I, personally, had a pretty significant setback over the holiday break and, well, I'm just now climbing back out of my hole.  It feels very, very good to complete a story, though, so I'm going to try to build on that positive momentum.  And to everyone who took time while I was turtling to leave a like / kudos or a comment, THANK YOU! When I finally started checking my messages again a week ago, I cried.  Thank you! <3
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 In Juvielle's fifth *Year of the Owl*, she had been the *Greenwhisper* of *Little Stoneleaf* hardly six seasons. Oviña had declared her time was done after the *Green Winter* and had chosen Juvielle to guide the village, bless the crops, and direct the harvest. Oviña had returned to the green before the first frost, so perhaps she had been right.
 

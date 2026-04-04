@@ -1,14 +1,14 @@
 ---
-Title: Fooling Around
-Summary: Frankie and Rachel were best friends in high school, became even closer in college and after their marathon college-radio broadcasting session during the ice storm last November, they're more committed to each other than ever before. But that doesn't mean there isn't a healthy helping of chaos between them.
-Date: 2026-04-03
-Draft: false
-ShowComments: true
-Characters:
+title: Fooling Around
+summary: Frankie and Rachel were best friends in high school, became even closer in college and after their marathon college-radio broadcasting session during the ice storm last November, they're more committed to each other than ever before. But that doesn't mean there isn't a healthy helping of chaos between them.
+date: 2026-04-03
+draft: false
+showComments: true
+characters:
   - "[[Frankie Pierce]]"
   - "[[Rachel Brooks]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - april_fools
   - established_relationship
   - f_f
@@ -27,8 +27,8 @@ Tags:
   - turning_the_tables
   - warm_front
   - wlw
-Notes:
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes:
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Frankie? D'you know anything about the Easter eggs I bought last week?" Rachel already knew the answer, before Frankie's bedroom door opened, revealing fragments of colourful foil wrapper on her floor.
 

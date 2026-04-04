@@ -1,12 +1,12 @@
 ---
-Title: No Rest Here by Morn
-Summary: Riven finds themselves in another strange, visceral space; but one that needs their help.
-Date: 2026-03-13
-Draft: false
-ShowComments: true
-Characters:
+title: No Rest Here by Morn
+summary: Riven finds themselves in another strange, visceral space; but one that needs their help.
+date: 2026-03-13
+draft: false
+showComments: true
+characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
-Series: Friday Flashing
+series: Friday Flashing
 tags:
   - dreamlike
   - fable_like
@@ -26,8 +26,8 @@ tags:
   - deep_throat
   - gothic_horror
   - queer
-Notes: I had a completely different story written for this one—I'll probably recycle it later, it featured Rhiannon—before Riven popped up behind my shoulder and said "I really wanna blow a Leprechaun". I can't say no to Riven. They're basically my avatar! Hope you enjoy!
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: I had a completely different story written for this one—I'll probably recycle it later, it featured Rhiannon—before Riven popped up behind my shoulder and said "I really wanna blow a Leprechaun". I can't say no to Riven. They're basically my avatar! Hope you enjoy!
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 My skin was wet beneath my clothes, though I could not say if it was due to the soft mist that had refused to become proper rain all day, or my own sweat, earned as I followed one overgrown trail after another. A lost churchyard, west and south of *Pen Cerrig-calch*, but not far. A local "historical society" had hired me to find it, but I had not accounted on getting lost.  Nigh on an hour since I'd given up on finding it and still I could find sign of neither *Pen Cerrig-calch* nor *Pen Allt-mawr*, though my app had said the full loop wouldn't take half a day to walk.  Little good it did now, it told me I was in Cardiff.
 

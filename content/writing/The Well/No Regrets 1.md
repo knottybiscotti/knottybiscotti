@@ -1,14 +1,14 @@
 ---
-Title: "No Regrets: Chapter 1"
-Summary: Wherein Talula Goodman returns home after a long time on the road and encounters a childhood friend.
-Date: 2025-04-27
-Draft: false
-ShowComments: true
-Characters:
+title: "No Regrets: Chapter 1"
+summary: Wherein Talula Goodman returns home after a long time on the road and encounters a childhood friend.
+date: 2025-04-27
+draft: false
+showComments: true
+characters:
   - talula_goodman
   - mary_mawdsley
-Series: The Well
-Tags:
+series: The Well
+tags:
   - fiction
   - implied_violence
   - lesbian
@@ -18,8 +18,8 @@ Tags:
   - the_well
   - violence
   - western
-Notes:
-Thumbnail: /writing/media/Series/the-well.png
+notes:
+thumbnail: /writing/media/Series/the-well.png
 ---
 
 Every part of Talula Goodman's body ached as she walked slowly toward town.  Every part she could feel at least, her feet had gone numb sometime during the last hour before dawn and the only evidence they were still there was her continued upright posture.  Her thrice-damned horse had run off during the attack and in a very distant part of her mind she wished it a slow, horrible death.  Coyotes, maybe.  Or a skin-walker.  Coyote skin-walker.

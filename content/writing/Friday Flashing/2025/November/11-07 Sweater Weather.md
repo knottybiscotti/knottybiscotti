@@ -1,13 +1,13 @@
 ---
-Title: Sweater Weather
-Summary: A drifter's night takes a surreal turn when they encounter a mysterious woman on a lonely road. Drawn into a dreamlike encounter beneath the moon, the line between reality and illusion begins to blur.
-Date: 2025-11-07
-Draft: false
-ShowComments: true
-Characters:
+title: Sweater Weather
+summary: A drifter's night takes a surreal turn when they encounter a mysterious woman on a lonely road. Drawn into a dreamlike encounter beneath the moon, the line between reality and illusion begins to blur.
+date: 2025-11-07
+draft: false
+showComments: true
+characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - cunnilingus
   - cw_dubious_consent
   - dreamlike
@@ -24,8 +24,8 @@ Tags:
   - supernatural
   - supernatural_encounter
   - surreal
-Notes:
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes:
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Mmm, you'll be wantin' to stay the night," the old man says to me and I can smell the blend of fried fish and sour beer on his breath. I give him my most withering look, but he must be too pickled to read my body language.
 

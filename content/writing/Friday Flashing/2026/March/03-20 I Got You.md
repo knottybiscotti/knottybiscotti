@@ -1,13 +1,13 @@
 ---
-Title: I Got You
-Summary: The Sepulveda Sea Wall keeps the Pacific out. Nothing keeps Imani in—not exhaustion, not a raid warning, not the cigarette that slips from her fingers in the dark. But Jude has her ways. Meet Doc Shen. Meet Jude. Meet a city that's beautiful and broken and still has space for life, love, connection and tenderness.
-Date: 2026-03-20
-Draft: false
-ShowComments: true
-Characters:
+title: I Got You
+summary: The Sepulveda Sea Wall keeps the Pacific out. Nothing keeps Imani in—not exhaustion, not a raid warning, not the cigarette that slips from her fingers in the dark. But Jude has her ways. Meet Doc Shen. Meet Jude. Meet a city that's beautiful and broken and still has space for life, love, connection and tenderness.
+date: 2026-03-20
+draft: false
+showComments: true
+characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - blade_runner
   - blade_runner_inspired
   - dystopian
@@ -19,8 +19,8 @@ Tags:
   - sapphic
   - sci_fi
   - tender
-Notes: This was originally my "Spring Break" story and it still is, in a lot of ways, but I changed the title as I got further in to the story. I'm not GRRM, never going to pretend I am, but I totally GET what he means when he claims to be a "gardener". I start out with an idea, but then the story tells me we're going in a different direction, then the CHARACTERS tell me we're going in a different direction and by the time we're done, I'm as surprised as anyone, most times.  I LOVE where this one went.
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: This was originally my "Spring Break" story and it still is, in a lot of ways, but I changed the title as I got further in to the story. I'm not GRRM, never going to pretend I am, but I totally GET what he means when he claims to be a "gardener". I start out with an idea, but then the story tells me we're going in a different direction, then the CHARACTERS tell me we're going in a different direction and by the time we're done, I'm as surprised as anyone, most times.  I LOVE where this one went.
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 The dilapidated tenement shuddered as a spinner passed overhead with that uncanny blend of *whine* and *growl* Imani loathed. "How ugly d'you want this scar to be?" A disapproving *tch* came from the far corner, but Imani had neither time nor energy to spare.
 

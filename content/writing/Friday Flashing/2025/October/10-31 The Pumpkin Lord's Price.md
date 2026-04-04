@@ -1,20 +1,20 @@
 ---
-Title: The Pumpkin Lord's Price
-Summary: |-
+title: The Pumpkin Lord's Price
+summary: |-
   Rhiannon rings like a bell through the night, and<br/>
   Wouldn't you love to love her?<br/>
   Takes to the sky like a bird in flight, and<br/>
   Who will be her lover?
   <div style="text-align:right">"Rhiannon", Fleetwood Mac</div>
-Date: 2025-10-31
-Draft: false
-ShowComments: true
-Characters:
+date: 2025-10-31
+draft: false
+showComments: true
+characters:
   - rhiannon_carrow
   - the_pumpkin_lord
   - amaethon
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - halloween
   - folklore_creature
   - drunk_protagonist
@@ -27,8 +27,8 @@ Tags:
   - monster_sex
   - supernatural
   - bdsm
-Notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 Rhiannon weaved through the chaos: mummies, ghosts, an axe-murderer, three sexy nurses, and two witches in addition to herself. She tried to focus on Heather, her forever bestie, but bumped into an inflatable dinosaur, spilling her margarita down the front of her costume. "Aw, noooo!" she blinked, uncomprehending as the cold hit her. A shaky step back brought her to the table, where she knocked a tray of sausage rolls onto the floor. "Oh, *nooo*," she wailed, then, somehow, Heather was at her side.
 

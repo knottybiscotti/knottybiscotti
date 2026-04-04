@@ -1,14 +1,14 @@
 ---
-Title: Cold Hands, Warm Heart
-Summary: At a bustling holiday street market, Harper decides to have Alex warm her hands while they’re “sampling” different mulled wines. But then Alex's ex-fiancé arrives at their outdoor table with a new girlfriend in tow.
-Date: 2025-12-05
-Draft: false
-ShowComments: true
-Characters:
+title: Cold Hands, Warm Heart
+summary: At a bustling holiday street market, Harper decides to have Alex warm her hands while they’re “sampling” different mulled wines. But then Alex's ex-fiancé arrives at their outdoor table with a new girlfriend in tow.
+date: 2025-12-05
+draft: false
+showComments: true
+characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Harper Ellison|Harper Ellison]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Alex Taylor|Alex Taylor]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - established_relationship
   - ex_encounter
   - exhibitionism
@@ -25,8 +25,8 @@ Tags:
   - public_play
   - secret_sex
   - slice_of_life
-Notes: This didn't start out as an Alex/Harper story but I wasn't even through the first outline before I realised it absolutely <em>had</em> to be one featuring the new couple. It fit them too well and it scratched my itch for character development even in these bite-sized little bits of smut! 🥰
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: This didn't start out as an Alex/Harper story but I wasn't even through the first outline before I realised it absolutely <em>had</em> to be one featuring the new couple. It fit them too well and it scratched my itch for character development even in these bite-sized little bits of smut! 🥰
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 The night air was bitterly cold. It *was* the first week of December, but this was the sort of weather Alex associated with the depths of winter.
 

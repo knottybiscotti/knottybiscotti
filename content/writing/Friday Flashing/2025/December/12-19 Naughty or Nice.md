@@ -1,6 +1,9 @@
 ---
 title: Naughty or Nice
-summary: We spend a cozy evening in with Heidi and Eleanor as they share their first Christmas together. Eleanor has been very careful to bring the thoughtful, meaningful type of gifts for Heidi.
+summary: >-
+  We spend a cozy evening in with Heidi and Eleanor as they share their first
+  Christmas together. Eleanor has been very careful to bring the thoughtful,
+  meaningful type of gifts for Heidi.
 date: 2025-12-19
 draft: false
 showComments: true
@@ -10,6 +13,7 @@ characters:
 series: Friday Flashing
 tags:
   - age_difference
+  - age_gap_older_woman
   - bdsm
   - christmas
   - confession
@@ -18,18 +22,26 @@ tags:
   - d_s
   - domme_sub
   - established_relationship
+  - explicit
+  - flash
+  - flash_fiction
   - gentle_domme
   - gift_giving
   - leather_harness
   - lesbian
+  - lgbtqia2s
   - mistress_dynamic
+  - mistress_pet
+  - orgasm
+  - pet_play
+  - queer
   - tender
-  - age_gap_older_woman
-Notes: |-
+  - wlw
+notes: |-
   What I've learned with this little exercise: (1) I love writing quick little scenes and finally letting some of my character ideas have their own stories! (2) When I DON'T have time to fuss over every detail, I enjoy the writing process more! (3) I don't like letting half-baked stories out into the world, but I LOVE sharing more of my writing. I like pretending I have an audience! (4) As soon as I 'finish' a story that's when I'm most motivated to start my next one! (5) Editing is f-ing HARD! Seriously, this one's over 2000 words when I intended it to be around 800. I need a good editor to SHUT ME UP❣️
 
   Also, I threw out TWO items I had in the stocking in the original draft because even with this I'm OVER 2100 words! I'm a monster.
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 
 <blockquote>

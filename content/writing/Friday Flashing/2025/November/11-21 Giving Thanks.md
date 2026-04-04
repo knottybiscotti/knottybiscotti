@@ -1,14 +1,14 @@
 ---
-Title: Giving Thanks
-Summary: In the midst of an historic ice storm, two high school friends, college radio hosts, find themselves unexpectedly alone on air, comforting their listeners on Thanksgiving Eve and navigating their simmering connection inside. With humour, warmth, and a hint of mischief, they share thoughts, gratitude, and a surprising moment that tests their friendship.
-Date: 2025-11-21
-Draft: false
-ShowComments: true
-Characters:
+title: Giving Thanks
+summary: In the midst of an historic ice storm, two high school friends, college radio hosts, find themselves unexpectedly alone on air, comforting their listeners on Thanksgiving Eve and navigating their simmering connection inside. With humour, warmth, and a hint of mischief, they share thoughts, gratitude, and a surprising moment that tests their friendship.
+date: 2025-11-21
+draft: false
+showComments: true
+characters:
   - "[[Rachel Brooks]]"
   - "[[Frankie Pierce]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - college_radio
   - cozy
   - fiction
@@ -26,8 +26,8 @@ Tags:
   - tender
   - thanksgiving
   - warm_front
-Notes:
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes:
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Welcome back, dear listeners. Or if you're just joining us, welcome to it. Where *it* is feeling like the *frozen end times* out there! The city's buried under an inch of ice, the airport's been shut down since nine this morning and that's, uhhh, fourteen hours now? Check my math, willya, Rach?"
 

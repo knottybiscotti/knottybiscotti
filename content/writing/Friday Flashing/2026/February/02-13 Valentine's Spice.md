@@ -1,14 +1,14 @@
 ---
-Title: Valentine's Spice
-Summary: A romantic dinner takes a wild turn when Lena mistakes Hazel's magical aphrodisiac for a spice and adds it to the risotto.
-Date: 2026-02-13
-Draft: false
-ShowComments: true
-Characters:
+title: Valentine's Spice
+summary: A romantic dinner takes a wild turn when Lena mistakes Hazel's magical aphrodisiac for a spice and adds it to the risotto.
+date: 2026-02-13
+draft: false
+showComments: true
+characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Hazel Davis|Hazel Davis]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Lena Costas|Lena Costas]]"
-Series: Friday Flashing
-Tags:
+series: Friday Flashing
+tags:
   - accidental_magic
   - analingus
   - aphrodisiac
@@ -30,8 +30,8 @@ Tags:
   - series_spirit_boxing
   - supernatural
   - valentines_day
-Notes: This one was originally scheduled for the day before Valentine's Day, but I was mired in…personal stuff at the time. I'm going to pick and choose which ones to publish and when for a little bit, but I promise next week is going to be rather ☘️!
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+notes: This one was originally scheduled for the day before Valentine's Day, but I was mired in…personal stuff at the time. I'm going to pick and choose which ones to publish and when for a little bit, but I promise next week is going to be rather ☘️!
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 "Hey every*one*! *BooBuster* is telling me dinner's waiting on me so I'm gonna stop the stream here! Thanks *so* much for hanging out with me today! We'll do another one again soon!"
 

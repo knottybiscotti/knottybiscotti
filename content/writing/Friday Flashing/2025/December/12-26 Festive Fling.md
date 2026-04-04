@@ -11,6 +11,7 @@ showComments: true
 characters:
   - eleanor_whitcomb
   - heidi_price
+series: Friday Flashing
 tags:
   - age_difference
   - age_gap_older_woman
@@ -22,15 +23,25 @@ tags:
   - dominant_woman
   - domme_sub
   - established_relationship
+  - explicit
+  - flash
+  - flash_fiction
   - holiday_setting
   - lesbian
+  - lgbtqia2s
+  - mistress_dynamic
+  - mistress_pet
   - orgasm
   - pet_play
-  - story
+  - queer
   - strap_on
   - tender
-Thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
+  - wlw
+notes: |-
+
+thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Eleanor stood before the floor-to-ceiling windows in her apartment living room. The snow piled up on the balcony, and below, the city twinkled with a festive glow. She savoured a slow sip from the short-stemmed wine glass, delighting in the sweet, creamy texture. The eggnog flowed smoothly over her tongue and into her throat. The glass, with its squat, heavy body and square-ish bowl with a gold rim, was a ridiculous bit of nostalgia for her. The side of the glass featured two colourful stripes, one red and one green, topped with a ring of holly and berries. A childhood holdover, the glasses made the holiday feel somehow *more* special when she drank eggnog from them.
 
 She heard a quiet movement behind her, but didn't turn, not yet. Instead, she gazed at her ghostly reflection in the window, the city lights casting an ethereal glow. She kept herself in excellent shape exactly for nights like tonight. Her long, dark brown hair was tucked behind her ears, and a playful Santa cap held it in place, adding a touch of whimsy to her overall look. Her only other attire was a sleek, red leather bunny suit—sans puffy tail—which showcased the swell of her bust and the curve of her behind in a deliberate, tantalising way. A thick, black leather belt with a shiny gold buckle cinched at her waist, complementing her knee-high, shiny black leather boots. Each boot was held tight at the top, snugged against her thigh with its own shiny gold buckle.
