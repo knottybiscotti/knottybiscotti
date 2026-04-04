@@ -1,6 +1,6 @@
 ---
-title = 'Everyone share, okay?'
-url = 'license'
+title: 'Everyone share, okay?'
+url: 'license'
 ---
 
 # Everything I write here is protected by international copyright.

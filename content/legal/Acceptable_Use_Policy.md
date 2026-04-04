@@ -1,6 +1,6 @@
 ---
-title = 'Acceptable Use Policy: Nice Comments Only, Please!'
-url = 'aup'
+title: 'Acceptable Use Policy: Nice Comments Only, Please!'
+url: 'aup'
 ---
 
 ## Community Guidelines
