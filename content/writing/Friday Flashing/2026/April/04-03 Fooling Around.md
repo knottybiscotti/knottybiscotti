@@ -60,7 +60,7 @@ Frankie appeared at her side, then knelt to study the fouled shoe. "What? It'll 
 
 ***
 
-Frankie emerged from the shower, only a little disappointed that Rachel had been too tight for time this morning to join her. They weren't quite six months into their relationship and Frankie never tired of touching, of kissing, of *worshipping* her lover.
+Frankie emerged from the shower, only a little disappointed that Rachel had been too tight for time this morning to join her. They weren't quite five months into their relationship and Frankie never tired of touching, of kissing, of *worshipping* her lover.
 
 She towelled herself off then reached for the antiperspirant Rachel had bought her. She considered her figure in the mirror before rotating the base and deciding she would begin with her modest-but-full boobs. She lifted her left breast carefully and smeared *not antiperspirant* into the underslope.
 
