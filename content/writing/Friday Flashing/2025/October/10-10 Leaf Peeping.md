@@ -92,7 +92,7 @@ A short distance into the new trail, Alex caught up. She was relieved to see the
 
 "R-really?" Alex managed, her face already heating from the exertion; this incline was steeper than Maple Song’s gentle slope and the cold morning air made her cheeks burn.
 
-Harper chuckled softly as she glanced back. Alex suddenly felt a pang of self-consciousness, but also a strange thrill—_Maybe she really _will_ have to rescue me_.
+Harper chuckled softly as she glanced back. Alex suddenly felt a pang of self-consciousness, but also a strange thrill—_Maybe she really **will** have to rescue me_.
 
 "Don't worry, city girl, it's not far." Harper said, her tone light and teasing.
 
