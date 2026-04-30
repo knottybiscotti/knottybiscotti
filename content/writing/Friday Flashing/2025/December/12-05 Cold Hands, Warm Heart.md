@@ -44,7 +44,7 @@ It might also have been the steaming, fragrant mulled wines they'd been sampling
 
 Harper laughed softly and threw her thick woollen poncho over Alex's shoulders as well, drawing Alex into a cosy tent that smelled like woods, smoke, and Harper. "Should've worn real boots, City Girl," she teased gently.
 
-Alex glanced down at her heeled ankle boots with the shiny silver buckles that had looked so cute in the store. "They're perfectly practical! They're waterproof!"
+Alex glanced down at her heeled ankle boots with the shiny silver buckles that had looked so cute in the store. "They're *perfectly* practical! They're waterproof!"
 
 Harper didn't reply with words, just that low, *thrummy* sound she made deep in her throat whenever she chose to let Alex enjoy a fantasy about life outdoors. Alex was about to protest when she felt Harper's hand sneaking first up under her coat, then beneath the waist of Alex's stretch corduroys. How drunk *was* Harper? ... how drunk was she? Maybe "drunk enough"?
 
@@ -62,7 +62,7 @@ And then she met Harper.
 
 Harper only wanted Alex to be the star of her own story.
 
-Who was the woman with Andy?
+*Who was the woman with Andy?*
 
 "*Lexi?*" felt, rather than heard, Harper ask softly in her ear.  Those impossibly warm fingers had resumed their adventure beneath Alex's waistband.
 
@@ -72,11 +72,11 @@ Alex grew cold at the same time a heat was building below.  Thanks to Harper.  "
 
 "Merry Christmas!" Andy responded almost on instinct.  "I, um, heard you had a new … friend?" Poor Andy, he was trying *so* hard, and he was *so* unprepared for this.  He awkwardly shot a hand out toward Harper.  "Andy Travis! Alex's … Alex and me … I was … hi!"
 
-Harper fixed him with the smile Alex had come to recognise as the one she reserved for the greenest of the city folk who signed up for her hikes.  "Harper.  Ellison.  I'm a park ranger up in Foxlight Highlands State Park. Nice to meet you, *Andy*." She practically purred his name as her fingertips found the top of Alex's dense pubic curls. She gave Andy's hand a firm shake, then turned her attention to the woman at his side.  The intense, attentive look Harper gave this other woman filled Alex with a tiny flare of jealousy.  "We haven't met, I'm *Lexi*'s girlfriend.  You can call me Harper."
+Harper fixed him with the smile Alex had come to recognise as the one she reserved for the greenest of the city folk who signed up for her hikes.  "Harper.  Ellison.  I'm a park ranger up in Foxlight Highlands State Park. Nice to meet you, *Andy*." She practically purred his name as her fingertips found the top of Alex's dense pubic curls. She gave Andy's hand a firm shake, then turned her attention to the woman at his side.  The intense, attentive look Harper gave this other woman filled Alex with a tiny flare of jealousy.  "We haven't met, I'm *Lexi*'s girlfriend. You can call me Harper."
 
-The pretty woman at Andy's side looked nearly scandalised at the open admission, but recovered herself admirably.  She took Harper's offered hand, gave it a light squeeze, and said softly, "Lindsey.  Lindsey Hartwell."
+The pretty woman at Andy's side looked nearly scandalised at the open admission, but recovered herself admirably. She took Harper's offered hand, gave it a light squeeze, and said softly, "Lindsey.  Lindsey Hartwell."
 
-Harper smiled in an almost predatory manner.  "Hi, Lindsey.  It's really fuckin' cold tonight, huh?"
+Harper smiled in an almost predatory manner. "Hi, Lindsey.  It's really fuckin' cold tonight, huh?"
 
 ***
 
