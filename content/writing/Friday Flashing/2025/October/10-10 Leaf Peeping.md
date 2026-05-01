@@ -5,8 +5,8 @@ date: 2025-10-10
 draft: false
 showComments: true
 characters:
-  - alex_taylor
-  - harper_ellison
+  - "[[Harper Ellison]]"
+  - "[[Alex Taylor]]"
 series: Friday Flashing
 tags:
   - autumn
@@ -30,7 +30,7 @@ thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 
 "Today we're doing the Maple Song Loop. I *will* be singing later; if I get compliments, I'll bring you back!" More soft chuckles and she carried on, satisfied.  "It's a green trail, nothing difficult, but it's about five miles. Expect we'll be out for about three hours. That means your boots are laced tight–"
 
-Harper kept going, sprinkling in easy jokes and light-hearted banter, but Alex’s attention drifted. It felt _so good_ to be out of the city! Away from her too-large apartment, the noise, the endless bullshit filling her days. _This is what I need,_ she thought. _A long walk in the woods, fresh air, and the colors of fall. It renews the soul._
+Harper kept going, sprinkling in easy jokes and light-hearted banter, but Alex’s attention drifted. It felt _so good_ to be out of the city! Away from her too-large apartment, the noise, the endless bullshit filling her days. _This is what I need,_ she thought. _A long walk in the woods, fresh air, and the colours of fall. It renews the soul._
 
 As the guide was wrapping up, Alex struggled to recall what Harper had just said. _Harper, what a beautiful name!_ she thought, then giggled softly at her own silly smile. _Maybe she’ll have to rescue me,_ she mused, a playful thought from her high school fantasies—more than a decade ago now.
 

@@ -21,7 +21,6 @@ tags:
   - outdoor_setting
   - outdoors
   - playful
-  - public
   - public_play
   - secret_sex
   - slice_of_life
