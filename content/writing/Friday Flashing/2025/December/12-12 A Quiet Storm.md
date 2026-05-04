@@ -5,8 +5,8 @@ date: 2025-12-12
 draft: false
 showComments: true
 characters:
-  - "[[The Writer]]"
-  - "[[The Muse]]"
+  - the_writer
+  - the_muse
 series: Friday Flashing
 tags:
   - body_worship
