@@ -2,7 +2,7 @@
 title: The Maypole Dance
 summary: The weather is warm, the nights are beautiful and summer feels so close you can touch it! That means CAMPING season! At Foxlight Highlands State Park, the Maypole Festival has always been the unofficial kickoff to it, but this year Harper, as one of the park rangers, is more busy than usual…
 date: 2026-05-08
-draft: true
+draft: false
 showComments: true
 characters:
   - "[[Harper Ellison]]"
