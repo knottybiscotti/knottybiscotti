@@ -7,7 +7,7 @@ showComments: true
 characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Holles Enmore|Holles Enmore]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Nora Pope|Nora Pope]]"
-series:
+series: Friday Flashing
 tags:
   - alien_franchise
   - dildo
