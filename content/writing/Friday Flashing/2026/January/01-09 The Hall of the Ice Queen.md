@@ -15,7 +15,6 @@ tags:
   - fantasy
   - fingering
   - folklore
-  - friday_flashing
   - homosexual
   - ice_queen
   - lesbian
@@ -28,7 +27,6 @@ tags:
   - orgasm
   - queer
   - supernatural
-  - supernatural_encounter
   - village_in_peril
   - winter_setting
 notes: This one took a long time to finish, not because I had trouble with the story in any way, when I started my little "Friday Flash Smut" quest and I was sketching out my ideas for each story, this is one of the ideas that I wanted to start writing right away. I love the mix of low-fantasy, smut, high stakes and the threat underlying the climactic scene.  No, it took a long time to finish because I, personally, had a pretty significant setback over the holiday break and, well, I'm just now climbing back out of my hole.  It feels very, very good to complete a story, though, so I'm going to try to build on that positive momentum.  And to everyone who took time while I was turtling to leave a like / kudos or a comment, THANK YOU! When I finally started checking my messages again a week ago, I cried.  Thank you! <3

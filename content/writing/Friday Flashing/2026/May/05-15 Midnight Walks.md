@@ -16,6 +16,7 @@ tags:
   - fingering
   - friday_flashing
   - lake_setting
+  - lesbian
   - oral
   - outdoor_intimacy
   - outdoor_setting

@@ -21,10 +21,8 @@ tags:
   - domme_sub
   - established_relationship
   - explicit
-  - flash
-  - flash_fiction
   - lesbian
-  - lgbtqia2s
+  - lgbtqia2s+
   - mistress_dynamic
   - mistress_pet
   - orgasm

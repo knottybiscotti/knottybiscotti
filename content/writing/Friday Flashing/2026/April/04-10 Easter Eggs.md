@@ -19,7 +19,6 @@ tags:
   - lingerie
   - oral_sex
   - playful
-  - playful_intimacy
   - sapphic
   - scavenger_hunt
   - teasing

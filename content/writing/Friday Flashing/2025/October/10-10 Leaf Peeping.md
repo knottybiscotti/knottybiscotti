@@ -10,8 +10,6 @@ characters:
 series: Friday Flashing
 tags:
   - autumn
-  - city_girl
-  - flash_fiction
   - flirtatious
   - forest
   - guide_tourist

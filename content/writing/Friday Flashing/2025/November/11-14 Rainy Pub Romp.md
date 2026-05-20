@@ -22,7 +22,6 @@ tags:
   - public
   - queer
   - scottish_setting
-  - second_person
   - second_person_pov
   - secret_encounter
   - tender

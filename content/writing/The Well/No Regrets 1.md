@@ -14,7 +14,6 @@ tags:
   - lesbian
   - lgbtqia2s+
   - nsfw
-  - story
   - the_well
   - violence
   - western

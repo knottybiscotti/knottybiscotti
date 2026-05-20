@@ -18,7 +18,6 @@ tags:
   - masturbation
   - nsfw
   - oral_sex
-  - story
   - supernatural
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/spirit-boxing.png

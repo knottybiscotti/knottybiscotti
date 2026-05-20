@@ -29,7 +29,7 @@ tags:
   - gift_giving
   - leather_harness
   - lesbian
-  - lgbtqia2s
+  - lgbtqia2s+
   - mistress_dynamic
   - mistress_pet
   - orgasm

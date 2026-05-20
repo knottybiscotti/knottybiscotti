@@ -27,7 +27,6 @@ tags:
   - oral_sex
   - orgasm
   - queer
-  - series_spirit_boxing
   - supernatural
   - valentines_day
 notes: This one was originally scheduled for the day before Valentine's Day, but I was mired in…personal stuff at the time. I'm going to pick and choose which ones to publish and when for a little bit, but I promise next week is going to be rather ☘️!

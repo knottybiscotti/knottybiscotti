@@ -15,7 +15,6 @@ tags:
   - ghost_possession
   - haunted_cafe
   - haunting
-  - humorous
   - lesbian
   - magic
   - magic_adjacent
@@ -25,7 +24,6 @@ tags:
   - playful
   - slice_of_life
   - supernatural
-  - supernatural_erotica
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

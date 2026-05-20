@@ -14,7 +14,6 @@ tags:
   - low_fantasy
   - sensual
   - series_standalone
-  - short_story
   - strangers
   - tense
   - agender

@@ -11,7 +11,7 @@ draft: false
 showComments: true
 characters:
   - "[[Rhiannon Carrow]]"
-  - Cernunnos
+  - cernunnos
   - the_green_man
 series: Friday Flashing
 tags:
@@ -20,15 +20,12 @@ tags:
   - dubcon
   - explicit
   - forest
-  - friday_flashing
-  - green_man
   - mythological
   - nature_deity
   - pagan
   - plant_bondage
   - ritual_sex
   - wilderness
-  - spirit_boxing
 notes: This one's a sequel to "New Year's Resolve" but it's REALLY a sequel to "The Pumpkin Lord's Price" and I think it has a lot more in common with the earlier story than the latter, which is really just showing off a bit of Rhiannon's "hot mess" and "subby" sides. This one develops the backstory and world building while ALSO featuring a lot of smut! I think I might be getting better at this stuff!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

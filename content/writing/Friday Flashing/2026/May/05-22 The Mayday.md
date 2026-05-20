@@ -12,7 +12,6 @@ tags:
   - cw_non_consent
   - dreamlike
   - first_contact
-  - friday_flashing
   - hopeful
   - marine_setting
   - mermaid
@@ -22,7 +21,6 @@ tags:
   - orgy
   - supernatural_encounter
   - tense
-  - spirit_boxing
 notes: "This one is a rework of an earlier idea I had, but now with a Mermaid angle for #MerMay! I hadn't even thought about that until some of my favourite artists started sharing mermaid art on their Bluesky feeds. I really like how this one turned out, I hope you enjoyed it too!"
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

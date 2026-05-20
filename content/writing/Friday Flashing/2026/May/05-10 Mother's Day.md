@@ -15,8 +15,8 @@ tags:
   - forbidden_desire
   - friday_flashing
   - incest
+  - lesbian
   - mother_daughter
-  - sapphic
   - sapphic_incest
   - tender
   - warm_front

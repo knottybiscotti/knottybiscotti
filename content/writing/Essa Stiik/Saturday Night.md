@@ -9,11 +9,9 @@ characters:
   - briar_reinhardt
 series: Liminal Space
 tags:
-  - essa_stiik
-  - sci-fi
+  - sci_fi
   - sfw
   - fluff
-  - Briar
   - slice_of_life
 notes: This one started out a fun, breezy thing but when it reached the point in the story where Essa finally encountered Ms. Jaddi I ground to an absolute halt. I just didn't want to write the bit where someone was mean to her. She's so sweet and optimistic and curious and to have someone be just awful to her felt really bad. The only thing that kept me going was knowing that Briar was going to swoop in like an angry raptor and rescue poor Essa.
 thumbnail: /knottybiscotti/writing/media/Series/liminal-space.png

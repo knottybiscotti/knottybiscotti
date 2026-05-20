@@ -15,18 +15,18 @@ characters:
   - amaethon
 series: Friday Flashing
 tags:
-  - halloween
-  - folklore_creature
-  - drunk_protagonist
-  - wish_bargain
-  - horror
+  - bdsm
   - bondage
   - cw_dubious_consent
+  - drunk_protagonist
   - explicit
+  - folklore_creature
+  - halloween
+  - horror
   - m_f
   - monster_sex
   - supernatural
-  - bdsm
+  - wish_bargain
 notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

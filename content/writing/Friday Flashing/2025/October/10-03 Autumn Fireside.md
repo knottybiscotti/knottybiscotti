@@ -9,7 +9,6 @@ characters:
   - laurance_tremblay
 series: Friday Flashing
 tags:
-  - ashley_gagnon
   - cabin_getaway
   - canadian_setting
   - female_friendship
@@ -18,7 +17,6 @@ tags:
   - friends_to_lovers
   - heterosexual
   - hurt_comfort
-  - laurence_tremblay
   - lesbian
   - nsfw
   - post_breakup

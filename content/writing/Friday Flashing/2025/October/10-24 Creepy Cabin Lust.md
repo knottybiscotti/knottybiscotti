@@ -22,7 +22,6 @@ tags:
   - lesbian
   - nsfw
   - orgy
-  - series_spirit_boxing
   - spirit_boxing
   - supernatural
   - supernatural_comedy

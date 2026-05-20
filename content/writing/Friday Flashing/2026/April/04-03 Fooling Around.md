@@ -10,6 +10,7 @@ characters:
 series: Friday Flashing
 tags:
   - april_fools
+  - comedy
   - established_relationship
   - f_f
   - friday_flashing
@@ -22,7 +23,6 @@ tags:
   - remote_controlled
   - roommates
   - sapphic
-  - story
   - toys
   - turning_the_tables
   - warm_front

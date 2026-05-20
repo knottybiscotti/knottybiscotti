@@ -8,11 +8,10 @@ characters:
   - essa_stiik
 series: Liminal Space
 tags:
-  - essa_stiik
   - fiction
   - masturbation
   - nsfw
-  - sci-fi
+  - sci_fi
   - story
 notes:
 thumbnail:

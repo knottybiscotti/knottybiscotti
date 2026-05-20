@@ -28,7 +28,7 @@ tags:
   - flash_fiction
   - holiday_setting
   - lesbian
-  - lgbtqia2s
+  - lgbtqia2s+
   - mistress_dynamic
   - mistress_pet
   - orgasm

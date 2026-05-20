@@ -9,7 +9,7 @@ characters:
 series: Friday Flashing
 tags:
   - blade_runner
-  - blade_runner_inspired
+  - blade_runner_franchise
   - dystopian
   - explicit
   - fingering

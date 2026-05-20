@@ -17,7 +17,7 @@ tags:
   - friday_flashing
   - f_f
   - established_relationship
-  - sapphic
+  - lesbian
   - sensual
   - public_play
   - exhibitionism
