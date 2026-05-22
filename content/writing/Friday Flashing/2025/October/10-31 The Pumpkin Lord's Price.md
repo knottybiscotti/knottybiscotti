@@ -10,9 +10,9 @@ date: 2025-10-31
 draft: false
 showComments: true
 characters:
-  - rhiannon_carrow
   - the_pumpkin_lord
   - amaethon
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
 series: Friday Flashing
 tags:
   - bdsm
