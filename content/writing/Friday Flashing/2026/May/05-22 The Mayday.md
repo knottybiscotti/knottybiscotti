@@ -2,7 +2,7 @@
 title: The Mayday
 summary: The research vessel, Dunbar's Passion, picks up a distress signal of an entirely new sort while studying an unusual region in the north Atlantic ocean.
 date: 2026-05-22
-draft: true
+draft: false
 showComments: true
 characters:
   - coral
