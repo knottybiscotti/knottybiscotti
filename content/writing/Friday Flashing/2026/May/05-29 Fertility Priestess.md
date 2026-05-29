@@ -1,6 +1,6 @@
 ---
 title: Fertility Priestess
-summary: Ten days in a dying station has a way of making things simple, but now rescue is here to make everything complicated. Before the world outside finds them, Class 3 Engineer Nora Pope and Chief Botanist Holles Enmore have one last night in the bio-dome—and one last chance to be exactly who they've been to each other.
+summary: Ten days in a dying station has a way of making things simple, but now rescue is here to make everything complicated. Before the world outside finds them, Class 3 Engineer Nora Pope and Chief Botanist Holles Enmore have one last night in the bio-dome—and one last chance to be exactly who they've been to each other here.
 date: 2026-05-29
 draft: false
 showComments: true
@@ -22,7 +22,7 @@ tags:
   - sapphic
   - explicit
   - sci_fi_horror
-notes: This one's a direct sequel to [Strange Blooms in the Secret Garden](/writing/Friday Flashing/2026/April/04-24%20Strange%20Blooms%20in%20the%20Secret%20Garden.md) but you shouldn't have to read that one to enjoy this one! I don't spend much time on exposition, so as to not bore anyone who already read the previous one, but I try to give enough context for it to make sense.  Gosh, I hope it makes sense! 😄
+notes: This one's a direct sequel to <a href="/writing/Friday Flashing/2026/April/04-24%20Strange%20Blooms%20in%20the%20Secret%20Garden.md">Strange Blooms in the Secret Garden</a> but you shouldn't have to read that one to enjoy this one! I don't spend much time on exposition, so as to not bore anyone who already read the previous one, but I try to give enough context for it to make sense.  Gosh, I hope it makes sense! 😄
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 Pope sighed. "They're here."
