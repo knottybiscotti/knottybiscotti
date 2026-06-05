@@ -2,7 +2,7 @@
 title: Pride and Prejudice and Power
 summary: Dangerous times have settled on England since the Prince Regent has been appointed. Someone is fuelling an unjust assault on a marginalised group of high society. Elizabeth Bennet has a good idea who leads the effort but at this season's masquerade she resolves to be especially vigilant for any unexpected behaviour.
 date: 2026-06-05
-draft: true
+draft: false
 showComments: true
 characters:
   - elizabeth_bennet
@@ -13,6 +13,7 @@ tags:
   - bdsm
   - flogging
   - friday_flashing
+  - handjob
   - historical
   - historical_queer
   - literary_adaptation
@@ -21,9 +22,11 @@ tags:
   - masturbation
   - orgasm_denial
   - pride_and_prejudice
+  - queer
   - regency_era
   - secret_relationship
   - teasing
+  - tense
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
