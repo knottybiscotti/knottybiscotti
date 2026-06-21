@@ -12,8 +12,8 @@ tags:
   - comedy
   - content_creator
   - established_relationship
-  - flash
   - flash_fiction
+  - friday_flashing
   - ghost_encounter
   - halloween
   - haunted_cabin

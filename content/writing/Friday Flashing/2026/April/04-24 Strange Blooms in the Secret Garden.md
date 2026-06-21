@@ -10,6 +10,7 @@ characters:
 series: Friday Flashing
 tags:
   - alien_franchise
+  - bio_dome
   - dildo
   - explicit
   - forced_proximity

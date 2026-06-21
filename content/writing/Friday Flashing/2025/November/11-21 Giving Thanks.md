@@ -11,9 +11,10 @@ series: Friday Flashing
 tags:
   - college_radio
   - cozy
+  - f_f
   - fiction
   - fingering
-  - flash
+  - flash_fiction
   - forced_proximity
   - friday_flashing
   - friends_to_lovers
@@ -22,10 +23,12 @@ tags:
   - lgbtqia2s+
   - nsfw
   - playful
+  - sapphic
   - slow_burn_moment
   - tender
   - thanksgiving
   - warm_front
+  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

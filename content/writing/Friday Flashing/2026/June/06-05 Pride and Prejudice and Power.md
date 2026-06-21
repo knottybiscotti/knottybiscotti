@@ -11,6 +11,7 @@ series: Friday Flashing
 tags:
   - alternate_universe
   - bdsm
+  - flash_fiction
   - flogging
   - friday_flashing
   - handjob
@@ -30,6 +31,7 @@ tags:
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Leaning back against the cold marble pillar, Elizabeth Bennet surveyed the gilded ballroom. She was a splash of crimson in a silk dress that became her figure, her identity concealed by the fox-faced mask. The masquerade was the most celebrated event of the season—for a singular circle—and the most perilous. A wrong word, a careless touch, and the whole of England's social elite could unravel.
 
 Upon the dance floor bodies twirled and dipped in a raucous waltz. The assembly presented an odd mixture of attire: billowing *lutestring*, sparkling satin, and, in some cases, little more than oiled leather. Feathers, lace and papier-mâché masks concealed faces; yet Elizabeth sensed the pall over the room. Laughter, cries of delight and shock arose and echoed off the lofty, arched ceiling, but it was not as *joyous* as in former years.

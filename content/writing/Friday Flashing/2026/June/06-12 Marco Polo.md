@@ -12,8 +12,10 @@ tags:
   - childhood_friends
   - coming_out
   - f_f
+  - flash_fiction
   - friday_flashing
   - hold_the_moan
+  - lgbtqia2s+
   - pool_party
   - public
   - public_play
@@ -23,9 +25,11 @@ tags:
   - summer
   - trans_character
   - warm_front
+  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Vanessa had spent nearly every sunny day from middle school through to graduation in Mr. and Mrs. Cook's backyard, lounging by the pool, occasionally studying—if forced—and hanging with her best friends. Now, back for the first time since they'd all scattered to their colleges, Vanessa found everything *exactly* as she remembered. Keith and Axel horsing around in the deep end of the pool, Jody sitting on the edge with her feet dangling in the water, pretending to ignore the boys, and Lindsey lying in the sun, bikini straps off her shoulders as she tanned.
 
 Perfect.

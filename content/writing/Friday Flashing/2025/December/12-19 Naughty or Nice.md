@@ -1,29 +1,25 @@
 ---
 title: Naughty or Nice
-summary: >-
-  We spend a cozy evening in with Heidi and Eleanor as they share their first
-  Christmas together. Eleanor has been very careful to bring the thoughtful,
-  meaningful type of gifts for Heidi.
+summary: We spend a cozy evening in with Heidi and Eleanor as they share their first Christmas together. Eleanor has been very careful to bring the thoughtful, meaningful type of gifts for Heidi.
 date: 2025-12-19
 draft: false
 showComments: true
 characters:
-  - eleanor_whitcomb
-  - heidi_price
+  - "[[Heidi Price]]"
+  - "[[Eleanor Whitcombe]]"
 series: Friday Flashing
 tags:
   - age_difference
-  - age_gap_older_woman
   - bdsm
   - christmas
   - confession
   - control
   - cozy
   - d_s
-  - domme_sub
+  - domme
   - established_relationship
   - explicit
-  - flash
+  - f_f
   - flash_fiction
   - gentle_domme
   - gift_giving
@@ -35,6 +31,8 @@ tags:
   - orgasm
   - pet_play
   - queer
+  - sapphic
+  - submissive
   - tender
   - wlw
 notes: |-

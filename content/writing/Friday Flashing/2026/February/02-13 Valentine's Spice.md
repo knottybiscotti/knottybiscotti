@@ -16,7 +16,7 @@ tags:
   - cunnilingus
   - established_relationship
   - fingering
-  - flash
+  - flash_fiction
   - friday_flashing
   - humorous
   - lesbian

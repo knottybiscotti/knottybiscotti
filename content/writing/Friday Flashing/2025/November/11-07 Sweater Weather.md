@@ -8,11 +8,13 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
 series: Friday Flashing
 tags:
+  - agender
   - cunnilingus
   - cw_dubious_consent
   - dreamlike
   - dubcon
-  - flash
+  - flash_fiction
+  - friday_flashing
   - folklore
   - gothic_horror
   - haunting

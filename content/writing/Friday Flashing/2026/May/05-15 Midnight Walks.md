@@ -14,6 +14,7 @@ tags:
   - established_relationship
   - f_f
   - fingering
+  - flash_fiction
   - friday_flashing
   - lake_setting
   - lesbian
@@ -24,9 +25,11 @@ tags:
   - skinny_dipping
   - warm_front
   - writers_block
+  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Silence.
 
 The words won't come. The music has gone quiet.

@@ -14,17 +14,15 @@ characters:
 series: Friday Flashing
 tags:
   - age_difference
-  - age_gap_older_woman
   - bdsm
   - collar_and_leash
   - control
   - d_s
   - dildo
-  - dominant_woman
-  - domme_sub
+  - domme
   - established_relationship
   - explicit
-  - flash
+  - f_f
   - flash_fiction
   - holiday_setting
   - lesbian
@@ -34,7 +32,9 @@ tags:
   - orgasm
   - pet_play
   - queer
+  - sapphic
   - strap_on
+  - submissive
   - tender
   - wlw
 notes: |-

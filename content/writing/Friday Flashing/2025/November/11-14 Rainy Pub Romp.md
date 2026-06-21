@@ -11,7 +11,7 @@ series: Friday Flashing
 tags:
   - agender
   - cozy
-  - cozy_atmosphere
+  - cozy
   - exhibitionism
   - flash_fiction
   - gender_neutral

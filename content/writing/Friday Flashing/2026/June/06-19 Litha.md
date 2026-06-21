@@ -15,13 +15,18 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Sirona|Sirona]]"
 series: Friday Flashing
 tags:
+  - body_worship
+  - f_f
   - folklore
+  - flash_fiction
   - friday_flashing
   - lesbian
   - magic_adjacent
   - mythological
   - nature_magic
   - non_human
+  - pagan
+  - plant_bondage
   - queer
   - ritual_sex
   - sapphic
@@ -29,9 +34,11 @@ tags:
   - spirit_boxing
   - stone_circle
   - tribadism
+  - wlw
 notes: It's time to check in with Rhiannon again! She's been having a very unusual year, and there's a light bit of continuity between "The Pumpkin Lord's Price", "Beltane" and this one, but you should be able to enjoy any of them as standalone stories.
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 The festival sprawled across the old commons and into the bordering woods like a dandelion crop: nothing but green one day, a cacophony of brilliant yellow the next. The air was rich with woodsmoke, crushed meadowsweet, meat roasting over open fires, and the acrid tang of honey mead. Rhiannon had paid her ten dollars at the gate and walked through with her shoulders loose for the first time in weeks.
 
 "**RhiRhi!**" Roselyn waved eagerly as she approached. *Of course she's in costume,* Rhiannon smiled to herself. Roz was at every ren faire she could attend all summer long. She was wearing an unbleached cotton shift dress beneath an absolutely gorgeous green over-dress with a lace-up front. It did *precisely* what Roz probably wanted it to do: emphasise her narrow waist, wide hips and comically large bust.

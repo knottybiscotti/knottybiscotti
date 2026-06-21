@@ -13,12 +13,15 @@ tags:
   - cozy
   - established_relationship
   - explicit
+  - f_f
   - fingering
-  - flash
+  - flash_fiction
   - lesbian
   - manual
   - mutual_masturbation
   - no_dialogue
+  - queer
+  - sapphic
   - sensual
   - tender
   - writer_character

@@ -18,18 +18,23 @@ tags:
   - bdsm
   - bondage
   - cw_dubious_consent
+  - dubcon
   - drunk_protagonist
   - explicit
-  - folklore_creature
+  - friday_flashing
+  - flash_fiction
+  - folklore
   - halloween
   - horror
   - m_f
   - monster_sex
   - supernatural
+  - supernatural_encounter
   - wish_bargain
 notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
+
 Rhiannon weaved through the chaos: mummies, ghosts, an axe-murderer, three sexy nurses, and two witches in addition to herself. She tried to focus on Heather, her forever bestie, but bumped into an inflatable dinosaur, spilling her margarita down the front of her costume. "Aw, noooo!" she blinked, uncomprehending as the cold hit her. A shaky step back brought her to the table, where she knocked a tray of sausage rolls onto the floor. "Oh, *nooo*," she wailed, then, somehow, Heather was at her side.
 
 "Hey, RhiRhi," Heather said gently, wrapping an arm around her. "The party's kind of winding down. How about I get you a ride home."

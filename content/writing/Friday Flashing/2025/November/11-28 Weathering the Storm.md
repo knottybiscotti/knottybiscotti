@@ -11,7 +11,6 @@ series: Friday Flashing
 tags:
   - alien_protagonist
   - comedy
-  - crossover
   - f_f
   - frustration
   - hold_the_moan

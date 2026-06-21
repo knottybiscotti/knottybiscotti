@@ -8,7 +8,7 @@ characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
 series: Friday Flashing
 tags:
-  - blade_runner
+  - blade_runner_franchise
   - blade_runner_franchise
   - dystopian
   - explicit

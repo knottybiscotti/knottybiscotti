@@ -1,8 +1,6 @@
 ---
 title: By Degrees
-summary: >-
-  Valentine's Day plans are ruined because Eleanor is too good at her job and
-  too respected by her peers. Heidi suggests a possible solution…
+summary: Valentine's Day plans are ruined because Eleanor is too good at her job and too respected by her peers. Heidi suggests a possible solution…
 date: 2026-02-06
 draft: false
 showComments: true
@@ -12,15 +10,15 @@ characters:
 series: Friday Flashing
 tags:
   - age_difference
-  - age_gap_older_woman
   - bdsm
   - body_worship
   - bondage
   - control
   - d_s
-  - domme_sub
+  - domme
   - established_relationship
   - explicit
+  - f_f
   - lesbian
   - lgbtqia2s+
   - mistress_dynamic
@@ -30,7 +28,9 @@ tags:
   - pet_play
   - queer
   - restraints
+  - sapphic
   - scissoring
+  - submissive
   - temperature_play
   - tribadism
   - valentines_day
