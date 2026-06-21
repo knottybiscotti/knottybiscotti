@@ -18,14 +18,12 @@ tags:
   - lgbtqia2s+
   - pool_party
   - public
-  - public_play
   - queer
   - reunion
   - sapphic
   - summer
   - trans_character
   - warm_front
-  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

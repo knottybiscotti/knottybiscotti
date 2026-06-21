@@ -17,15 +17,14 @@ tags:
   - flash_fiction
   - friday_flashing
   - lake_setting
-  - lesbian
-  - oral
+  - oral_sex
   - outdoor_intimacy
-  - outdoor_setting
+  - outdoors
+  - sapphic
   - sapphic_marriage
   - skinny_dipping
   - warm_front
   - writers_block
-  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

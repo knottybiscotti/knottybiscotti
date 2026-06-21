@@ -9,7 +9,6 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Lena Costas|Lena Costas]]"
 series: Friday Flashing
 tags:
-  - accidental_magic
   - analingus
   - aphrodisiac
   - comedy
@@ -18,15 +17,13 @@ tags:
   - fingering
   - flash_fiction
   - friday_flashing
-  - humorous
-  - lesbian
   - magic
   - magic_mishap
   - nsfw
-  - oral
   - oral_sex
   - orgasm
   - queer
+  - sapphic
   - supernatural
   - valentines_day
 notes: This one was originally scheduled for the day before Valentine's Day, but I was mired in…personal stuff at the time. I'm going to pick and choose which ones to publish and when for a little bit, but I promise next week is going to be rather ☘️!

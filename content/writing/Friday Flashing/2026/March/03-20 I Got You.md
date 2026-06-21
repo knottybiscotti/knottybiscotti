@@ -9,12 +9,10 @@ characters:
 series: Friday Flashing
 tags:
   - blade_runner_franchise
-  - blade_runner_franchise
   - dystopian
   - explicit
   - fingering
   - flash_fiction
-  - lesbian
   - post_apocalyptic
   - sapphic
   - sci_fi

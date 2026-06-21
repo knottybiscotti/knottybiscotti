@@ -16,13 +16,11 @@ tags:
   - forbidden_desire
   - friday_flashing
   - incest
-  - lesbian
   - mother_daughter
   - sapphic
   - sapphic_incest
   - tender
   - warm_front
-  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

@@ -11,19 +11,17 @@ series: Friday Flashing
 tags:
   - agender
   - cozy
-  - cozy
   - exhibitionism
   - flash_fiction
   - gender_neutral
-  - non-binary
+  - non_binary
   - nsfw
-  - oral
   - oral_sex
   - public
   - queer
   - scottish_setting
   - second_person_pov
-  - secret_encounter
+  - secret_sex
   - tender
   - under_the_table
 notes: Here's one under a 1000 words! 🤸 A couple of new characters here, my very first time 'publishing' any writing where I tried to write in the second person (I really hope it lands for you!) and the first time I've basically cribbed from my own life! The pub in this story is based loosely on one I would visit when I lived in Glasgow, though I was in The Gorbals and this one is on the other side of the River Clyde.  I hope you enjoy!  I'm sure we'll see Taran and Blair again.

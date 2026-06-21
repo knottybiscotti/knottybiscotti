@@ -11,21 +11,19 @@ series: Friday Flashing
 tags:
   - cabin_getaway
   - canadian_setting
+  - cozy
   - f_f_m
   - female_friendship
   - flash_fiction
   - friday_flashing
   - friends_to_lovers
-  - heterosexual
   - hurt_comfort
-  - lesbian
   - nsfw
   - post_breakup
+  - queer
+  - sapphic
   - threesome
   - wilderness
-  - cozy
-  - wlw
-  - queer
 notes: At 1600 words this is really stretching the definition of "Flash Fiction" but I really didn't want to cut out the second half of the scene.  I promise others will be tighter!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

@@ -14,8 +14,6 @@ tags:
   - easter
   - established_relationship
   - friday_flashing
-  - humorous
-  - lesbian
   - lingerie
   - oral_sex
   - playful
@@ -23,7 +21,6 @@ tags:
   - scavenger_hunt
   - teasing
   - warm_front
-  - wlw
 notes: Another direct sequel!  And this is to last week's story, at that!  Don't worry, I won't be going serial any time soon, I just see this as more of a two-parter, where I pay off what I set up in Fooling Around.
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

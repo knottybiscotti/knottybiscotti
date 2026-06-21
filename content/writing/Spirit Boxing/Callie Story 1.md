@@ -8,13 +8,12 @@ characters:
   - callie_keller
 series: Spirit Boxing
 tags:
+  - cw_dubious_consent
   - deep_throat
-  - dubcon
   - facial
   - fellatio
   - fiction
   - haunting
-  - heterosexual
   - masturbation
   - nsfw
   - oral_sex

@@ -17,7 +17,6 @@ series: Friday Flashing
 tags:
   - bondage
   - cw_dubious_consent
-  - dubcon
   - explicit
   - forest
   - mythological

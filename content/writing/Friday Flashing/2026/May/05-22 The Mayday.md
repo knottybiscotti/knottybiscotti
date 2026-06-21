@@ -10,16 +10,15 @@ series: Friday Flashing
 tags:
   - bukkake
   - cw_non_consent
-  - dreamlike
   - first_contact
   - hopeful
   - marine_setting
   - mermaid
   - mind_control
-  - non-con
   - ocean_research
   - orgy
-  - supernatural_encounter
+  - supernatural
+  - surreal
   - tense
 notes: "This one is a rework of an earlier idea I had, but now with a Mermaid angle for #MerMay! I hadn't even thought about that until some of my favourite artists started sharing mermaid art on their Bluesky feeds. I really like how this one turned out, I hope you enjoyed it too!"
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

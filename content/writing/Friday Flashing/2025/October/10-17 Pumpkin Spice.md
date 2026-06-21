@@ -15,13 +15,13 @@ tags:
   - ghost_possession
   - haunted_cafe
   - haunting
-  - lesbian
   - magic
   - magic_adjacent
   - masturbation
   - nsfw
   - orgy
   - playful
+  - sapphic
   - slice_of_life
   - supernatural
 notes:

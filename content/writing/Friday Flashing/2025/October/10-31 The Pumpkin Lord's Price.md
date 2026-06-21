@@ -18,18 +18,16 @@ tags:
   - bdsm
   - bondage
   - cw_dubious_consent
-  - dubcon
   - drunk_protagonist
   - explicit
-  - friday_flashing
   - flash_fiction
   - folklore
+  - friday_flashing
   - halloween
   - horror
   - m_f
   - monster_sex
   - supernatural
-  - supernatural_encounter
   - wish_bargain
 notes: I absolutely have to dedicate this one to Stevie Nicks, the initial inspiration came from the Fleetwood Mac song, after all!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

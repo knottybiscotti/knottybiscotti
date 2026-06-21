@@ -16,8 +16,6 @@ tags:
   - f_f
   - fingering
   - flash_fiction
-  - lesbian
-  - manual
   - mutual_masturbation
   - no_dialogue
   - queer

@@ -7,22 +7,20 @@ showComments: true
 characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
 tags:
+  - deep_throat
   - drunk_hookup
   - explicit
   - fiction
   - hangover
-  - heterosexual
   - m_f
   - morning_after
   - new_years_eve
   - nsfw
   - one_night_stand
-  - oral
   - oral_sex
   - playful
   - rough
   - strangers_to_lovers
-  - deep_throat
 series: Friday Flashing
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

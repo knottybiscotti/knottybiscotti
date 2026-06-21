@@ -16,7 +16,6 @@ tags:
   - age_difference
   - bdsm
   - collar_and_leash
-  - control
   - d_s
   - dildo
   - domme
@@ -25,10 +24,7 @@ tags:
   - f_f
   - flash_fiction
   - holiday_setting
-  - lesbian
   - lgbtqia2s+
-  - mistress_dynamic
-  - mistress_pet
   - orgasm
   - pet_play
   - queer
@@ -36,7 +32,6 @@ tags:
   - strap_on
   - submissive
   - tender
-  - wlw
 notes: |-
 
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

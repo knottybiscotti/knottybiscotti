@@ -18,10 +18,9 @@ tags:
   - halloween
   - haunted_cabin
   - haunting
-  - humorous
-  - lesbian
   - nsfw
   - orgy
+  - sapphic
   - spirit_boxing
   - supernatural
   - supernatural_comedy

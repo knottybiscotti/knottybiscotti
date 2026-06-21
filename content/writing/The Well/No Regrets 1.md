@@ -11,9 +11,9 @@ series: The Well
 tags:
   - fiction
   - implied_violence
-  - lesbian
   - lgbtqia2s+
   - nsfw
+  - sapphic
   - the_well
   - violence
   - western

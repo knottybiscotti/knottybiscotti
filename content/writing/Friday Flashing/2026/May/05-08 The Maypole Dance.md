@@ -9,22 +9,19 @@ characters:
   - "[[Alex Taylor]]"
 series: Friday Flashing
 tags:
-  - outdoor_setting
-  - park_ranger
-  - public_risk
-  - nature_setting
-  - uniform
-  - friday_flashing
-  - f_f
   - established_relationship
-  - lesbian
-  - sensual
-  - public_play
   - exhibitionism
-  - lesbian
-  - secret_sex
   - explicit
+  - f_f
+  - friday_flashing
+  - outdoors
+  - park_ranger
+  - public
+  - sapphic
+  - secret_sex
+  - sensual
   - slice_of_life
+  - uniform
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

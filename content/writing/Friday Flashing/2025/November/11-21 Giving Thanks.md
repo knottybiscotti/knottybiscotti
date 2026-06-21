@@ -19,7 +19,6 @@ tags:
   - friday_flashing
   - friends_to_lovers
   - ice_storm
-  - lesbian
   - lgbtqia2s+
   - nsfw
   - playful
@@ -28,7 +27,6 @@ tags:
   - tender
   - thanksgiving
   - warm_front
-  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

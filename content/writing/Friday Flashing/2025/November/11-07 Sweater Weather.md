@@ -11,20 +11,16 @@ tags:
   - agender
   - cunnilingus
   - cw_dubious_consent
-  - dreamlike
-  - dubcon
   - flash_fiction
-  - friday_flashing
   - folklore
+  - friday_flashing
   - gothic_horror
   - haunting
   - mind_control
-  - oral
   - oral_sex
   - outdoors
   - queer
   - supernatural
-  - supernatural_encounter
   - surreal
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

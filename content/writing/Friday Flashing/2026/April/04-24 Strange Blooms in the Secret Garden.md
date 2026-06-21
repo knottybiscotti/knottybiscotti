@@ -15,12 +15,11 @@ tags:
   - explicit
   - forced_proximity
   - friday_flashing
-  - improvised_dildo
   - improvised_toy
   - sapphic
   - sci_fi_horror
   - sex_toy
-  - space_station
+  - space_setting
   - story
   - strangers
   - survival

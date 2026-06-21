@@ -15,13 +15,12 @@ tags:
   - explicit
   - hold_the_moan
   - holiday_market
-  - lesbian
   - mulled_wine
   - nsfw
-  - outdoor_setting
   - outdoors
   - playful
-  - public_play
+  - public
+  - sapphic
   - secret_sex
   - slice_of_life
 notes: This didn't start out as an Alex/Harper story but I wasn't even through the first outline before I realised it absolutely <em>had</em> to be one featuring the new couple. It fit them too well and it scratched my itch for character development even in these bite-sized little bits of smut! 🥰

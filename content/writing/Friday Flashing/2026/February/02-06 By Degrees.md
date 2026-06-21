@@ -13,29 +13,22 @@ tags:
   - bdsm
   - body_worship
   - bondage
-  - control
   - d_s
   - domme
   - established_relationship
   - explicit
   - f_f
-  - lesbian
   - lgbtqia2s+
-  - mistress_dynamic
-  - mistress_pet
   - orgasm
   - pain
   - pet_play
   - queer
-  - restraints
   - sapphic
   - scissoring
   - submissive
   - temperature_play
   - tribadism
   - valentines_day
-  - wax_play
-  - wlw
 notes: |-
   Happy International Women's Day, everyone! This was originally going to be published the week before Valentine's Day, but alas, my mental health didn't allow for that. But it's here now! It was scheduled to be titled "Dinner by Candlelight" but I had to scrap the whole "Dinner" part when I cut that part of the story for length reasons, and then I pretty much HATED just "Candlelight", so now it's got a new, cheeky title that references the current story AND the back-story about how Eleanor and Heidi met! Gosh I'm clever!
 

@@ -13,15 +13,15 @@ tags:
   - bio_dome
   - corporate_threat
   - established_relationship
+  - explicit
   - f_f
   - forced_proximity
   - friday_flashing
   - psychedelics
-  - sci_fi
-  - survival
   - sapphic
-  - explicit
+  - sci_fi
   - sci_fi_horror
+  - survival
 notes: This one's a direct sequel to https://knottybiscotti.github.io/knottybiscotti/writing/friday-flashing/2026/april/04-24-strange-blooms-in-the-secret-garden/ but you shouldn't have to read that one to enjoy this one! I don't spend much time on exposition, so as to not bore anyone who already read the previous one, but I try to give enough context for it to make sense.  Gosh, I hope it makes sense! 😄
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

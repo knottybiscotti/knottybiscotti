@@ -15,18 +15,15 @@ tags:
   - f_f
   - friday_flashing
   - hold_the_moan
-  - humorous
-  - lesbian
   - masturbation
   - playful
   - prank_war
   - remote_controlled
   - roommates
   - sapphic
-  - toys
+  - sex_toy
   - turning_the_tables
   - warm_front
-  - wlw
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

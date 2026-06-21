@@ -8,23 +8,23 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
 series: Friday Flashing
 tags:
-  - dreamlike
+  - agender
+  - deep_throat
   - fable_like
+  - fantasy
+  - fellatio
   - forest
+  - gothic_horror
   - low_fantasy
+  - mutual_masturbation
+  - non_binary
+  - oral_sex
+  - queer
   - sensual
   - series_standalone
   - strangers
+  - surreal
   - tense
-  - agender
-  - non-binary
-  - fellatio
-  - mutual_masturbation
-  - oral_sex
-  - fantasy
-  - deep_throat
-  - gothic_horror
-  - queer
 notes: I had a completely different story written for this one—I'll probably recycle it later, it featured Rhiannon—before Riven popped up behind my shoulder and said "I really wanna blow a Leprechaun". I can't say no to Riven. They're basically my avatar! Hope you enjoy!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

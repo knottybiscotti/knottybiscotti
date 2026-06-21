@@ -10,17 +10,17 @@ characters:
 series: Friday Flashing
 tags:
   - autumn
+  - fingering
   - flirtatious
   - forest
   - guide_tourist
-  - lesbian
   - nature_hike
   - nsfw
   - outdoors
+  - sapphic
   - strangers
-  - tender
   - strangers_to_lovers
-  - fingering
+  - tender
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

@@ -16,7 +16,7 @@ tags:
   - established_relationship
   - friday_flashing
   - incest
-  - lesbian
+  - sapphic
   - sapphic_incest
   - sisters
   - somnophilia

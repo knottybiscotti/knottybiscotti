@@ -15,17 +15,15 @@ tags:
   - fantasy
   - fingering
   - folklore
-  - homosexual
   - ice_queen
-  - lesbian
   - low_fantasy
   - magic
   - mystery
   - nsfw
-  - oral
   - oral_sex
   - orgasm
   - queer
+  - sapphic
   - supernatural
   - village_in_peril
   - winter_setting

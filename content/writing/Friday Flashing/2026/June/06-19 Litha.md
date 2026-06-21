@@ -17,10 +17,9 @@ series: Friday Flashing
 tags:
   - body_worship
   - f_f
-  - folklore
   - flash_fiction
+  - folklore
   - friday_flashing
-  - lesbian
   - magic_adjacent
   - mythological
   - nature_magic
@@ -34,7 +33,6 @@ tags:
   - spirit_boxing
   - stone_circle
   - tribadism
-  - wlw
 notes: It's time to check in with Rhiannon again! She's been having a very unusual year, and there's a light bit of continuity between "The Pumpkin Lord's Price", "Beltane" and this one, but you should be able to enjoy any of them as standalone stories.
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
