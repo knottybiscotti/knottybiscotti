@@ -1,6 +1,10 @@
 <div class="info">
     <h1 class="post-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
+
+       <span class="heat-badge" title="Heat {{ default 0 .Params.heat }}/3">
+          {{- partial "heat-badge.html" .Params.heat -}}
+       </span>
     </h1>
 
     <div class="headline">
@@ -17,10 +21,6 @@
                 </span>
             {{ end }}
         </div>
-
-        <span class="heat-badge" title="Heat {{ default 0 .Params.heat }}/3">
-           {{- partial "heat-badge.html" .Params.heat -}}
-        </span>
 
         {{ if .Params.tags }}
             <ul class="tags">
