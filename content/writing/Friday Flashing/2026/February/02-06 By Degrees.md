@@ -22,7 +22,6 @@ tags:
   - orgasm
   - pain
   - pet_play
-  - queer
   - sapphic
   - scissoring
   - submissive

@@ -20,12 +20,12 @@ tags:
   - cw_dubious_consent
   - drunk_protagonist
   - explicit
+  - f_m
   - flash_fiction
   - folklore
   - friday_flashing
   - halloween
   - horror
-  - m_f
   - monster_sex
   - supernatural
   - wish_bargain

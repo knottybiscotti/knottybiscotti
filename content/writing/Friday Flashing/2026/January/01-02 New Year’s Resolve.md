@@ -10,9 +10,9 @@ tags:
   - deep_throat
   - drunk_hookup
   - explicit
+  - f_m
   - fiction
   - hangover
-  - m_f
   - morning_after
   - new_years_eve
   - nsfw

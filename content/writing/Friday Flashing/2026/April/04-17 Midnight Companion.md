@@ -10,7 +10,7 @@ characters:
 series: Friday Flashing
 tags:
   - bondage
-  - cabin_getaway
+  - cabin_setting
   - cw_dubious_consent
   - cw_incest
   - established_relationship

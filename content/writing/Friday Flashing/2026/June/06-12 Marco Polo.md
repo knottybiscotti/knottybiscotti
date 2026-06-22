@@ -18,7 +18,6 @@ tags:
   - lgbtqia2s+
   - pool_party
   - public
-  - queer
   - reunion
   - sapphic
   - summer

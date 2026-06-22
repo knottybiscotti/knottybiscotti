@@ -19,7 +19,6 @@ tags:
   - mind_control
   - oral_sex
   - outdoors
-  - queer
   - supernatural
   - surreal
 notes:

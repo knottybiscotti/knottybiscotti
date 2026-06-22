@@ -1,0 +1,7 @@
+{{- /* heat-badge.html — render a 0–3 rating as peppers.
+       Context: an int from .Params.heat on a story page, or the
+       term string from .Data.Term on a /heat/N/ page. 0/unset → 🫑 */ -}}
+{{- $v := . -}}
+{{- if reflect.IsSlice $v -}}{{- $v = index $v 0 -}}{{- end -}}
+{{- $n := int (default 0 $v) -}}
+{{- if le $n 0 -}}🫑{{- else -}}{{- strings.Repeat $n "🌶️" -}}{{- end -}}

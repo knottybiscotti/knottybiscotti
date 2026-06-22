@@ -26,7 +26,6 @@ tags:
   - non_human
   - pagan
   - plant_bondage
-  - queer
   - ritual_sex
   - sapphic
   - solstice

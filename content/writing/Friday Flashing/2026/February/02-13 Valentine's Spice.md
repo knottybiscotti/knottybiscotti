@@ -22,7 +22,6 @@ tags:
   - nsfw
   - oral_sex
   - orgasm
-  - queer
   - sapphic
   - supernatural
   - valentines_day

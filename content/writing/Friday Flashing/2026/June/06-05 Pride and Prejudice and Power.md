@@ -11,6 +11,7 @@ series: Friday Flashing
 tags:
   - alternate_universe
   - bdsm
+  - f_m
   - flash_fiction
   - flogging
   - friday_flashing
@@ -18,12 +19,10 @@ tags:
   - historical
   - historical_queer
   - literary_adaptation
-  - m_f
   - masquerade
   - masturbation
   - orgasm_denial
   - pride_and_prejudice
-  - queer
   - regency_era
   - secret_relationship
   - teasing

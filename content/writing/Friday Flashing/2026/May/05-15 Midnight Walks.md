@@ -18,7 +18,6 @@ tags:
   - friday_flashing
   - lake_setting
   - oral_sex
-  - outdoor_intimacy
   - outdoors
   - sapphic
   - sapphic_marriage

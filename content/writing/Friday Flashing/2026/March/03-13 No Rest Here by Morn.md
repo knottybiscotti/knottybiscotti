@@ -19,7 +19,6 @@ tags:
   - mutual_masturbation
   - non_binary
   - oral_sex
-  - queer
   - sensual
   - series_standalone
   - strangers

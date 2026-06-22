@@ -27,7 +27,6 @@ tags:
   - lgbtqia2s+
   - orgasm
   - pet_play
-  - queer
   - sapphic
   - strap_on
   - submissive

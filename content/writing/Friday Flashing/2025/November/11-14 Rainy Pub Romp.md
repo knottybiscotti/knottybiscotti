@@ -18,7 +18,6 @@ tags:
   - nsfw
   - oral_sex
   - public
-  - queer
   - scottish_setting
   - second_person_pov
   - secret_sex

@@ -18,7 +18,6 @@ tags:
   - flash_fiction
   - mutual_masturbation
   - no_dialogue
-  - queer
   - sapphic
   - sensual
   - tender

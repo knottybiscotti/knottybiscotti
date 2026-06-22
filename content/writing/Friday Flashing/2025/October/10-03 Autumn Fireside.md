@@ -8,10 +8,14 @@ characters:
   - ashley_gagnon
   - laurance_tremblay
 series: Friday Flashing
+heat: 2
 tags:
-  - cabin_getaway
+  - autumn
+  - cabin_setting
   - canadian_setting
   - cozy
+  - cunnilingus
+  - explicit
   - f_f_m
   - female_friendship
   - flash_fiction
@@ -19,8 +23,6 @@ tags:
   - friends_to_lovers
   - hurt_comfort
   - nsfw
-  - post_breakup
-  - queer
   - sapphic
   - threesome
   - wilderness

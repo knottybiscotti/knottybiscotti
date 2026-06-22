@@ -10,15 +10,16 @@ characters:
 series: Friday Flashing
 tags:
   - autumn
+  - cozy
+  - f_f
   - fingering
-  - flirtatious
+  - flash_fiction
   - forest
-  - guide_tourist
-  - nature_hike
+  - friday_flashing
   - nsfw
   - outdoors
+  - park_ranger
   - sapphic
-  - strangers
   - strangers_to_lovers
   - tender
 notes:
