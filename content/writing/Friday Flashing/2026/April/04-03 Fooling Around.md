@@ -8,6 +8,7 @@ characters:
   - "[[Frankie Pierce]]"
   - "[[Rachel Brooks]]"
 series: Friday Flashing
+heat: 2
 tags:
   - april_fools
   - comedy

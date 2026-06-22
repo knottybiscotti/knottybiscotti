@@ -8,6 +8,7 @@ characters:
   - lydia_march
   - rowan_vex
 series: Friday Flashing
+heat: 2
 tags:
   - comedy
   - enchanted_drink

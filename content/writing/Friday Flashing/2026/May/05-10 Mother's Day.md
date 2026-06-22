@@ -8,6 +8,7 @@ characters:
   - susan_macleod
   - abby_macleod
 series: Friday Flashing
+heat: 3
 tags:
   - cw_incest
   - f_f

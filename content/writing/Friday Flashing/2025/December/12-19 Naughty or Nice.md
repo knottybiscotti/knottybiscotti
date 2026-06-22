@@ -8,6 +8,7 @@ characters:
   - "[[Heidi Price]]"
   - "[[Eleanor Whitcombe]]"
 series: Friday Flashing
+heat: 2
 tags:
   - age_difference
   - bdsm

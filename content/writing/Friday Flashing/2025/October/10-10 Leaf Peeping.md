@@ -8,6 +8,7 @@ characters:
   - "[[Harper Ellison]]"
   - "[[Alex Taylor]]"
 series: Friday Flashing
+heat: 2
 tags:
   - autumn
   - cozy

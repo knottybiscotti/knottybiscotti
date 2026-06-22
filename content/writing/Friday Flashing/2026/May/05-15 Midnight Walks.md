@@ -8,6 +8,7 @@ characters:
   - the_writer
   - the_muse
 series: Friday Flashing
+heat: 2
 tags:
   - body_worship
   - cunnilingus

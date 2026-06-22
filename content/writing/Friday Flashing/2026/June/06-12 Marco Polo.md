@@ -8,6 +8,7 @@ characters:
   - heather_somers
   - vanessa_lynch
 series: Friday Flashing
+heat: 2
 tags:
   - childhood_friends
   - coming_out

@@ -7,6 +7,7 @@ showComments: true
 characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
 series: Friday Flashing
+heat: 2
 tags:
   - blade_runner_franchise
   - dystopian

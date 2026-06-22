@@ -8,6 +8,7 @@ characters:
   - "[[Rachel Brooks]]"
   - "[[Frankie Pierce]]"
 series: Friday Flashing
+heat: 2
 tags:
   - college_radio
   - cozy

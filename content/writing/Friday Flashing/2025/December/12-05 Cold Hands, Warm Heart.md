@@ -8,6 +8,7 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Harper Ellison|Harper Ellison]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Alex Taylor|Alex Taylor]]"
 series: Friday Flashing
+heat: 2
 tags:
   - established_relationship
   - ex_encounter

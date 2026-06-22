@@ -8,6 +8,7 @@ characters:
   - essa_stiik
   - briar_reinhardt
 series: Liminal Space
+heat: 1
 tags:
   - fluff
   - sci_fi

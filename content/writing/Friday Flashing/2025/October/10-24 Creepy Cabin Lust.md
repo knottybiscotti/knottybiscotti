@@ -8,6 +8,7 @@ characters:
   - "[[Lena Costas]]"
   - "[[Hazel Davis]]"
 series: Friday Flashing
+heat: 2
 tags:
   - comedy
   - content_creator

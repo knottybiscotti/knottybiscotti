@@ -8,6 +8,7 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Hazel Davis|Hazel Davis]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Lena Costas|Lena Costas]]"
 series: Friday Flashing
+heat: 2
 tags:
   - analingus
   - aphrodisiac

@@ -7,6 +7,7 @@ showComments: true
 characters:
   - essa_stiik
 series: Liminal Space
+heat: 2
 tags:
   - fiction
   - masturbation

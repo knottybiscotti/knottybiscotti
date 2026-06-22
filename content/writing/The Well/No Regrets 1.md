@@ -8,6 +8,7 @@ characters:
   - talula_goodman
   - mary_mawdsley
 series: The Well
+heat: 3
 tags:
   - fiction
   - implied_violence

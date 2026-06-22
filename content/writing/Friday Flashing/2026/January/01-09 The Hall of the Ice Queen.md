@@ -8,6 +8,7 @@ characters:
   - queen_nechta
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Juvielle Wode|Juvielle Wode]]"
 series: Friday Flashing
+heat: 2
 tags:
   - bdsm
   - confession

@@ -14,6 +14,7 @@ characters:
   - amaethon
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
 series: Friday Flashing
+heat: 3
 tags:
   - bdsm
   - bondage

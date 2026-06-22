@@ -14,6 +14,7 @@ characters:
   - "[[Rhiannon Carrow]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Sirona|Sirona]]"
 series: Friday Flashing
+heat: 2
 tags:
   - body_worship
   - f_f

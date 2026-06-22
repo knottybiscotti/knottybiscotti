@@ -7,6 +7,7 @@ showComments: true
 characters:
   - coral
 series: Friday Flashing
+heat: 3
 tags:
   - bukkake
   - cw_non_consent

@@ -8,6 +8,7 @@ characters:
   - eleanor_whitcomb
   - heidi_price
 series: Friday Flashing
+heat: 3
 tags:
   - age_difference
   - bdsm

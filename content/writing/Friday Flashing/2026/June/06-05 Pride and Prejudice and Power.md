@@ -8,6 +8,7 @@ characters:
   - elizabeth_bennet
   - fitzwilliam_darcy
 series: Friday Flashing
+heat: 2
 tags:
   - alternate_universe
   - bdsm

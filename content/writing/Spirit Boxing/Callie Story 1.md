@@ -7,6 +7,7 @@ showComments: true
 characters:
   - callie_keller
 series: Spirit Boxing
+heat: 3
 tags:
   - cw_dubious_consent
   - deep_throat

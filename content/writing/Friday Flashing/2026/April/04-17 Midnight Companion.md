@@ -8,6 +8,7 @@ characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Kelley Hayes|Kelley Hayes]]"
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Kayleigh Hayes|Kayleigh Hayes]]"
 series: Friday Flashing
+heat: 3
 tags:
   - bondage
   - cabin_setting

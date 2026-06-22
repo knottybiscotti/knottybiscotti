@@ -7,6 +7,7 @@ showComments: true
 characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Riven Morrow|Riven Morrow]]"
 series: Friday Flashing
+heat: 2
 tags:
   - agender
   - cunnilingus

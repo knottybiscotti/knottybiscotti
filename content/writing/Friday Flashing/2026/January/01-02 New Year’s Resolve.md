@@ -6,6 +6,7 @@ draft: false
 showComments: true
 characters:
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Rhiannon Carrow|Rhiannon Carrow]]"
+heat: 3
 tags:
   - deep_throat
   - drunk_hookup

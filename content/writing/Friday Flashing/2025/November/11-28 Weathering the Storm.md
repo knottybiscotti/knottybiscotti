@@ -8,6 +8,7 @@ characters:
   - essa_stiik
   - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Vesna Nováková|Vesna Nováková]]"
 series: Friday Flashing
+heat: 2
 tags:
   - alien_protagonist
   - comedy

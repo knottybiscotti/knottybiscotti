@@ -14,6 +14,7 @@ characters:
   - cernunnos
   - the_green_man
 series: Friday Flashing
+heat: 3
 tags:
   - bondage
   - cw_dubious_consent
