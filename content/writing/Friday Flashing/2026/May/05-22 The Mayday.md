@@ -16,7 +16,6 @@ tags:
   - marine_setting
   - mermaid
   - mind_control
-  - ocean_research
   - orgy
   - supernatural
   - surreal
