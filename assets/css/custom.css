@@ -1,3 +1,5 @@
+@import url('https://googleapis.com');
+
 @font-face {
     font-family: Architects Daughter;
     src:  local('Architects Daughter'),
@@ -11,9 +13,9 @@
 }
 
 @font-face {
-    font-family: ABeeZee;
-    src:  local('ABeeZee'),
-    url('../fonts/ABeeZee-Italic.ttf');
+    font-family: M PLUS Rounded 1c;
+    src:  local('M PLUS Rounded 1c'),
+    url('../fonts/');
 }
 
 @font-face {
@@ -46,7 +48,7 @@
     --nav-background:         #DDA15E;
     --nav-text:               #321904;
     --font-title:             'Indie Flower';
-    --font-body:              'ABeeZee';
+    --font-body:              'M PLUS Rounded 1c';
     --font-banner:            'Permanent Marker';
     --sidebar-bg-tag-colour:  #BC6C25;
 }
