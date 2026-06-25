@@ -49,9 +49,9 @@ Supplies came Tuesday. Tinned soup, fresh batteries—the torch has been consumi
 
 The rock has extraordinary acoustic properties. The cave system below the station conducts the tide in curious ways; there is a low sort of hum that I've begun to notice at irregular intervals. It resonates quite distinctly in the walls of the lamp room. Remarkable, really. I'd not anticipated the geology being quite so *present.*
 
-I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ~
+I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ᝰᜑ
 
-<span style="font-style: oblique; display: block; text-align: right;">her face</span>
+<div style="text-align: right">h̸̤e̸r̹̉ fa̷ć̴̪e̶͒</span>
 
 I woke before the top of the stairs, which I note primarily because the dream had a vividness I associate with poor sleep. The harmonic from the cave system must be affecting me more than I'd expected—sound at particular frequencies is well documented to disturb sleep architecture.
 
