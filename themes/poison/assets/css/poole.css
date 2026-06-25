@@ -35,6 +35,8 @@
  * Update the foundational and global aspects of the page.
  */
 
+@import url('https://googleapis.com');
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
