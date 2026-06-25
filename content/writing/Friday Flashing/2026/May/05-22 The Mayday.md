@@ -10,12 +10,13 @@ series: Friday Flashing
 heat: 3
 tags:
   - bukkake
+  - canadian_setting
+  - cw_mind_control
   - cw_non_consent
   - first_contact
   - hopeful
   - marine_setting
   - mermaid
-  - mind_control
   - orgy
   - supernatural
   - surreal
