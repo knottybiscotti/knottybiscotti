@@ -1,7 +1,7 @@
 ---
 title: Siren's Summer
 summary: In the isolated Merrow Point Lighthouse, Keeper Nickerson finds himself enthralled by the simplicity and beauty of his new surroundings. But as the days pass, the lines between reality and fantasy begin to blur. A mysterious presence starts to exert a strange influence over Thomas, drawing him toward a murky future.
-date: 2026-06-26
+date: 2026-06-25
 draft: false
 showComments: true
 characters:
@@ -51,7 +51,7 @@ The rock has extraordinary acoustic properties. The cave system below the statio
 
 I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ᝰᜑ
 
-<div style="text-align: right">h̸̤e̸r̹̉ fa̷ć̴̪e̶͒</span>
+<span style="font-style: oblique; display: block; text-align: right;">h̑eͦrͬ ḟ̠ȃ̗c̚e̷̯</span>
 
 I woke before the top of the stairs, which I note primarily because the dream had a vividness I associate with poor sleep. The harmonic from the cave system must be affecting me more than I'd expected—sound at particular frequencies is well documented to disturb sleep architecture.
 
