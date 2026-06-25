@@ -25,10 +25,7 @@ tags:
   - supernatural
   - surreal
   - tense
-notes: |-
-  A semi-sequel to my #MerMay story "The Mayday" from last month. It's not strictly a sequel, it's just another story in the same universe, featuring my take on mermaids and my riff on Robert Eggers' "The Lighthouse" and the "Smalls Lighthouse Tragedy". This one is aimed RIGHT at the "should I be afraid or aroused?" spot.  I hope I hit my mark!
-
-  Dedicated to my friend xxxzilu on Bluesky! Inspired by her beautiful mermaid at: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j
+notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
