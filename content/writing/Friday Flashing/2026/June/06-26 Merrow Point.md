@@ -31,11 +31,11 @@ notes: |-
   Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful mermaid at: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
-**JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
+**JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**<br/>
 **Appointed: 14 March**
 
-**19 March**
-*"You cannot swim for new horizons until you have courage to lose sight of the shore."*
+**19 March**<br/>
+*"You cannot swim for new horizons until you have courage to lose sight of the shore."*<br/>
 —William Faulkner
 
 I note, with no small degree of pride, that I *have* lost sight of the shore. Six days at Merrow Point and I find myself wondering why it took me this long—why any of us endure the noise and crowding of the world when *this* exists. The rock. The light. The absolute, clarifying simplicity of a single necessary task performed in sublime isolation.
@@ -44,7 +44,7 @@ The previous keeper left things in good order, for which I'm grateful, though th
 
 The light itself is extraordinary. Automated, yes—my role is maintenance and record-keeping rather than anything so romantic as manning the lamp—but at night, watching the beam sweep the Atlantic, I feel the not inconsiderable satisfaction of a man who has finally put himself in the right place.
 
-**4 April**
+**4 April**<br/>
 Supplies came Tuesday. Tinned soup, fresh batteries—the torch has been consuming them at an unreasonable rate—two paperbacks I'd requested and a letter I will address at a later time.
 
 The rock has extraordinary acoustic properties. The cave system below the station conducts the tide in curious ways; there is a low sort of hum that I've begun to notice at irregular intervals. It resonates quite distinctly in the walls of the lamp room. Remarkable, really. I'd not anticipated the geology being quite so *present.*
@@ -133,20 +133,26 @@ She slips off the rail.
 
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
 
-**Undated**
+ **Undated**
+<blockquote>
 she came bak
+<blockquote>
+<blockquote>
             the windw is open
+</blockquote>
 	for her
+</blockquote>
+</blockquote>
 
 ***
 
-*CCGS Private LeHave VC*
-*Department of Fisheries and Oceans*
+*CCGS Private LeHave VC*<br/>
+*Department of Fisheries and Oceans*0
 
 **Incident Classification: Keeper Wellbeing—Unscheduled**
 
-**Merrow Point Lighthouse—Station Report**
-**Attending Officer:** M. Chouinard
+**Merrow Point Lighthouse—Station Report**<br/>
+**Attending Officer:** M. Chouinard<br/>
 **Date of Inspection:** 17 April
 
 Station found in satisfactory operational condition. Light functioning within normal parameters. Station log current to 14 April. Keeper quarters tidy. No signs of forced entry or structural damage.
