@@ -25,7 +25,10 @@ tags:
   - supernatural
   - surreal
   - tense
-notes:
+notes: |-
+  A semi-sequel to my #MerMay story "The Mayday" from last month. It's not strictly a sequel, it's just another story in the same universe, featuring my take on mermaids and my riff on Robert Eggers' "The Lighthouse" and the "Smalls Lighthouse Tragedy". This one is aimed RIGHT at the "should I be afraid or aroused?" spot.  I hope I hit my mark!
+
+  Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful mermaid at: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
@@ -46,7 +49,7 @@ Supplies came Tuesday. Tinned soup, fresh batteries—the torch has been consumi
 
 The rock has extraordinary acoustic properties. The cave system below the station conducts the tide in curious ways; there is a low sort of hum that I've begun to notice at irregular intervals. It resonates quite distinctly in the walls of the lamp room. Remarkable, really. I'd not anticipated the geology being quite so *present.*
 
-I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ᝰᜑ
+I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ~
 
 <span style="font-style: oblique; display: block; text-align: right;">her face</span>
 
