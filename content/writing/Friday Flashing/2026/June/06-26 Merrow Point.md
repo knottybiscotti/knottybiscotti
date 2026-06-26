@@ -149,7 +149,7 @@ she came bak
 ***
 
 *CCGS Private LeHave VC*<br/>
-*Department of Fisheries and Oceans*0
+*Department of Fisheries and Oceans*
 
 **Incident Classification: Keeper Wellbeing—Unscheduled**
 
