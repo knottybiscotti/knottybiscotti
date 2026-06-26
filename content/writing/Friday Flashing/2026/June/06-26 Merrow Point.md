@@ -1,7 +1,7 @@
 ---
 title: Siren's Summer
 summary: In the isolated Merrow Point Lighthouse, Keeper Nickerson finds himself enthralled by the simplicity and beauty of his new surroundings. But as the days pass, the lines between reality and fantasy begin to blur. A mysterious presence starts to exert a strange influence over Thomas, drawing him toward a murky future.
-date: 2026-06-25
+date: 2026-06-26
 draft: false
 showComments: true
 characters:
@@ -27,8 +27,8 @@ tags:
   - tense
 notes: |-
   A semi-sequel to my #MerMay story "The Mayday" from last month. It's not strictly a sequel, it's just another story in the same universe, featuring my take on mermaids and my riff on Robert Eggers' "The Lighthouse" and the "Smalls Lighthouse Tragedy". This one is aimed RIGHT at the "should I be afraid or aroused?" spot.  I hope I hit my mark!
-
-  Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful mermaid at: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j
+  <br/>
+  Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful <a href=https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j>mermaid</a> on Bluesky!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**<br/>
@@ -134,15 +134,17 @@ She slips off the rail.
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
 
  **Undated**
-<blockquote>
+<ul>
 she came bak
-<blockquote>
-<blockquote>
+<ul>
+<ul>
+<ul>
             the windw is open
-</blockquote>
+</ul>
+</ul>
 	for her
-</blockquote>
-</blockquote>
+</ul>
+</ul>
 
 ***
 
