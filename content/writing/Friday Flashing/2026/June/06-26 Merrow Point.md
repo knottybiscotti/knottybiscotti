@@ -28,7 +28,7 @@ tags:
 notes: |-
   A semi-sequel to my #MerMay story "The Mayday" from last month. It's not strictly a sequel, it's just another story in the same universe, featuring my take on mermaids and my riff on Robert Eggers' "The Lighthouse" and the "Smalls Lighthouse Tragedy". This one is aimed RIGHT at the "should I be afraid or aroused?" spot.  I hope I hit my mark!
   <br/>
-  Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful <a href=https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j>mermaid</a> on Bluesky!
+  Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful mermaid: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j on Bluesky!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 **JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**<br/>
