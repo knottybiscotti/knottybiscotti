@@ -65,6 +65,8 @@ The lamp sweeps. In the light: a woman on the equipment housing, watching him wi
 
 In the dark: the sound of the Atlantic, sixty feet below.
 
+![Thessaly on a tiny islet](/writing/media/FridayFlashing/Thessaly.png)
+
 Thomas stands motionless in the doorway, and his mind, which has never once in thirty-eight years stopped producing commentary, is silent. The rotating beam comes around again. She is still there. Raven-coloured hair plastered against her collarbone. Oddly pointed ears. Full breasts, nipples drawn tight in the cold air. Her scaled hips catching the light and throwing it back transformed—grey-green to silver to a colour that he names 'red'.
 
 Her tail hangs over the edge of the housing, moving lazily.
