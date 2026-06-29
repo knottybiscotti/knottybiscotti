@@ -31,149 +31,140 @@ notes: |-
   Dedicated to my friend @xxxzilu.bsky.social! Inspired by her beautiful mermaid: https://bsky.app/profile/xxxzilu.bsky.social/post/3mmkkesfioh2j on Bluesky!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
-**JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**<br/>
-**Appointed: 14 March**
+The July evening air was thick, and heavy with the scent of trampled grass and expensive floral perfume. In the centre of *Elmore City* town square, Mayor Moore stood atop a stage, behind a podium of polished mahogany. He looked every bit the pillar of the community: waistcoat pressed, hair slicked back, his voice booming with a practised, rhythmic authority that commanded the attention of the three hundred souls gathered before him.
 
-**19 March**<br/>
-*"You cannot swim for new horizons until you have courage to lose sight of the shore."*<br/>
-—William Faulkner
+"…and so, as we embark upon a new season," Moore proclaimed, his hand sweeping grandly toward the darkening sky, "we must remember that the strength of our town lies not in festivities, but in our *character*. We must guard against the creeping shadows of impropriety. Let us hold fast to the virtues of modesty…"
 
-I note, with no small degree of pride, that I *have* lost sight of the shore. Six days at Merrow Point and I find myself wondering why it took me this long—why any of us endure the noise and crowding of the world when *this* exists. The rock. The light. The absolute, clarifying simplicity of a single necessary task performed in sublime isolation.
+Twenty feet behind the heavy velvet curtain of the main stage, hidden within the dense, unruly embrace of the ornamental hydrangeas, Ariel felt like she was going to vibrate right out of her skin.
 
-The previous keeper left things in good order, for which I'm grateful, though their reading material leaves something to be desired. Three spy thrillers, a tide table and an issue of *Lloyd's List* from 2012. I've shelved my own books alongside and already the room feels properly inhabited.
+"*Dad*," she whispered anxiously to herself. "Everyone *knows* this one already."  The hoodie she’d thrown on to ward off the evening damp felt suddenly, oppressively hot. 
 
-The light itself is extraordinary. Automated, yes—my role is maintenance and record-keeping rather than anything so romantic as manning the lamp—but at night, watching the beam sweep the Atlantic, I feel the not inconsiderable satisfaction of a man who has finally put himself in the right place.
+"Then stop listening to him," a low, melodic voice commanded.
 
-**4 April**<br/>
-Supplies came Tuesday. Tinned soup, fresh batteries—the torch has been consuming them at an unreasonable rate—two paperbacks I'd requested and a letter I will address at a later time.
+A hand, warm and startlingly firm, slid around Ariel's waist, pulling her backward into the deeper shadows of the shrubbery. Ariel let out a small gasp, her breath hitching as she was pressed against a solid, feminine warmth.
 
-The rock has extraordinary acoustic properties. The cave system below the station conducts the tide in curious ways; there is a low sort of hum that I've begun to notice at irregular intervals. It resonates quite distinctly in the walls of the lamp room. Remarkable, really. I'd not anticipated the geology being quite so *present.*
+Renée was a only year older, but in the dim, filtered light of the fête lanterns, she looked effortlessly confident. She smelled of vanilla and something sharper, almost electric. Her fingers, long and steady, didn't tremble like Ariel's. They moved with the precision of someone who always knew what she was doing. At the moment, they were playing with the zipper of Ariel's sweater.
 
-I dreamt last night of a woman on the stairs. She was dripping seawater onto the iron steps. The sound ᝰᜑ
+"Renée," Ariel felt her face flush as she turned in the older girl's embrace. "What if someone walks behind the stage—if my mother sees—"
 
-<span style="font-style: oblique; display: block; text-align: right;">h̑eͦrͬ ḟ̠ȃ̗c̚e̷̯</span>
+"Your mother's busy discussing the importance of civic duty with the deacon." Renée's lips brushed the very edge of Ariel's earlobe. She shivered despite the heat, but then Renée leaned in closer, her body a heavy, grounding weight against Ariel's trembling frame. "And your father is busy sanctifying the air with his own ego. No one is looking at the bushes. They are all looking at him."
 
-I woke before the top of the stairs, which I note primarily because the dream had a vividness I associate with poor sleep. The harmonic from the cave system must be affecting me more than I'd expected—sound at particular frequencies is well documented to disturb sleep architecture.
+Renée's hand travelled upward, her palm grazing the soft underside of Ariel's jaw, tilting her head back. It was a gentle command, an unspoken *‘look at me.’* Ariel obeyed.
 
-I've ordered earplugs with the next supply run.
+"You're shaking," Renée noted, her voice dropping an octave, sending another chill over Ariel's skin. She reached down, her hand sliding beneath the hem of Ariel’s skirt, her fingers finding the sensitive, pale skin of her thigh. "Is it the speech?"
 
-The two new paperbacks are excellent. The soup less so.
+Ariel's throat had gone dry, her heart pounded so hard she was sure the her father would hear it over his own booming rhetoric. The sensation of Renée's palm—steady, warm, and utterly certain—made Ariel’s knees feel like they might simply dissolve into the dirt.
 
-***
+"I…I don't know," she stammered, a tiny, pathetic lie that died the moment Renée's thumb traced a slow, deliberate circle on the inside of her leg.
 
-The lamp sweeps. In the light: a woman on the equipment housing, watching him with luminous amber eyes.
+"Liar," Renée teased, a wicked smirk appearing on her lips. "You know exactly what it is."
 
-In the dark: the sound of the Atlantic, sixty feet below.
+On stage, the Mayor's voice rose in a crescendo of moral certainty. "…for a town without discipline is a town without a future! Let us embrace the *joy* of *temperance*!"
 
-Thomas stands motionless in the doorway, and his mind, which has never once in thirty-eight years stopped producing commentary, is silent. The rotating beam comes around again. She is still there. Raven-coloured hair plastered against her collarbone. Oddly pointed ears. Full breasts, nipples drawn tight in the cold air. Her scaled hips catching the light and throwing it back transformed—grey-green to silver to a colour that he names 'red'.
+Renée’s fingers moved higher, brushing against the lace of Ariel's underwear, and Ariel let out a shrill *aaah!* that was swallowed by the first, distant *thud* of a test firework echoing from the hills on the far side of the lake.
 
-Her tail hangs over the edge of the housing, moving lazily.
-
-She makes a sound.
-
-It isn't language, but it *is* shaped like a question. Thomas's body answers—a loosening across his shoulders, warmth flooding his abdomen—and he watches himself cross the lamp room floor.
-
-![Thessaly on a tiny islet](/writing/media/FridayFlashing/Thessaly.png)
-*This is a dream,* he thinks.
-
-*This is **real**,* he thinks.
-
-Her hand, when she places it flat against his sternum, is like ice. The fingers are too long. The palm is faintly textured, and Thomas can feel his own heartbeat through it.
-
-*This is the most intimate thing that has ever happened to me,* he thinks.
-
-She spreads her fingers wider. The lamp sweeps.
-
-In the dark: she sings.
-
-It starts below hearing, in the rock, in the iron walls, in the fillings of his back teeth. As the frequency lifts, Thomas begins to truly *see*. The rehearsed arguments stop first. The catalogued regrets. The letter he didn't answer and his novel, sitting almost finished for two years, and the soft, background shame he carries about both. These things become, very suddenly, extraordinarily uninteresting.
-
-What remains is Thomas, without all that. He is surprised by how much of him is left.
-
-His hands find her without instruction. She is cool and faintly scaled even on her torso, and where his warmth meets her skin the 'red' becomes a glow. It's not red, of course, it's her *song*. She makes a low, satisfied sound against his throat, and her tail coils around his hips with a strength that should terrify. It does not.
-
-Her too-long fingers find his waistband. They strip him with an efficiency that briefly resurrects Thomas's self-consciousness—he is a thirty-eight year old academic in a raincoat on a rock in the Atlantic—and then she wraps her cool fingers around his cock and any nervousness evaporates.
-
-The lamp sweeps.
-
-She strokes him slowly and those strange eyes focus on his face. He is fully hard—bordering on painful—and the slick chill of her grip and the heat of his own blood is a sensation he cannot name. Her thumb traces around the edges of his tip and Thomas makes a brand new sound.
-
-She smiles.
-
-Thomas looks at that mouth—those teeth, hair-thin, row on row, nothing at all human about them—and wants to kiss her more than he has wanted anything.
-
-She draws him toward her by his cock, and guides him against the join of her tail where her scales shift and part, where she is *warm* and *wet*, not from seawater. When he glides into her warmth the song spikes—a single high 'note' *thrumming* through the base of his skull—and Thomas's hands grip the equipment housing like a drowning man holding a life-preserver.
-
-Her tail coils tighter. It is *immensely* strong. It sets the pace, one that is hers entirely, and Thomas understands with exceeding clarity: he is not a participant, he is an instrument being played. The understanding doesn't bring humiliation; he is bathed in a profound relief.
-
-She rolls her hips. He gasps. She does it again, slower, watching his face, and the song rises and rises and he is moving with her now, into her—*pussy*?—the heat inside of her, the cold of her scales against his thighs, her nails raking his back.
-
-She lowers her head to his shoulder and he feels the needle teeth graze his skin—not breaking it, just reminding him—and the sensation rockets through him.
-
-Twice she brings him to the edge and withdraws the song. It is a receding tide. He sags against her both times, shaking, sweat-damp and half-frozen and barely coherent, and both times she makes a *sound*—amusement—while her tail holds him fast, her hand working him slowly back down to something merely unbearable.
-
-*Please,* Thomas says, or thinks, or the word only exists between them.
-
-The third time she doesn't withdraw.
-
-The song gives him permission. The song *commands*.
-
-Thomas's hips slam forward once, twice, helplessly, and then he is coming with a force that whites out the lamp, the cold, the Atlantic, the letter, the book, the last two years—all of it gone, all of it irrelevant, his voice ragged and his hands gripping the equipment housing and her name—*Thessaly*—arriving in his mind like a rogue wave, enormous and dark.
+Renée leaned in, her eyes trapping Ariel's with an intensity that put a lump of panic in the pit of her stomach. "There," Renée murmured as her thumb pressed firmly against the centre of Ariel's heat through the lace. "The show's starting. How much *virtue* you got for me?"
 
 ***
 
-Stillness.
+The sky over the town began to bloom. A rhythmic *thud-thud-thud* signalled the start of the pyrotechnics, and with every burst of colour, the world behind the stage felt more disconnected from the town itself. The light from the fireworks flickered through the leaves, casting dancing, erratic shadows across the two girls.
 
-The lamp sweeps over a man sitting on the iron floor, back against the equipment housing, hands open in his lap.
+"Renée, please... someone's going to—" Ariel tried to protest but it ended in a gasp.
 
-*Thessaly* is at the gallery window. She looks back once.
+Renée had shifted, her weight pressing Ariel down into the soft, cool mulch of the garden bed. She hooked her fingers into the waistband of Ariel’s lace undies and pulled them down, filling Ariel with a brand new mix of excitement and terror.
 
-She slips off the rail.
+"The fireworks are starting, Ariel," Renée's voice was a low, commanding hum against Ariel's ear. "Use them. Every time there’s a bang, I want you to give me a sound. Do you understand?"
+
+Ariel went cold, but in her core was an aching, undeniable need. "Wh—wh—I *can't*!"
+
+"You **will**," Renée countered. She moved with a feline grace, straddling Ariel’s hips, her skirt bunching up around her waist. Renée sat back on her heels, looming over Ariel. The authority in her gaze was absolute. "Now, stay still. Let me show you how to take it."
+
+*BOOM.*  A golden chrysanthemum burst in the sky, illuminating the scene in a brilliant flash.
+
+Renée leaned forward, her hands sliding under Ariel's thighs, pulling them wide and anchoring them against her own hips. She didn't go for deep penetration immediately; instead, she leaned down, her hair falling like a curtain around them, and began to kiss the hollow of Ariel's throat with a slow, deliberate pressure.
+
+"Mmmph... Renée..." Ariel whimpered, her head tossing back against the dirt.
+
+"Shh. Listen to the sky," Renée commanded.
+
+*CRACK-BOOM.*
+
+A spray of red sparks rained down over the crowd. On stage, the Mayor’s voice drifted toward them, sounding thin and distant. "…we will *reject* the temptations that lead us astray! We must remain steadfast in our discipline!"
+
+In the bushes, the discipline was unravelling. Renée's hand moved with practised, rhythmic precision. She found Ariel’s clitoris, her thumb applying a firm, steady pressure that made Ariel’s hips jerk upward in a desperate, seeking motion.
+
+"That's it," Renée murmured, her voice a soothing, dominant balm. "Don't fight. Just ride it. Like the fireworks. Up and down. Fast and slow."
+
+*POP-POP-POP.*
+
+Small, rapid bursts of light. Renée increased the pace. Her fingers slid in and out of Ariel's pussy, making a soft, squelching sound that seemed to sync perfectly with the staccato bursts of light above. Ariel’s breath was coming in short, frantic pants—*“ha-ha-ha.... haaaauuah”*—her eyes rolling back.
+
+"You're doing perfect," Renée whispered, her own breath seemed to hitch. "You're being such a good girl for me. Such a loud, beautiful girl."
+
+The praise hit Ariel harder than the physical sensation. A wave of heat, a deep, *submissive* thrill, flooded her. She wasn't just being touched; she was being *guided*. She stopped trying to hold her breath, stopped trying to squeeze her eyes shut. She let her mouth hang open, a small, needy moan escaping her every time Renée’s thumb applied that perfect, crushing pressure.
+
+"Look at me. Tell me what you want."
+
+Ariel's eyes snapped to Renée's. They were clouded, unfocused, burning with a raw, unrefined lust. "I... I want... mmm... more. Please. More!"
+
+Renée’s smirk was triumphant. She reached down, her fingers finding the slick, heavy heat of Ariel's desire, and began to drive them deeper, her movements becoming more urgent, more purposeful.
+
+*BOOM. BOOM. BOOM.*
+
+The heavy, booming shells began to fall in a steady, driving cadence. Renée used the rhythm. She set her movements to the thunder of the sky, her hips thrusting against Ariel’s in a slow, powerful drive that forced the air from Ariel's lungs. *“Aaagh... h-ha aaauuuu... oh god, Renée!”*
+
+The Mayor was shouting something about "the sanctity of the home," but his words were nothing more than white noise against the wet, slapping sound of flesh on flesh and the rhythmic, frantic panting of two girls lost in the dark. Renée was in total control, her dominance a shield that allowed Ariel to finally, violently, let go.
+
+***
+
+The sky didn't just burst anymore; it fractured. The finale had begun. A relentless, deafening barrage of light and sound tore through the darkness, turning the night into a strobe-lit fever dream. The air was thick with the acrid, electric scent of cordite and the heavy, musky aroma of their own combined arousal.
+
+"Renée—*haaaauuah!*—Renée, please!"
+
+Ariel was no longer just a girl in the bushes; she was a creature of pure, unadulterated sensation. Her back was arched so violently her spine looked ready to snap, her fingers digging into the damp earth, clutching at roots and dirt as if trying to anchor herself to a world that was rapidly dissolving.
+
+Renée didn't just respond; she took command of the chaos. She shifted her weight, straddling Ariel's hips with a fierce, predatory hunger. She reached down, her hands gripping Ariel’s thighs, pulling them upward and wider, forcing Ariel into a position of total, vulnerable exposure.
+
+"Look at the sky, Ariel!" Renée commanded, her voice a ragged, guttural snarl that barely rose above the thunder of the shells. "Watch the lights! Feel them! Every single one!"
+
+Renée leaned down, her mouth finding Ariel's in a bruising, desperate kiss that tasted of salt and heat. As she moved, she freed her own hands, her fingers finding Ariel's clitoris again , but this time there was no teasing, no slow build. There was only the frantic, driving rhythm of a woman who knew exactly how much more her partner could take.
+
+*BOOM. BOOM. BOOM. BOOM.*
+
+The heavy shells hit the ground with the force of physical blows. Each explosion was met with a sharp, frantic thrust of Renée's fingers, a rhythmic, wet, slapping sound that competed with the thunder.
+
+"There it is! *Give it to me!*" Renée rasped, her eyes burning with a dark, triumphant light. "I want to hear you! Be as loud as the sky!"
+
+Ariel's voice broke. She wasn't just moaning anymore; she was screaming, a high, thin, frantic sound that was lost in the cacophony of the fireworks. *“Aaagh! Oh god, yes! Yes! YES!”* Her hips were bucking uncontrollably, her entire body a frantic, convulsing mess of pleasure.
+
+*CRACK-CRACK-CRACK-BOOM!*
+
+The rapid-fire bursts arrived, and with them, the final, desperate surge. Renée's movements became a blurring, frantic intensity. She was driving herself and Ariel toward the edge with a terrifying, beautiful precision. She used her mouth, her hands, the weight of her body, all of it, all at once. She was a conductor of the storm, and Ariel was her masterpiece.
+
+"Almost there, Ariel! Don't you *dare* hold back! *Take it!*"
+
+The pressure was unbearable. The air seemed to vibrate with the tension between them. Ariel's eyes were rolled back, her mouth open in a silent, wordless plea. She was on the precipice, a trembling, shattered thing.
+
+Then, the sky reached its crescendo. A massive, blindingly white shell detonated directly overhead, a sound so loud it felt like it was tearing the atmosphere apart.
+
+At that exact moment, Ariel's world exploded. A violent, convulsive, bone-shaking orgasm ripped through her, her body shuddering so hard it felt as if she might shatter into dust. Her scream was swallowed by the white light.
+
+Renée didn't wait. She let out a low, guttural growl, her own climax hitting her like a physical blow, a deep, throbbing release that left her gasping and spent. She collapsed forward, her weight pressing Ariel into the soft, ruined earth, their bodies tangled, sweating, and trembling in the aftermath of the blast.
+
+The sky continued to crackle, but the world had gone silent. The only sounds left were the ragged, syncopated gasps of two girls, and the distant, fading echoes of a town that had no idea how much sin was being committed in its very shadows.
 
 ***
 
-**JOURNAL OF THOMAS NICKERSON—Keeper, Merrow Point Lighthouse**
+The thunder of the finale faded, leaving a heavy, ringing silence in its wake. The smoke drifted lazily over the town square, a ghostly shroud settling over the crowd as the cheers for the display began to swell. Mayor Moore wore a satisfied smile as he stepped toward the edge of the stage, looking every bit the triumphant guardian of morality.
 
- **Undated**
-<ul>
-she came bak
-<ul>
-<ul>
-<ul>
-            the windw is open
-</ul>
-</ul>
-	for her
-</ul>
-</ul>
+A few yards away from the stage, within the dappled shade of an ancient elm and partially screened by a wall of hydrangeas, two figures sat on a stone bench. They were perfectly composed, the very image of small-town grace.
 
-***
+Ethel McCormack smoothed the front of her silk blouse, her movements poised and deliberate. She took a contemplative sip of her iced tea, her eyes fixed on the shrubbery where now there was only the soft, rhythmic breathing of two young women.
 
-*CCGS Private LeHave VC*<br/>
-*Department of Fisheries and Oceans*
+Then, a muffled, breathless laugh drifted from the bushes—a sound of pure, unburdened relief.
 
-**Incident Classification: Keeper Wellbeing—Unscheduled**
+The ghost of a satisfied smile crossed Vi Moore's lips—the look of a director watching a well-rehearsed play reach its successful conclusion. She reached into her small clutch and pulled out a single sugar packet, extending it toward Ethel.
 
-**Merrow Point Lighthouse—Station Report**<br/>
-**Attending Officer:** M. Chouinard<br/>
-**Date of Inspection:** 17 April
+Ethel took it, her fingers brushing Vi’s in the moonlight—a familiar, unhurried touch. They share a quiet exhale, a shared breath of recognition. In a town built on the rigid architecture of reputation, they know better than anyone that the most important part isn't the truth—it's the seamlessness of the lie.
 
-Station found in satisfactory operational condition. Light functioning within normal parameters. Station log current to 14 April. Keeper quarters tidy. No signs of forced entry or structural damage.
-
-Keeper T. Nickerson was not present at time of inspection.
-
-Personal effects remain on site. No indication of voluntary departure. Supply vessel *C236596QC Les Douces Profondeurs* confirmed presence of Nickerson, no passengers taken on, 11 April.
-
-The following items were noted and/or retained for administrative purposes:
-
-- Personal journal, recovered from lamp room floor, most recent entry undated
-- One ceramic mug, contents cold, unspoiled
-- Lamp room gallery window found open
-- Search of rock and shoreline conducted, Nickerson not located
-
-No further findings.
-
-*File referred to RCMP detachment, Lunenburg, NS*
-
-***
-<signature>Knotty</signature>
+They rise in unison, smoothing their skirts, and turn back toward the light of the square, walking side-by-side into the crowd like any other pillars of the community.

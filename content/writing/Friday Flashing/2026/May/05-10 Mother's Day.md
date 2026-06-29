@@ -14,7 +14,6 @@ tags:
   - f_f
   - first_time
   - flash_fiction
-  - forbidden_desire
   - friday_flashing
   - incest
   - mother_daughter
