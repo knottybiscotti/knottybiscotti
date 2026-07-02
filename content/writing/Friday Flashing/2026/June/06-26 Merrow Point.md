@@ -14,10 +14,10 @@ tags:
   - cw_mind_control
   - cw_non_consent
   - epistolary
+  - f_m
   - first_contact
   - friday_flashing
   - isolation
-  - m_f
   - marine_setting
   - mermaid
   - mythological
