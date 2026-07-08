@@ -24,7 +24,6 @@ tags:
   - pain
   - pet_play
   - sapphic
-  - scissoring
   - submissive
   - temperature_play
   - tribadism

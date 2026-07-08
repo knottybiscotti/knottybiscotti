@@ -22,6 +22,8 @@ tags:
   - public
   - sapphic
   - secret_sex
+  - submissive
+  - summer
   - warm_front
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png

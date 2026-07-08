@@ -25,6 +25,7 @@ tags:
   - skinny_dipping
   - warm_front
   - writers_block
+  - writer_character
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---

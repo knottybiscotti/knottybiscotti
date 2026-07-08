@@ -18,8 +18,6 @@ tags:
   - masturbation
   - playful
   - sci_fi
-  - series_liminal_space
-  - sexual_tension
   - space_setting
   - strangers
 notes: |-

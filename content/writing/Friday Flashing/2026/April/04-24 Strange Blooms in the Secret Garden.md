@@ -14,14 +14,15 @@ tags:
   - bio_dome
   - dildo
   - explicit
+  - f_f
   - forced_proximity
   - friday_flashing
+  - horror
   - improvised_toy
   - sapphic
-  - sci_fi_horror
+  - sci_fi
   - sex_toy
   - space_setting
-  - story
   - strangers
   - survival
 notes: Happy (almost) (LV-)4/26 day! Yeah, it's niche, but I'm niche and I ADORE the Alien franchise, ugly, messy, stupid, infuriating divergences and all! So have some sapphic, Alien smut!  Also, yep, a REALLY deep cut for plant nerds, but trust me. Take a look at a poppy beginning to bloom and tell me what YOU see!  https://www.facebook.com/groups/2203597343006819/posts/5703319179701267/ I know you see it. It's okay, it's one of the primary influences for this story! Y'girl's a juvenile perv!

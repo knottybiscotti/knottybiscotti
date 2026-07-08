@@ -21,7 +21,6 @@ tags:
   - non_binary
   - oral_sex
   - sensual
-  - series_standalone
   - strangers
   - surreal
   - tense

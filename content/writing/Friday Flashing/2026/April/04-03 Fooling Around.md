@@ -18,12 +18,10 @@ tags:
   - hold_the_moan
   - masturbation
   - playful
-  - prank_war
   - remote_controlled
   - roommates
   - sapphic
   - sex_toy
-  - turning_the_tables
   - warm_front
 notes:
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
