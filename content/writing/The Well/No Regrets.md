@@ -1,5 +1,5 @@
 ---
-title: "No Regrets: Chapter 1"
+title: "Chapter 1: No Regrets"
 summary: Wherein Talula Goodman returns home after a long time on the road and encounters a childhood friend.
 date: 2025-04-27
 draft: false
