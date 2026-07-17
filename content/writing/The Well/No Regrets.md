@@ -5,8 +5,8 @@ date: 2025-04-27
 draft: false
 showComments: true
 characters:
-  - talula_goodman
-  - mary_mawdsley
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Talula Goodman|Talula Goodman]]"
+  - "[[Work In Progress/Flash 2025-10 to 2026-09/Characters/Mary Mawdsley|Mary Mawdsley]]"
 series: The Well
 heat: 3
 tags:
@@ -65,7 +65,7 @@ Her unbleached linen shirt was soaked through with sweat and over it her light b
 
 "*The Rose* ain't open yet," she rasped in reply, staring intently down at her folded hands as she sat at the bar of *The Velvet*, the best and only brothel within 50 miles of *No Regrets*.
 
-"No, I imagine they aren't," Mary said softly as her fingertips trailed over Talula's shoulders. "Bert doesn't often rise before eleven and they never open before Bert's awake."
+"No, I imagine they aren't," Mary said softly as her fingertips trailed over Talula's shoulders. "Rufus doesn't often rise before eleven and they never open before Rufus is awake."
 
 Blinking slowly, Talula turned her head so she could look Mary Mawdsley in the eye, wincing slightly at a cramp in her neck. Somehow she was even more beautiful than Talula remembered. She towered at nearly six feet tall where Talula was short, not even five foot. Her face was warm and clear and her skin was a flawless caramel compared to Talula's pale, freckled white. Her sable hair was shiny and done up in three large puffs atop her head, with flowers in the largest of the three, and a broad braid down the back of her neck that reached below her shoulders. Conversely, Talula's hair was flat, dry and, when not tied in a plait, lifeless. Mary's figure, accentuated by her dress and undergarments certainly, but nevertheless breathtaking, shamed Talula's squarish, mannish build. Mary had curves and swells and fat everywhere men—and certain types of broken women—found irresistible. Talula had been mistaken for a man more times than she could count, and not always by ones that was already cockeyed.
 
@@ -105,7 +105,7 @@ Torn between looking tired and sullen, Talula simply stood inside the door of Ma
 
 "Would you please, Lu?" Mary asked gently as she sat down at the table, gesturing to the chair opposite. "Elbert's fetching us something to eat, we can talk while we wait."
 
-Talula opened her mouth and tried to draw forth harsh bravado, she wanted to say something sharp and biting that would snuff out the look in Mary's eyes. The look of kind welcome, gentle affection, a look she probably practised in the mirror every morning. She wanted to put an end to this here and now. Mary would throw her out and she could sit outside the *Cactus Rose* until Bert finally woke and opened the door for her. She wanted that but her body and her brain both rebelled. "Thank you," she said simply and shuffled over to take the free seat at the table.
+Talula opened her mouth and tried to draw forth harsh bravado, she wanted to say something sharp and biting that would snuff out the look in Mary's eyes. The look of kind welcome, gentle affection, a look she probably practised in the mirror every morning. She wanted to put an end to this here and now. Mary would throw her out and she could sit outside the *Cactus Rose* until Rufus finally woke and opened the door for her. She wanted that but her body and her brain both rebelled. "Thank you," she said simply and shuffled over to take the free seat at the table.
 
 "You been gone a long time," Mary said after an uncomfortably long pause. "I know you ain't here to put your guns down." Was that a hint of hope in Mary's voice? "Least not yet."
 
