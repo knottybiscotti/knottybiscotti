@@ -23,7 +23,7 @@ tags:
   - tender
   - trans_character
   - warm_front
-notes: I hadn't planned to revisit these girls, but like so many of my characters, they've decided they like hanging out with me. So here we go! A light sequel to [Marco Polo](Published/content/writing/Friday%20Flashing/2026/June/06-12%20Marco%20Polo.md).
+notes: I hadn't planned to revisit these girls, but like so many of my characters, they've decided they like hanging out with me. So here we go! A light sequel to [Marco Polo](https://knottybiscotti.github.io/knottybiscotti/writing/friday-flashing/2026/june/06-12-marco-polo/).
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 Heather thrashed about on the couch next to Vanessa. "Holy shit, Van! Why do your mom and dad keep it so cold in here?" She seemed to find what she was looking for, a fleece blanket bearing a stylised print of *Mesa Butte*. She cocooned herself within the cosy folds.
