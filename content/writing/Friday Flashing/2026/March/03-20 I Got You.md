@@ -6,6 +6,7 @@ draft: false
 showComments: true
 characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
+  - jude
 series: Friday Flashing
 heat: 2
 tags:
