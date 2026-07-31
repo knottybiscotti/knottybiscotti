@@ -8,6 +8,7 @@ characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
   - jude
 series: Friday Flashing
+heat: 2
 tags:
   - anonymous_sex
   - blade_runner_franchise
