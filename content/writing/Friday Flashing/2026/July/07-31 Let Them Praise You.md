@@ -2,7 +2,7 @@
 title: Let Them Praise You
 summary: Los Angeles. Imani has been sleeping for weeks and is still exhausted. Jude takes her somewhere nobody knows her and nobody wants anything from her, where all she has to say is yes or no.
 date: 2026-07-31
-draft: true
+draft: false
 showComments: true
 characters:
   - "[[Random Ideas/Characters/Imani Zan|Imani Zan]]"
@@ -27,10 +27,10 @@ tags:
   - secret_gathering
   - strap_on
   - tender
-notes:
+notes: Look who's back! So, when I first conceived of this story last September, I had skimped a bit on even my outline and vibe notes. I figured I had the rest of 2025 and seven more months, almost, to figure it out. Once I'd developed Imani's character bible, though, I immediately knew it was going somewhere completely different!  So here we are, back with Imani and Jude, back in the Blade Runner universe and this time doing something completely different! If you're looking for the previous story with these ladies, you'll find it in the archives on March 20th. It's titled "I Got You".
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
-"*Lófaszt!* This fucking *thing*!" Imani held the gleaming metal skewer like it was a dagger. She stabbed again, swearing again, and again. The petulant garbage disposal only growled.
+"*Lófaszt!* This *fucking* thing!" Imani held the gleaming metal skewer like it was a dagger. She stabbed again, swearing again, and again. The petulant garbage disposal only growled.
 
 "'mani," Jude began softly from somewhere behind her.
 
