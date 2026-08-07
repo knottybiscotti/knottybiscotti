@@ -25,7 +25,7 @@ tags:
   - summer
   - unnamed_narrator
   - warm_front
-notes:
+notes: I really can't help myself. This is probably not the best thing I've ever written, but THIS is the story I've been most excited about writing since I sketched out this year-long project last August/September. I love the confluence of elements. The stifling heat, the (mostly) silent protagonist, the languid, almost syrupy feel of mid-summer nights, all counter-balanced against the razor-sharp edge of "I'm committing a crime! A sex crime! I hope someone is watching!" in one, TIGHT little package. I will adore this piece to the end of my days!
 thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 I check my phone.
