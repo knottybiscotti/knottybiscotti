@@ -30,9 +30,9 @@ thumbnail: /knottybiscotti/writing/media/Series/friday-flashing.png
 ---
 I check my phone.
 
-> 03:11
-> Fri, 07 Aug
-> ☁️ 37℃ (99℉)
+> 03:11<br/>
+> Fri, 07 Aug<br/>
+> ☁️ 37℃ (99℉)<br/>
 
 It's been 37℃ since the sun went down.
 
@@ -70,7 +70,7 @@ And then, there I am, sitting on a rooftop in August in nothing but a soaked whi
 
 I open my bag. Set the water bottle beside the chair, then nervously unwrap the dildo.
 
-It's laughable. The silicone is an ugly marble of red, brown, and yellow. It reminds me of those *super bouncy balls*. Along the underside are ridged *plates* like scales. The head is *uncut* and not fully exposed, with a curve at the tip that I remember thinking, in the store, *that's going to be a problem* and then, two nights later, ***oh**. Oh, that's not a problem at all.*
+It's laughable. The silicone is an ugly marble of red, brown, and yellow. It reminds me of those *super bouncy balls*. Along the underside are ridged *plates* like scales. The head is *uncut* and not fully exposed, with a curve at the tip that I remember thinking, in the store, *that's going to be a problem* and then, two nights later, ***Oh**! Oh, that's not a problem **at all**.*
 
 I won't need the lube. I check anyway, two fingers between my legs, separate my outer lips while my middle finger slides between them. I am *soaked*—have been soaked since the stairwell, maybe since I packed the bag knowing I would do this.
 
@@ -118,9 +118,9 @@ I *scream*! A raw, *animal* howl that tears out of my throat and thunders into t
 
 I check my phone.
 
-> 04:44
-> Fri, 07 Aug
-> 🌙 27℃ (81℉)
+> 04:44<br/>
+> Fri, 07 Aug<br/>
+> 🌙 27℃ (81℉)<br/>
 
 It feels much cooler now. I repack my bag and dress. My panties feel *cold*, still sweat-damp but no longer body-warm.
 
