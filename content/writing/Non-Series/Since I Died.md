@@ -7,7 +7,7 @@ showComments: true
 characters:
   - unnamed_narrator
 series: No Rights Reserved
-heat: 1
+heat: 0
 tags:
   - afterlife
   - cw_death
